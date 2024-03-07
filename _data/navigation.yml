@@ -7,35 +7,35 @@ main:
   # - title: "MiniConf"
   #   url: https://virtual2023.emnlp.org/
     
-  - title: "Program"
-    url: /program/
+  # - title: "Program"
+  #   url: /program/
 
-  - title: "Registration"
-    url: /registration/
+  #- title: "Registration"
+  #  url: /registration/
 
-  - title: "Participants Info"
-    url: /participants/
+  # - title: "Participants Info"
+  #   url: /participants/
 
   - title: "Calls"
-    url: /calls/subsidies/
+    url: /calls/main_conference_papers/
   
-  - title: "Venue"
-    url: /venue
+  # - title: "Venue"
+  #   url: /venue
 
-  - title: "Blog"
-    url: /blog/
+  # - title: "Blog"
+  #   url: /blog/
       
   - title: "Committees"
     url: /organization
   
-  - title: "Sponsors"
-    url: /sponsors/
+  # - title: "Sponsors"
+  #   url: /sponsors/
   
   - title: "Contact"
     url: /contact 
     
-  - title: "Volunteers"
-    url: /volunteers 
+  # - title: "Volunteers"
+  #   url: /volunteers 
     
 
 
@@ -47,43 +47,43 @@ main:
 
 
 
-program:
-  - title: "Programs"
-    children:
-      - title: "Conference Overview"
-        url: /program/
-      - title: "Workshops"
-        url: /program/workshops/
-      - title: "Tutorials"
-        url: /program/tutorials/
-  - title: Events
-    children:
-      - title: "Keynotes"
-        url: /program/keynotes/
-      - title: "Social Event"
-        url: /program/social_event/
-      - title: "Panel"
-        url: /program/panel/
-      - title: "Welcome Reception"
-        url: /program/reception/
-      - title: "Birds-of-a-Feather and Affinity Group Meetups"
-        url: /program/bof/
+# program:
+#   - title: "Programs"
+#     children:
+#       - title: "Conference Overview"
+#         url: /program/
+#       - title: "Workshops"
+#         url: /program/workshops/
+#       - title: "Tutorials"
+#         url: /program/tutorials/
+#   - title: Events
+#     children:
+#       - title: "Keynotes"
+#         url: /program/keynotes/
+#       - title: "Social Event"
+#         url: /program/social_event/
+#       - title: "Panel"
+#         url: /program/panel/
+#       - title: "Welcome Reception"
+#         url: /program/reception/
+#       - title: "Birds-of-a-Feather and Affinity Group Meetups"
+#         url: /program/bof/
         
-  - title: "Accepted Papers"
-    children:
-      - title: "Main Conference"
-        url: /program/accepted_main_conference/
-      - title: "Findings"
-        url: /program/accepted_findings/
-      - title: "Industry Track"
-        url: /program/industry/
-      - title: "System Demonstration"
-        url: /program/demo/
+#   - title: "Accepted Papers"
+#     children:
+#       - title: "Main Conference"
+#         url: /program/accepted_main_conference/
+#       - title: "Findings"
+#         url: /program/accepted_findings/
+#       - title: "Industry Track"
+#         url: /program/industry/
+#       - title: "System Demonstration"
+#         url: /program/demo/
 
-  - title: "Awards"
-    children:
-      - title: "Best Papers"
-        url: /program/best_papers/
+#   - title: "Awards"
+#     children:
+#       - title: "Best Papers"
+#         url: /program/best_papers/
 
         
 
@@ -131,22 +131,22 @@ program:
 calls:
   - title: "Call for"
     children:
-      - title: "Diversity & Inclusion Subsidies"
-        url: /calls/subsidies/
-      - title: "Volunteers"
-        url: /volunteers 
+      # - title: "Diversity & Inclusion Subsidies"
+      #   url: /calls/subsidies/
+      # - title: "Volunteers"
+      #   url: /volunteers 
       - title: "Main Conference Papers"
         url: /calls/main_conference_papers/
-      - title: "System Demonstrations"
-        url: /calls/demos/
-      - title: "Industry Track"
-        url: /calls/industry_track/
-      - title: "Style Files and Formatting"
-        url: /calls/style-and-formatting/
+      # - title: "System Demonstrations"
+      #   url: /calls/demos/
+      # - title: "Industry Track"
+      #   url: /calls/industry_track/
+      # - title: "Style Files and Formatting"
+      #   url: /calls/style-and-formatting/
 #       - title: "Volunteers"
 #         url: /calls/volunteers/
-      - title: "Workshops"
-        url: /program/workshops/
+      # - title: "Workshops"
+      #   url: /program/workshops/
   
   #- title: Submission Material
   #  children:
@@ -183,21 +183,21 @@ calls:
     #  - title: "Reviewing Advice"
     #    url: /reviewer/advice/
 
-registration:
-  - title: "Registration"
-    children:
-      - title: "Registration"
-        url: /registration/
-      - title: "Discounted Virtual Registration"
-        url: /registration/discounted_virtual_registration/
+# registration:
+#   - title: "Registration"
+#     children:
+#       - title: "Registration"
+#         url: /registration/
+#       - title: "Discounted Virtual Registration"
+#         url: /registration/discounted_virtual_registration/
 
 committees:
   - title: Committees
     children:
       - title: "Organizing Committee"
         url: /organization/
-      - title: "Senior Program Committee"
-        url: /committees/program/
+      # - title: "Senior Program Committee"
+      #   url: /committees/program/
       # - title: "Ethics Committee"
       #  url: /ethics/committee/
       # - title: "Diversity & Inclusion Committee"
