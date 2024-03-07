@@ -1,0 +1,204 @@
+# main links
+#in masthead.html
+main:
+  # - title: "Proceedings"
+  #   url: "https://aclanthology.org/events/emnlp-2022/"
+
+  # - title: "MiniConf"
+  #   url: https://virtual2023.emnlp.org/
+    
+  - title: "Program"
+    url: /program/
+
+  - title: "Registration"
+    url: /registration/
+
+  - title: "Participants Info"
+    url: /participants/
+
+  - title: "Calls"
+    url: /calls/subsidies/
+  
+  - title: "Venue"
+    url: /venue
+
+  - title: "Blog"
+    url: /blog/
+      
+  - title: "Committees"
+    url: /organization
+  
+  - title: "Sponsors"
+    url: /sponsors/
+  
+  - title: "Contact"
+    url: /contact 
+    
+  - title: "Volunteers"
+    url: /volunteers 
+    
+
+
+  # - title: "FAQ"
+  #   url: /faq/
+ 
+  # - title: "Ethics"
+  #   url: /ethics/faq/
+
+
+
+program:
+  - title: "Programs"
+    children:
+      - title: "Conference Overview"
+        url: /program/
+      - title: "Workshops"
+        url: /program/workshops/
+      - title: "Tutorials"
+        url: /program/tutorials/
+  - title: Events
+    children:
+      - title: "Keynotes"
+        url: /program/keynotes/
+      - title: "Social Event"
+        url: /program/social_event/
+      - title: "Panel"
+        url: /program/panel/
+      - title: "Welcome Reception"
+        url: /program/reception/
+      - title: "Birds-of-a-Feather and Affinity Group Meetups"
+        url: /program/bof/
+        
+  - title: "Accepted Papers"
+    children:
+      - title: "Main Conference"
+        url: /program/accepted_main_conference/
+      - title: "Findings"
+        url: /program/accepted_findings/
+      - title: "Industry Track"
+        url: /program/industry/
+      - title: "System Demonstration"
+        url: /program/demo/
+
+  - title: "Awards"
+    children:
+      - title: "Best Papers"
+        url: /program/best_papers/
+
+        
+
+# program:
+#   - title: EVENTS and ACCEPTED PAPERS
+#     children:
+# #       - title: "Conference Program"
+# #         url: /program/
+#       - title: "Keynotes"
+#         url: /program/keynotes/
+#       - title: "Workshops"
+#         url: /program/workshops/
+#       - title: "Tutorials"
+#         url: /program/tutorials/
+#       - title: "Social Event"
+#         url: /program/social_event/
+#       - title: "Demonstration Track"
+#         url: /program/demo/
+#       - title: "Accepted Papers in the Main Conference"
+#         url: /program/accepted/
+#       - title: "Accepted Papers in the Findings"
+        # url: /program/accepted-findings/
+  # - title: ACCEPTED PAPERS
+  #  children:
+      # - title: "Accepted Papers in the Main Conference"
+      #   url: /program/accepted/
+      # - title: "Accepted Papers in the Findings"
+      #   url: /program/accepted-findings/
+        
+#       - title: "Careers in NLP"
+#         url: /program/careers_in_nlp/
+#      - title: "Social Programs"
+#        url: /program/social/
+#       - title: "Careers in NLP Panel"
+#         url: /program/careerspanel/
+
+# sponsors:
+#   - title: Sponsors
+#     children:
+#       - title: "Booklet: Rates &amp; Benefits"
+#         url: /sponsors/booklet/
+#      - title: "List of Sponsors"
+#        url: /sponsors/list/
+
+calls:
+  - title: "Call for"
+    children:
+      - title: "Diversity & Inclusion Subsidies"
+        url: /calls/subsidies/
+      - title: "Volunteers"
+        url: /volunteers 
+      - title: "Main Conference Papers"
+        url: /calls/main_conference_papers/
+      - title: "System Demonstrations"
+        url: /calls/demos/
+      - title: "Industry Track"
+        url: /calls/industry_track/
+      - title: "Style Files and Formatting"
+        url: /calls/style-and-formatting/
+#       - title: "Volunteers"
+#         url: /calls/volunteers/
+      - title: "Workshops"
+        url: /program/workshops/
+  
+  #- title: Submission Material
+  #  children:
+  #    - title: "Area Descriptions"
+  #      url: /calls/area-descriptions/
+  #    - title: "Style Files and Formatting"
+  #      url: /calls/style-and-formatting/
+  #    - title: "Reproducibility Checklist"
+  #      url: /calls/reproducibility-checklist/
+  #- title: Archived calls
+  #  children:
+  #    - title: "First Call for Papers"
+  #      url: /calls/papers/first/
+  #    - title: "Preliminary Call for Papers"
+  #      url: /calls/papers/prelim/
+
+# ethics:
+#   - title: Ethics
+#     children:
+#       - title: "Ethics FAQ"
+#         url: /ethics/faq/
+#       - title: "Ethics Review Questions"
+#         url: /ethics/review-questions/
+#       - title: "Ethics Committee"
+#         url: /ethics/committee/
+
+# reviewer:
+#   - title: Reviewer
+#     children:
+#       - title: "Reviewer Instructions"
+    #    url: /reviewer/instructions/
+    #  - title: "Example Review Form"
+    #    url: /downloads/NAACL2021-Review-Form.pdf
+    #  - title: "Reviewing Advice"
+    #    url: /reviewer/advice/
+
+registration:
+  - title: "Registration"
+    children:
+      - title: "Registration"
+        url: /registration/
+      - title: "Discounted Virtual Registration"
+        url: /registration/discounted_virtual_registration/
+
+committees:
+  - title: Committees
+    children:
+      - title: "Organizing Committee"
+        url: /organization/
+      - title: "Senior Program Committee"
+        url: /committees/program/
+      # - title: "Ethics Committee"
+      #  url: /ethics/committee/
+      # - title: "Diversity & Inclusion Committee"
+      #  url: /committees/diversity-inclusion/

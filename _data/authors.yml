@@ -1,0 +1,74 @@
+# Authors: TODO: fill this in when publishing blogs.
+
+program-chairs:
+  name        : "Program Chairs"
+  email       : ""
+  bio         : ""
+  avatar      : ""
+
+publicity-chairs:
+  name        : "Publicity Chairs"
+  email       : "ws390@cam.ac.uk"
+  bio         : "Weiwei Sun, Noriki Nishida"
+  avatar      : "/assets/images/logos/emnlp-2023-logo1.png"
+
+diversity-inclusion-chairs:
+  name        : "Diversity & Inclusion Chairs"
+  email       : "thamar.solorio@gmail.com"
+  bio         : "Thamar Solorio, Jing Li, Luisa Bentivogli"
+  avatar      : "/assets/images/logos/emnlp-2023-logo1.png"
+
+volunteer-chairs:
+  name        : "Volunteers Chairs"
+  email       : "mamoru.komachi@gmail.com"
+  bio         : "Mamoru Komachi, Kevin Duh, Ekaterina Kochmar"
+  avatar      : "/assets/images/logos/emnlp-2023-logo1.png"
+
+guest-post-name-change:
+  name        : "D&I and Publication Chairs"
+  email       : ""
+  bio         : ""
+  avatar      : ""
+
+guest-post-grad-school-panel:
+  name        : "D&I and SRW Chairs"
+  email       : ""
+  bio         : ""
+  avatar      : ""
+
+guest-post-queer-in-ai:
+  name        : "Queer in AI organizers"
+  email       : ""
+  bio         : ""
+  avatar      : ""
+
+ethics-chairs:
+  name        : "Ethics Committee Co-Chairs"
+  bio         : "Kemal Oflazer, Francisco Guzman"
+  email       : "ko@andrew.cmu.edu"
+  avatar      : "/assets/images/logos/emnlp-2023-logo1.png"
+
+industry-chairs:
+  name        : "Industry Track Chairs"
+  bio         : "Mingxuan Wang, Imed Zitouni"
+  email       : "wangmingxuan.89@bytedance.com"
+  avatar      : "/assets/images/logos/emnlp-2023-logo1.png"
+
+demo-chairs:
+  name        : "Demonstration Chairs"
+  bio         : "Yansong Feng, Els Lefever"
+  email       : "fengyansong@pku.edu.cn"
+  avatar      : "/assets/images/logos/emnlp-2023-logo1.png"
+
+website-chairs:
+  name        : "Website Chairs"
+  bio         : "Yan ZHANG, Benyou WANG"
+  email       : "eleyanz@nus.edu.sg"
+  avatar      : "/assets/images/logos/emnlp-2023-logo1.png"
+  
+local-organizing-committee:
+  name        : "Local Organizing Committee"
+  bio         : ""
+  email       : ""
+  avatar      : "/assets/images/logos/emnlp-2023-logo1.png"
+
