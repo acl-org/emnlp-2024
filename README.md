@@ -1,6 +1,6 @@
-# EMNLP 2023 official website
+# EMNLP 2024 official website
 
-This is the code for the official website for the 2023 Conference on Empirical Methods in Natural Language Processing (EMNLP 2023), based on the code for [NAACL-HLT 2021](https://github.com/naacl-org/naacl-2021-website/), the following is the configuration details.
+This is the code for the official website for the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024), based on the code for [NAACL-HLT 2021](https://github.com/naacl-org/naacl-2021-website/), the following is the configuration details.
 
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
