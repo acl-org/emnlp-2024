@@ -104,16 +104,16 @@ At the time of submission to ARR, authors will be asked to select a preferred ve
 At the time of submission to ARR, authors will be asked to select a preferred venue (e.g., EMNLP 2024). This is used only to calculate acceptance rates. Authors who selected EMNLP 2024 as a preferred venue when submitting to ARR may choose not to commit to EMNLP 2024 after receiving their reviews, and authors who selected a preferred venue other than EMNLP 2024 when submitting to ARR are still welcome to commit to EMNLP 2024.
 
 ## Paper Submission Details
-Both long and short paper submissions should follow all of the ARR submission requirements, including:
-* Long Papers (8 pages) and Short Papers (4 pages)
-* Instructions for Two-Way Anonymized Review
-* Authorship
-* Citation and Comparison
-* Multiple Submission Policy, Resubmission Policy, and Withdrawal Policy
-* Ethics Policy including the responsible NLP research checklist
-* Limitations
-* Paper Submission and Templates
-* Optional Supplementary Materials
+Both long and short paper submissions should follow all of the [ARR submission requirements](https://aclrollingreview.org/cfp#paper-submission-information), including:
+* [Long Papers](https://aclrollingreview.org/cfp#long-papers) (8 pages) and [Short Papers](https://aclrollingreview.org/cfp#short-papers) (4 pages)
+* [Instructions for Two-Way Anonymized Review](https://aclrollingreview.org/cfp#instructions-for-two-way-anonymized-review)
+* [Authorship](https://aclrollingreview.org/cfp#authorship)
+* [Citation and Comparison](https://aclrollingreview.org/cfp#citation-and-comparison)
+* [Multiple Submission Policy](https://aclrollingreview.org/cfp#multiple-submission-policy), [Resubmission Policy](https://aclrollingreview.org/cfp#resubmission-policy), and [Withdrawal Policy](https://aclrollingreview.org/cfp#withdrawal-policy)
+* [Ethics Policy](https://aclrollingreview.org/cfp#ethics-policy) including the [responsible NLP research checklist](https://aclrollingreview.org/responsibleNLPresearch)
+* [Limitations](https://aclrollingreview.org/cfp#limitations)
+* [Paper Submission and Templates](https://aclrollingreview.org/cfp#paper-submission-and-templates)
+* [Optional Supplementary Materials](https://aclrollingreview.org/cfp#optional-supplementary-materials-appendices-software-and-data)
 
 Final versions of accepted papers will be given one additional page of content (up to 9 pages for long papers, up to 5 pages for short papers) to address reviewers’ comments.
 
