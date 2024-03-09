@@ -27,18 +27,18 @@ sidebar:
 
 {% include committee-member.html
    name="Yun-Nung (Vivian) Chen"
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/"
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/vivian-chen.jpg"
    site="https://www.csie.ntu.edu.tw/~yvchen/"
    institution="National Taiwan University"
    email = "yvchen@csie.ntu.edu.tw"
 %}
 
 {% include committee-member.html
-   name="Yaser Alonaizan"
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/"
+   name="Yaser Al-Onaizan"
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/yaser-alonaizan.jpeg"
    site=""
    institution="Saudi Data and AI Authority, National Center for AI"
-   email = ""
+   email = "onaizan@gmail.com"
 %}
 
 <h2>Local Chair</h2>
@@ -117,10 +117,10 @@ sidebar:
 <h2>Ethics Chairs</h2>
 {% include committee-member.html
    name="Luciana Benotti"
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/"
-   site=""
-   institution=""
-   email = ""
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/luciana-benotti.jpeg"
+   site="https://benotti.github.io/"
+   institution="Facultad de Matemática, Astronomía, Física y Computación"
+   email = "luciana.benotti@unc.edu.ar"
 %}
 
 <!-- {% include committee-member.html
@@ -353,17 +353,16 @@ sidebar:
 {% include committee-member.html
    name="Lianhui Qin"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/lianhui-qin.jpg"
-   site=""
-   institution=""
-   email = ""
+   site="https://sites.google.com/view/lianhuiqin/home?pli=1"
+   institution="AI2"
+   email = "lianhui@ucsd.edu"
 %}
-<!-- {% include committee-member.html
-   name=""
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/"
-   site=""
-   institution=""
-   email = ""
+{% include committee-member.html
+   name="Daniel Fried"
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/daniel-fried.jpeg"
+   site="https://dpfried.github.io/"
+   institution="Carnegie Mellon University"
+   email = "dfried@cs.cmu.edu"
 %}
 
 
- -->
