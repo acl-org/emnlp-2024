@@ -169,7 +169,7 @@ sidebar:
    name="Danilo Croce"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/danilo-croce.jpg"
    site="http://sag.art.uniroma2.it/people/croce/"
-   institution="University of Rome"
+   institution="University of Rome, Tor Vergata"
    email = "croce@info.uniroma2.it"
 %}
 
