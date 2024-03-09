@@ -91,10 +91,8 @@ At the time of submission to ARR, authors will be asked to select a preferred ve
 | Commitment deadline for EMNLP 2024 | August 20, 2024
 | Author response period | August 1-7, 2024
 | Notification of acceptance (long & short papers) | September 20, 2024
-| Deadline for accepted papers to withdraw from EMNLP 2024 (main or findings) | September 15, 2024
-| Camera-ready papers due (long & short) | September 30, 2024
 | Main Conference | November 12-14, 2024
-| Workshops and Tutorials | November 11, 15-16, 2024
+| Workshops and Tutorials | November 15-16, 2024
 
  
 <bold>Note: All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).</bold>
