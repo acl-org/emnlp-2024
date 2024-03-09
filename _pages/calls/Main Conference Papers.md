@@ -20,7 +20,7 @@ EMNLP 2024 invites the submission of long and short papers featuring substantial
 
 
 ## Paper Submission Information
-Papers may be submitted to the ARR 2024 June cycle (link to be provided later)
+Papers may be submitted to the ARR 2024 June cycle (link to be provided later).
 Papers that have received reviews and a meta-review from ARR (whether from the ARR 2024 June cycle or an earlier ARR cycle) may be committed to EMNLP (link to be provided later).
 
 
@@ -116,7 +116,7 @@ Both long and short paper submissions should follow all of the [ARR submission r
 Final versions of accepted papers will be given one additional page of content (up to 9 pages for long papers, up to 5 pages for short papers) to address reviewers’ comments.
 
 ## Presentation at the Conference
-All accepted papers must be presented at the conference to appear in the proceedings. The conference will include both in-person and virtual presentation options. All authors of each accepted paper must register for EMNLP 2024 and at least one author must register by the early registration deadline.
+All accepted papers must be presented at the conference to appear in the proceedings. The conference will include both in-person and virtual presentation options. Papers without at least one presenting author registered by the early registration deadline may be subject to desk rejection.
 Long and short papers will be presented orally or as posters as determined by the program committee. While short papers will be distinguished from long papers in the proceedings, there will be no distinction in the proceedings between papers presented orally and papers presented as posters.
 
 ## Contact Information
