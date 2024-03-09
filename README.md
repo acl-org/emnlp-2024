@@ -1,6 +1,6 @@
 # EMNLP 2024 official website
 
-This is the code for the official website for the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024), based on the code for [NAACL-HLT 2021](https://github.com/naacl-org/naacl-2021-website/), the following is the configuration details.
+This is the code for the official website for the 2024 Conference on Empirical Methods in Natural Language Processing (EMNLP 2024), based on the code for [NAACL-HLT 2021](https://github.com/naacl-org/naacl-2021-website/), the following are the configuration details.
 
 It's currently using the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/).
 
@@ -28,7 +28,7 @@ This requires installing Ruby and various dependencies. If you are having troubl
 
 2. Clone this repository. Note that this repository uses submodules so to properly check out the submodule code, run `git submodule init` and `git submodule update` after you clone the repository. You will need the submodule to generate the schedule for the website.
 
-3. Run the gems needed by this repository: `sudo bundle install`. 
+3. Run the gems needed by this repository: `sudo bundle install`.
    *Note*: This step might fail when installing the `nokogiri` gem. If this happens, run `bundle config build.nokogiri --use-system-libraries` and then run `bundle install` again.
 
 4. Start the jekyll server by running `bundle exec jekyll serve`.
@@ -47,7 +47,7 @@ First you need to install Docker.
 
 To test your installation, just type: `docker --version` at the terminal/command prompt. A successful install will result in something that looks like: `Docker version 17.05.0-ce, build 89658be`.
 
-Once docker is up and running, you have two options. 
+Once docker is up and running, you have two options.
 
 ### Run and Go
 
@@ -75,7 +75,7 @@ docker run --rm -p 4000:4000 -v $(pwd):/srv/jekyll emnlp/website
 
 # Forking for a New Conference
 
-For a new conferences, you may either set up a repository from scratch by forking the original [Minimal Mistakes repository](https://mmistakes.github.io/minimal-mistakes/) or you may fork this repository directly. The latter may be easiest since all of the changes that are required for more complex things like the web-based schedule to work are already there. However, the disadvantage of forking this repository is that the version of the Minimal Mistakes theme will be out of date and you might miss out on bugfixes and new features. 
+For a new conferences, you may either set up a repository from scratch by forking the original [Minimal Mistakes repository](https://mmistakes.github.io/minimal-mistakes/) or you may fork this repository directly. The latter may be easiest since all of the changes that are required for more complex things like the web-based schedule to work are already there. However, the disadvantage of forking this repository is that the version of the Minimal Mistakes theme will be out of date and you might miss out on bugfixes and new features.
 
 **IMPORTANT**: Note also that if you fork this repository, you will get all of the existing conference's pages and blog posts and schedule and other content. Therefore, it is up to you to modify/temporarily remove that content before you make your website public so that your new domain is not indexed by search engines with old content. It might be best to rename the `gh-pages` branch so that the website for the new conference does not get built with content from the old conference. You can rename the branch back to `gh-pages` once you have made sufficient changes locally to remove/modify the old conference content.
 
@@ -91,7 +91,7 @@ If you fork this repository, the following files are the ones to pay attention t
 
 - `_sass/minimal-mistakes/*.scss` : SASS files that control the look and the feel of the website. The file `_program.scss` is not part of the them and controls the look and feel of the web schedule page.
 
-- `_data/navigation.xml` : YAML file that contains the links in the masthead at the top of the website and also links in the various sidebars. 
+- `_data/navigation.xml` : YAML file that contains the links in the masthead at the top of the website and also links in the various sidebars.
 
 - `_data/authors.yml` : YAML file that contains the information about the various blog post authors, e.g., Program Chairs, Diversity Chairs, General Chair. This file _must_ be updated with the right names and links.
 
@@ -100,7 +100,7 @@ If you fork this repository, the following files are the ones to pay attention t
 - `_posts/*.md` : If you are going to have a blog, this where the blog posts live and are named `YYYY-MM-DD-title.md`. Same as the
   files under `_pages`, you should move out already existing files from this folder to prevent them from getting rendered.
 
-- `.github/CODEOWNERS` : This file contains the GitHub usernames of the website chairs who will be [automatically assigned](https://help.github.com/en/articles/about-code-owners) to review any submitted pull requests. This should be modified to contain the GitHub username of the new website chair(s). 
+- `.github/CODEOWNERS` : This file contains the GitHub usernames of the website chairs who will be [automatically assigned](https://help.github.com/en/articles/about-code-owners) to review any submitted pull requests. This should be modified to contain the GitHub username of the new website chair(s).
 
 - `CNAME` : You should delete this file since this contains the old external domain from the older conference. This file will be
   automatically re-generated when you add the new external domain for the new conference. If you do not remove this file, you will
@@ -108,15 +108,15 @@ If you fork this repository, the following files are the ones to pay attention t
 
 ## Domain Setup
 
-The following settings connect the the main domain booked for the conference (e.g. `naacl2021.org`) with the underlying Github Pages build. 
+The following settings connect the the main domain booked for the conference (e.g. `naacl2021.org`) with the underlying Github Pages build.
 
 On the domain side, the following DNS settings need to be set up: all four IPs belong to Github, the last row connects the www subdomain to the main domain:
 
 ```
-A   @   185.199.108.153 
-A   @   185.199.109.153 
-A   @   185.199.110.153 
-A   @   185.199.111.153 
+A   @   185.199.108.153
+A   @   185.199.109.153
+A   @   185.199.110.153
+A   @   185.199.111.153
 CNAME www   naacl2021.org
 ```
 
