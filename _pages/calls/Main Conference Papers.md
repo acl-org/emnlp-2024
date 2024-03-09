@@ -62,7 +62,7 @@ EMNLP 2024 aims to have a broad technical program. Relevant topics for the confe
 * Summarization
 * Syntax: Tagging, Chunking and Parsing / ML
 * NLP Applications
-* <bold>Special Theme:</bold> Efficiency in Model Training and Inference: Addressing Data Requirements and Model Size 
+* __Special Theme:__ Efficiency in Model Training and Inference: Addressing Data Requirements and Model Size 
 
 ## EMNLP 2024 Theme Track: Efficiency in Model Training and Inference: Addressing Data Requirements and Model Size
 This track provides a platform for researchers to explore key aspects of making model training and inference more efficient, focusing on both data requirements and model size. We welcome submissions that propose innovative approaches, methodologies, and techniques to streamline the training and inference process for language models while optimizing resource utilization and reducing model size. Authors are encouraged to explore various ways to enhance efficiency, including parameter-efficient tuning and methods for learning with less data and smaller model sizes, ultimately leading to NLP systems that are more scalable, practical, and resource-efficient.
@@ -95,9 +95,9 @@ At the time of submission to ARR, authors will be asked to select a preferred ve
 | Workshops and Tutorials | November 15-16, 2024
 
  
-<bold>Note: All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).</bold>
+__Note: All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).__
 
-<bold>Following the ACL and ARR policies, there is no anonymity period requirement</bold>
+__Following the ACL and ARR policies, there is no anonymity period requirement.__
 
 At the time of submission to ARR, authors will be asked to select a preferred venue (e.g., EMNLP 2024). This is used only to calculate acceptance rates. Authors who selected EMNLP 2024 as a preferred venue when submitting to ARR may choose not to commit to EMNLP 2024 after receiving their reviews, and authors who selected a preferred venue other than EMNLP 2024 when submitting to ARR are still welcome to commit to EMNLP 2024.
 
