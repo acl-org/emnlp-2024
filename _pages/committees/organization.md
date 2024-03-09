@@ -36,7 +36,7 @@ sidebar:
 {% include committee-member.html
    name="Yaser Al-Onaizan"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/yaser-alonaizan.jpeg"
-   site=""
+   site="https://www.linkedin.com/in/yaser-al-onaizan-1a11294"
    institution="Saudi Data and AI Authority, National Center for AI"
    email = "onaizan@gmail.com"
 %}
@@ -45,9 +45,9 @@ sidebar:
 {% include committee-member.html
    name="Mark Finlayson"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/mark-finlayson.jpg"
-   site=""
-   institution=""
-   email = ""
+   site="https://users.cs.fiu.edu/~markaf/"
+   institution="Florida International University"
+   email = "markaf@fiu.edu"
 %}
 
 
@@ -55,18 +55,18 @@ sidebar:
 <h2>Industry Track Chairs </h2>
 {% include committee-member.html
    name="Daniel Preotiuc"
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/"
-   site=""
-   institution=""
-   email = ""
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/daniel-preotiuc.jpeg"
+   site="https://www.preotiuc.ro/"
+   institution="Bloomberg"
+   email = "dpreotiucpie@bloomberg.net"
 %}
 
 {% include committee-member.html
    name="Franck Dernouncourt"
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/"
-   site=""
-   institution=""
-   email = ""
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/franck-dernoncourt.jpeg"
+   site="https://research.adobe.com/person/franck-dernoncourt/"
+   institution="Adobe Research"
+   email = "dernonco@adobe.com"
 %}
 
 <h2>Workshop Chairs 
@@ -74,17 +74,17 @@ sidebar:
 {% include committee-member.html
    name="Xiaodan Zhu"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/xiaodan-zhu.jpg"
-   site=""
-   institution=""
-   email = ""
+   site="https://www.xiaodanzhu.com/"
+   institution="Queen's University"
+   email = "xiaodan.zhu@queensu.ca"
 %}
 
 {% include committee-member.html
    name="David Vilar"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/david-vilar.jpg"
-   site=""
-   institution=""
-   email = ""
+   site="https://research.google/people/david-vilar/"
+   institution="Google"
+   email = "vilar@google.com"
 %}
 
 <!-- {% include committee-member.html
