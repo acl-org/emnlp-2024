@@ -10,7 +10,7 @@ sidebar:
 <h2>General Chair</h2>
 {% include committee-member.html
    name="Thamar Solorio"
-   site="https://mbzuai.ac.ae/study/faculty/thamar-solorio/"
+   site="http://solorio.uh.edu/"
    picture="/assets/images/EMNLP-2024-Headshots/thamar-solorio.jpg"
    institution="Mohamed bin Zayed University of Artificial Intelligence and University of Houston"
    email = "thamar.solorio@mbzuai.ac.ae"
@@ -19,18 +19,18 @@ sidebar:
 <h2>Program Chairs </h2>
 {% include committee-member.html
    name="Mohit Bansal"
-   site=""
+   site="https://www.cs.unc.edu/~mbansal/"
    picture="/assets/images/EMNLP-2024-Headshots/mohit-bansal.png"
    institution="University of North Carolina at Chapel Hill"
-   email = ""
+   email = "mbansal@cs.unc.edu"
 %}
 
 {% include committee-member.html
    name="Yun-Nung (Vivian) Chen"
    picture="/assets/images/EMNLP-2024-Headshots/"
-   site=""
+   site="https://www.csie.ntu.edu.tw/~yvchen/"
    institution="National Taiwan University"
-   email = ""
+   email = "yvchen@csie.ntu.edu.tw"
 %}
 
 {% include committee-member.html
