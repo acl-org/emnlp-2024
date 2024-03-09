@@ -134,8 +134,8 @@ sidebar:
 <h2>Demonstration Chairs</h2>
 {% include committee-member.html
    name="Delia Irazu Hernandez Farias"
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/"
-   site=""
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/delia-irazu-hernandez-farias.jpeg"
+   site="https://ccc.inaoep.mx/directorio-de-investigadores-y-personal/investigadores/delia-irazu-hernandez-farias"
    institution="Instituto Nacional de Astrofísica, Óptica y Electrónica"
    email = "dirazuhf@inaoep.mx"
 %}
@@ -143,42 +143,42 @@ sidebar:
 {% include committee-member.html
    name="Manling Li"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/manling-li.jpg"
-   site=""
-   institution=""
-   email = ""
+   site="https://limanling.github.io/"
+   institution="Northwestern University"
+   email = "manling.li@northwestern.edu"
 %}
 
 {% include committee-member.html
    name="Tom Hope"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/tom-hope.jpg"
-   site=""
-   institution=""
-   email = ""
+   site="https://tomhoper.github.io/"
+   institution="AI2"
+   email = "tomh@allenai.org"
 %}
 
 <h2>Publication Chairs</h2>
 {% include committee-member.html
    name="Milad Alshomary"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/milad-alshomary.jpg"
-   site=""
-   institution=""
-   email = ""
+   site="https://miladalshomary.github.io/"
+   institution="Columbia University"
+   email = "ma4608@columbia.edu"
 %}
 
 {% include committee-member.html
    name="Danilo Croce"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/danilo-croce.jpg"
-   site=""
-   institution=""
-   email = ""
+   site="http://sag.art.uniroma2.it/people/croce/"
+   institution="University of Rome"
+   email = "croce@info.uniroma2.it"
 %}
 
 {% include committee-member.html
    name="Godze Gul"
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/"
-   site=""
-   institution=""
-   email = ""
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/gozde-gul.jpeg"
+   site="https://gozdesahin.github.io/"
+   institution="Koç University"
+   email = "gosahin@ku.edu.tr"
 %}
 
 <!-- {% include committee-member.html
@@ -211,9 +211,9 @@ sidebar:
 {% include committee-member.html
    name="Marco Polignano"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/polignano-marco.jpg"
-   site=""
-   institution=""
-   email = ""
+   site="https://marcopoli.github.io/"
+   institution="University of Bari Aldo Moro"
+   email = "marco.polignano@uniba.it"
 %}
 
 <h2>Publicity Chairs </h2>
@@ -245,7 +245,7 @@ sidebar:
 
 {% include committee-member.html
    name="Emily Prud'hommeaux"
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/"
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/emily-prudhommeaux.jpeg"
    site="http://cs.bc.edu/~prudhome/"
    institution="Boston College"
    email = "prudhome@bc.edu"
@@ -317,9 +317,9 @@ sidebar:
 {% include committee-member.html
    name="Leonardo Neves"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/leonardo-neves.jpg"
-   site=""
-   institution=""
-   email = ""
+   site="https://lnevesxyz.wordpress.com/"
+   institution="Snap Research"
+   email = "lneves@snap.com"
 %}
 
 <!-- {% include committee-member.html
@@ -335,9 +335,9 @@ sidebar:
 {% include committee-member.html
    name="Tiago Torrent"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/tiago-torrent.jpg"
-   site=""
-   institution=""
-   email = ""
+   site="https://www.tiagotorrent.com/"
+   institution="Federal University of Juiz de Fora"
+   email = "tiago.torrent@ufjf.edu.br"
 %}
 {% include committee-member.html
    name="Raj Dabre"
