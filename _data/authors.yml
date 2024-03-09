@@ -4,71 +4,71 @@ program-chairs:
   name        : "Program Chairs"
   email       : ""
   bio         : ""
-  avatar      : "/assets/images/logos/emnlp-2024-logo1.png"
+  avatar      : "/assets/images/logos/emnlp-2024-logo.png"
 
 publicity-chairs:
   name        : "Publicity Chairs"
   email       : ""
   bio         : ""
-  avatar      : "/assets/images/logos/emnlp-2024-logo1.png" # /assets/images/logos/emnlp-2024-logo1.png
+  avatar      : "/assets/images/logos/emnlp-2024-logo.png" # /assets/images/logos/emnlp-2024-logo.png
 
 diversity-inclusion-chairs:
   name        : "Diversity & Inclusion Chairs"
   email       : ""
   bio         : ""
-  avatar      : "/assets/images/logos/emnlp-2024-logo1.png"
+  avatar      : "/assets/images/logos/emnlp-2024-logo.png"
 
 volunteer-chairs:
   name        : ""
   email       : ""
   bio         : ""
-  avatar      : "/assets/images/logos/emnlp-2024-logo1.png"
+  avatar      : "/assets/images/logos/emnlp-2024-logo.png"
 
 guest-post-name-change:
   name        : ""
   email       : ""
   bio         : ""
-  avatar      : "/assets/images/logos/emnlp-2024-logo1.png"
+  avatar      : "/assets/images/logos/emnlp-2024-logo.png"
 
 guest-post-grad-school-panel:
   name        : "D&I and SRW Chairs"
   email       : ""
   bio         : ""
-  avatar      : "/assets/images/logos/emnlp-2024-logo1.png"
+  avatar      : "/assets/images/logos/emnlp-2024-logo.png"
 
 guest-post-queer-in-ai:
   name        : "Queer in AI organizers"
   email       : ""
   bio         : ""
-  avatar      : "/assets/images/logos/emnlp-2024-logo1.png"
+  avatar      : "/assets/images/logos/emnlp-2024-logo.png"
 
 ethics-chairs:
   name        : "Ethics Committee Co-Chairs"
   bio         : ""
   email       : ""
-  avatar      : "/assets/images/logos/emnlp-2024-logo1.png"
+  avatar      : "/assets/images/logos/emnlp-2024-logo.png"
 
 industry-chairs:
   name        : "Industry Track Chairs"
   bio         : ""
   email       : ""
-  avatar      : "/assets/images/logos/emnlp-2024-logo1.png"
+  avatar      : "/assets/images/logos/emnlp-2024-logo.png"
 
 demo-chairs:
   name        : "Demonstration Chairs"
   bio         : ""
   email       : ""
-  avatar      : "/assets/images/logos/emnlp-2024-logo1.png"
+  avatar      : "/assets/images/logos/emnlp-2024-logo.png"
 
 website-chairs:
   name        : "Website Chairs"
   bio         : "Raj Dabre, Tiago Torrent"
   email       : "prajdabre@gmail.com"
-  avatar      : "/assets/images/logos/emnlp-2024-logo1.png"
+  avatar      : "/assets/images/logos/emnlp-2024-logo.png"
   
 local-organizing-committee:
   name        : "Local Organizing Committee"
   bio         : ""
   email       : ""
-  avatar      : "/assets/images/logos/emnlp-2024-logo1.png"
+  avatar      : "/assets/images/logos/emnlp-2024-logo.png"
 
