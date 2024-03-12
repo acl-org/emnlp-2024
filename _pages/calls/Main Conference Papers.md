@@ -20,18 +20,18 @@ EMNLP 2024 invites the submission of long and short papers featuring substantial
 
 
 ## Paper Submission Information
-Papers may be submitted to the ARR 2024 June cycle (link to be provided later)
+Papers may be submitted to the ARR 2024 June cycle (link to be provided later).
 Papers that have received reviews and a meta-review from ARR (whether from the ARR 2024 June cycle or an earlier ARR cycle) may be committed to EMNLP (link to be provided later).
 
 
 ## Mandatory Reviewing Workload
-As our pace of research continues to increase, we need to reinforce the commitment to reviewing  for each paper submission. During the final submission process, authors will be required to specify which co-authors are committing to cover reviewing in this reviewing cycle. Authors selected to do this must fulfill the following requirements:
+As our pace of research continues to increase, we need to reinforce the commitment to reviewing for each paper submission. During the final submission process, authors will be required to specify which co-authors are committing to cover reviewing in this reviewing cycle. Authors selected to do this must fulfill the following requirements:
 
 * They must have an updated Open Review profile.
 * They must have published at least three papers in *CL conferences in the last five years.
 * They must commit to review at least three papers
 
-Due to challenges faced in meeting reviewing needs, papers that do not meet the criteria above by the full paper deadline may be subject to desk rejection. There are, of course, exceptional circumstances that we will consider. For example, one co-author might not meet the minimum three paper requirement, while the other one might already be serving in a different capacity (Area Chair, Senior Area Chair, or similar). Another example of an exception is in the case where all authors are new to the *CL community and therefore cannot fulfill number 2 above. But in most cases, papers have many authors that can fulfill the reviewing workload requirement. We ask authors to help by providing this information by the final submission deadline.
+Due to challenges faced in meeting reviewing needs, papers that do not meet the criteria above by the full paper deadline may be subject to desk rejection. There are, of course, exceptional circumstances that we will consider. For example, one co-author might not meet the minimum three paper requirement, while the other one might already be serving in a different capacity (Area Chair, Senior Area Chair, or similar). Another example of an exception is in the case where all authors are new to the *CL community and therefore cannot fulfill the second requirement above. But in most cases, papers have many authors that can fulfill the reviewing workload requirement. We ask authors to help by providing this information by the final submission deadline.
 
 ## Submission Topics
 EMNLP 2024 aims to have a broad technical program. Relevant topics for the conference include, but are not limited to, the following areas:
@@ -63,7 +63,7 @@ EMNLP 2024 aims to have a broad technical program. Relevant topics for the confe
 * __Special Theme:__ Efficiency in Model Training and Inference: Addressing Data Requirements and Model Size 
 
 ## EMNLP 2024 Theme Track: Efficiency in Model Algorithms, Training, and Inference
-This track provides a platform for researchers to explore key aspects of making model algorithms, training, and inference more efficient, e.g., quantization,  data requirements, and model size. We welcome submissions that propose innovative approaches, methodologies, and techniques to streamline the training and inference process for language models while optimizing resource utilization and reducing model size. Authors are encouraged to explore various ways to enhance efficiency, including parameter-efficient tuning and methods for learning with less data and smaller model sizes, ultimately leading to more scalable, practical, and resource-efficient  NLP systems.
+This track provides a platform for researchers to explore key aspects of making model algorithms, training, and inference more efficient, e.g., quantization,  data requirements, and model size. We welcome submissions that propose innovative approaches, methodologies, and techniques to streamline the training and inference process for language models while optimizing resource utilization and reducing model size. Authors are encouraged to explore various ways to enhance efficiency, including parameter-efficient tuning and methods for learning with less data and smaller model sizes, ultimately leading to more scalable, practical, and resource-efficient NLP systems.
 
 ## Two Stage Review: Submission to ARR, Commitment to EMNLP
 EMNLP 2024 will use [ACL Rolling Review](https://aclrollingreview.org/cfp) (ARR) as a reviewing system, but final decisions will be made by the conference. Both submissions of articles for review and commitment of reviewed articles to the conference will be performed via the [Open Review](https://openreview.net) platform. Specifically, authors will follow a two-step process:
