@@ -26,19 +26,19 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Yun-Nung (Vivian) Chen"
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/vivian-chen.jpg"
-   site="https://www.csie.ntu.edu.tw/~yvchen/"
-   institution="National Taiwan University"
-   email = "yvchen@csie.ntu.edu.tw"
-%}
-
-{% include committee-member.html
    name="Mohit Bansal"
    site="https://www.cs.unc.edu/~mbansal/"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/mohit-bansal.png"
    institution="University of North Carolina at Chapel Hill"
    email = "mbansal@cs.unc.edu"
+%}
+
+{% include committee-member.html
+   name="Yun-Nung (Vivian) Chen"
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/vivian-chen.jpg"
+   site="https://www.csie.ntu.edu.tw/~yvchen/"
+   institution="National Taiwan University"
+   email = "yvchen@csie.ntu.edu.tw"
 %}
 
 <h2>Local Chair</h2>
