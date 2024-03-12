@@ -91,7 +91,7 @@ sidebar:
    name="David Vilar"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/david-vilar.jpg"
    site="https://research.google/people/david-vilar/"
-   institution="Google"
+   institution="Google Inc."
    email = "vilar@google.com"
 %}
 
@@ -233,13 +233,13 @@ sidebar:
    email = "esteng@cs.unc.edu"
 %}
 
-<!-- {% include committee-member.html
-   name=""
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/"
-   site=""
-   institution=""
-   email = ""
-%} -->
+{% include committee-member.html
+   name="Shruti Rijhwani"
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/shruti-rijhwani.jpeg"
+   site="https://shrutirij.github.io/"
+   institution="Google Inc."
+   email = "shrutirijhwani@gmail.com"
+%}
 
 
 <h2>Student Volunteer Chairs</h2>
