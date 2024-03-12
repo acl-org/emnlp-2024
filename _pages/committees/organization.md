@@ -50,6 +50,14 @@ sidebar:
    email = "markaf@fiu.edu"
 %}
 
+{% include committee-member.html
+   name="Zoey Liu"
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/zoey-liu.jpeg"
+   site="https://zoeyliu18.github.io/"
+   institution="University of Florida"
+   email = "liu.ying@ufl.edu"
+%}
+
 
 
 <h2>Industry Track Chairs </h2>
