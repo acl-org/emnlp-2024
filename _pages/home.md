@@ -5,11 +5,11 @@ permalink: /
 header:
   overlay_image: "/assets/images/miami/EMNLP_2024_Website_Image.png"
   # caption: 'Photo from <a href="https://drive.google.com/drive/u/0/folders/10XXSEjTNDmrwU0tqL58la1n3YlE-g4V8">EMNLP 2024 Website Image.png</a> '
-excerpt: "November 12 &ndash;16<br>Miami, Florida<br>Venue TBD"
+excerpt: "November 12 &ndash;16<br>Miami, Florida<br>Hyatt Regency Miami Hotel"
 ---
 
 ## Welcome!
-EMNLP 2024 will take place in Miami, Florida from **Nov 12th to Nov 16th, 2024**. More information will be announced soon.
+EMNLP 2024 will take place in Miami, Florida from **Nov 12th to Nov 16th, 2024**, at the Hyatt Regency Miami Hotel. More information will be announced soon.
 
 
 ## News
