@@ -62,14 +62,6 @@ sidebar:
 
 <h2>Industry Track Chairs </h2>
 {% include committee-member.html
-   name="Daniel Preotiuc"
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/daniel-preotiuc.jpeg"
-   site="https://www.preotiuc.ro/"
-   institution="Bloomberg"
-   email = "dpreotiucpie@bloomberg.net"
-%}
-
-{% include committee-member.html
    name="Franck Dernouncourt"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/franck-dernoncourt.jpeg"
    site="https://research.adobe.com/person/franck-dernoncourt/"
@@ -77,8 +69,26 @@ sidebar:
    email = "dernonco@adobe.com"
 %}
 
+{% include committee-member.html
+   name="Daniel Preotiuc"
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/daniel-preotiuc.jpeg"
+   site="https://www.preotiuc.ro/"
+   institution="Bloomberg"
+   email = "dpreotiucpie@bloomberg.net"
+%}
+
+
+
 <h2>Workshop Chairs 
 </h2>
+{% include committee-member.html
+   name="David Vilar"
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/david-vilar.jpg"
+   site="https://research.google/people/david-vilar/"
+   institution="Google Inc."
+   email = "vilar@google.com"
+%}
+
 {% include committee-member.html
    name="Xiaodan Zhu"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/xiaodan-zhu.jpg"
@@ -87,13 +97,6 @@ sidebar:
    email = "xiaodan.zhu@queensu.ca"
 %}
 
-{% include committee-member.html
-   name="David Vilar"
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/david-vilar.jpg"
-   site="https://research.google/people/david-vilar/"
-   institution="Google Inc."
-   email = "vilar@google.com"
-%}
 
 <!-- {% include committee-member.html
    name=""
@@ -106,6 +109,14 @@ sidebar:
 
 <h2>Tutorial Chairs </h2>
 {% include committee-member.html
+   name="Jessy Li"
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/junyi-jessy-li.jpg"
+   site="https://jessyli.com/"
+   institution="The University of Texas at Austin"
+   email = "jessy@austin.utexas.edu"
+%}
+
+{% include committee-member.html
    name="Fei Liu"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/fei-liu.jpg"
    site="https://www.cs.emory.edu/~fliu40/"
@@ -113,13 +124,6 @@ sidebar:
    email = "fei.liu@emory.edu"
 %}
 
-{% include committee-member.html
-   name="Jessy Li"
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/junyi-jessy-li.jpg"
-   site="https://jessyli.com/"
-   institution="The University of Texas at Austin"
-   email = "jessy@austin.utexas.edu"
-%}
 
 
 <h2>Ethics Chairs</h2>
@@ -149,6 +153,14 @@ sidebar:
 %}
 
 {% include committee-member.html
+   name="Tom Hope"
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/tom-hope.jpg"
+   site="https://tomhoper.github.io/"
+   institution="AI2"
+   email = "tomh@allenai.org"
+%}
+
+{% include committee-member.html
    name="Manling Li"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/manling-li.jpg"
    site="https://limanling.github.io/"
@@ -156,13 +168,7 @@ sidebar:
    email = "manling.li@northwestern.edu"
 %}
 
-{% include committee-member.html
-   name="Tom Hope"
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/tom-hope.jpg"
-   site="https://tomhoper.github.io/"
-   institution="AI2"
-   email = "tomh@allenai.org"
-%}
+
 
 <h2>Publication Chairs</h2>
 {% include committee-member.html
@@ -224,6 +230,14 @@ sidebar:
    email = "marco.polignano@uniba.it"
 %}
 
+{% include committee-member.html
+   name="Shruti Rijhwani"
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/shruti-rhijwani.jpeg"
+   site="https://shrutirij.github.io/"
+   institution="Google Inc."
+   email = "shrutirijhwani@gmail.com"
+%}
+
 <h2>Publicity Chairs </h2>
 {% include committee-member.html
    name="Elias Stengel-Eskin"
@@ -233,13 +247,6 @@ sidebar:
    email = "esteng@cs.unc.edu"
 %}
 
-{% include committee-member.html
-   name="Shruti Rijhwani"
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/shruti-rhijwani.jpeg"
-   site="https://shrutirij.github.io/"
-   institution="Google Inc."
-   email = "shrutirijhwani@gmail.com"
-%}
 
 
 <h2>Student Volunteer Chairs</h2>
@@ -341,19 +348,21 @@ sidebar:
 
 <h2>Website Chairs</h2>
 {% include committee-member.html
-   name="Tiago Torrent"
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/tiago-torrent.jpg"
-   site="https://www.tiagotorrent.com/"
-   institution="Federal University of Juiz de Fora"
-   email = "tiago.torrent@ufjf.edu.br"
-%}
-{% include committee-member.html
    name="Raj Dabre"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/raj-dabre.jpg"
    site="https://prajdabre.github.io/"
    institution="National Institute of Information and Communications Technology (NICT), Japan"
    email = "prajdabre@gmail.com"
 %}
+
+{% include committee-member.html
+   name="Tiago Torrent"
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/tiago-torrent.jpg"
+   site="https://www.tiagotorrent.com/"
+   institution="Federal University of Juiz de Fora"
+   email = "tiago.torrent@ufjf.edu.br"
+%}
+
 
 
 
