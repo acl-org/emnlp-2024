@@ -42,7 +42,7 @@ EMNLP 2024 will take place in Miami, Florida from **Nov 12th to Nov 16th, 2024**
 | 2024-3-10 | The official EMNLP 2024 website is launched.
 {: .news-table}
 
-## BLOG POSTS 
+<!-- ## BLOG POSTS 
 
 <style>
 .news-table { font-size: .9em; table-layout: fixed;}
@@ -50,7 +50,7 @@ EMNLP 2024 will take place in Miami, Florida from **Nov 12th to Nov 16th, 2024**
 </style>
 | 2024-3-17 | [EMNLP 2024 Blog](/blog/)
 {: .news-table}
-
+ -->
 <!-- [Older BLOG POSTS](/blog/){: .btn .btn--info}
 {: .text-center} -->
 
