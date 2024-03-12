@@ -182,9 +182,9 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Godze Gul"
+   name="Gözde Gül Şahin"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/gozde-gul.jpeg"
-   site="https://gozdesahin.github.io/"
+   site="https://gglab-ku.github.io/"
    institution="Koç University"
    email = "gosahin@ku.edu.tr"
 %}
@@ -230,7 +230,7 @@ sidebar:
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/elias-stengel--eskin.jpg"
    site="https://esteng.github.io/"
    institution="University of North Carolina"
-   email = "elias@jhu.edu"
+   email = "esteng@cs.unc.edu"
 %}
 
 <!-- {% include committee-member.html
@@ -244,7 +244,7 @@ sidebar:
 
 <h2>Student Volunteer Chairs</h2>
 {% include committee-member.html
-   name="Nafise Moosavi"
+   name="Nafise Sadat Moosavi"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/nafise-sadat-moosavi.jpg"
    site="https://ns-moosavi.github.io/"
    institution="University of Sheffield"
@@ -325,9 +325,9 @@ sidebar:
 {% include committee-member.html
    name="Leonardo Neves"
    picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/leonardo-neves.jpg"
-   site="https://lnevesxyz.wordpress.com/"
-   institution="Snap Research"
-   email = "lneves@snap.com"
+   site="https://www.linkedin.com/in/lrmneves"
+   institution="Snap Inc."
+   email = "lneves@snapchat.com"
 %}
 
 <!-- {% include committee-member.html
