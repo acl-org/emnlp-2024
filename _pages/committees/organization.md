@@ -235,7 +235,7 @@ sidebar:
 
 {% include committee-member.html
    name="Shruti Rijhwani"
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/shruti-rijhwani.jpeg"
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/shruti-rhijwani.jpeg"
    site="https://shrutirij.github.io/"
    institution="Google Inc."
    email = "shrutirijhwani@gmail.com"
