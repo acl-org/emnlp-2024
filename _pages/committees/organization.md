@@ -18,11 +18,11 @@ sidebar:
 
 <h2>Program Chairs </h2>
 {% include committee-member.html
-   name="Mohit Bansal"
-   site="https://www.cs.unc.edu/~mbansal/"
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/mohit-bansal.png"
-   institution="University of North Carolina at Chapel Hill"
-   email = "mbansal@cs.unc.edu"
+   name="Yaser Al-Onaizan"
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/yaser-alonaizan.jpeg"
+   site="https://www.linkedin.com/in/yaser-al-onaizan-1a11294"
+   institution="Saudi Data and AI Authority, National Center for AI"
+   email = "onaizan@gmail.com"
 %}
 
 {% include committee-member.html
@@ -34,11 +34,11 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Yaser Al-Onaizan"
-   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/yaser-alonaizan.jpeg"
-   site="https://www.linkedin.com/in/yaser-al-onaizan-1a11294"
-   institution="Saudi Data and AI Authority, National Center for AI"
-   email = "onaizan@gmail.com"
+   name="Mohit Bansal"
+   site="https://www.cs.unc.edu/~mbansal/"
+   picture="/emnlp-2024/assets/images/EMNLP-2024-Headshots/mohit-bansal.png"
+   institution="University of North Carolina at Chapel Hill"
+   email = "mbansal@cs.unc.edu"
 %}
 
 <h2>Local Chair</h2>
