@@ -116,11 +116,11 @@ Long and short papers will be presented orally or as posters as determined by th
 
 ## Contact Information
 
-### General Chair: 
+__General Chair:__
 
 * Thamar Solorio, Mohamed bin Zayed University of Artificial Intelligence and University of Houston
 
-### Program Chairs:
+__Program Chairs:__
 
 * Mohit Bansal, University of North Carolina at Chapel Hill
 * Yun-Nung (Vivian) Chen, National Taiwan University
@@ -128,7 +128,7 @@ Long and short papers will be presented orally or as posters as determined by th
 
 For questions related to paper submission, and the review process in general, email: <mailto:editors@aclrollingreview.org>
 
-For all other questions email: <mailto:emnlp2024-programchairs@googlegroups.com>
+For questions about commitment and post review related topics:: <mailto:emnlp2024-programchairs@googlegroups.com>
  
 
 
