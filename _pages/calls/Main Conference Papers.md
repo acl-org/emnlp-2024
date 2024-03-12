@@ -53,8 +53,7 @@ EMNLP 2024 aims to have a broad technical program. Relevant topics for the confe
 * Phonology, Morphology and Word Segmentation
 * Question Answering
 * Resources and Evaluation
-* Semantics: Lexical
-* Semantics: Sentence-level Semantics, Textual Inference and Other areas
+* Semantics: Lexical, Sentence-level Semantics, Textual Inference and Other areas
 * Sentiment Analysis, Stylistic Analysis, and Argument Mining
 * Speech processing and spoken language understanding
 * Summarization
