@@ -118,13 +118,13 @@ Long and short papers will be presented orally or as posters as determined by th
 
 __General Chair:__
 
-* Thamar Solorio, Mohamed bin Zayed University of Artificial Intelligence and University of Houston
+* [Thamar Solorio](http://solorio.uh.edu/), Mohamed bin Zayed University of Artificial Intelligence and University of Houston
 
 __Program Chairs:__
 
-* Mohit Bansal, University of North Carolina at Chapel Hill
-* Yun-Nung (Vivian) Chen, National Taiwan University
-* Yaser  Alonaizan, Saudi Data and AI Authority, National Center for AI
+* [Mohit Bansal](https://www.cs.unc.edu/~mbansal/), University of North Carolina at Chapel Hill
+* [Yun-Nung (Vivian) Chen](https://www.csie.ntu.edu.tw/~yvchen/), National Taiwan University
+* [Yaser Alonaizan](https://www.linkedin.com/in/yaser-al-onaizan-1a11294), Saudi Data and AI Authority, National Center for AI
 
 For questions related to paper submission, and the review process in general, email: <mailto:editors@aclrollingreview.org>
 
