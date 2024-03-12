@@ -20,20 +20,18 @@ EMNLP 2024 invites the submission of long and short papers featuring substantial
 
 
 ## Paper Submission Information
-Papers may be submitted to the ARR 2024 June cycle (link to be provided later).
+Papers may be submitted to the ARR 2024 June cycle (link to be provided later)
 Papers that have received reviews and a meta-review from ARR (whether from the ARR 2024 June cycle or an earlier ARR cycle) may be committed to EMNLP (link to be provided later).
 
 
-## Mandatory Abstract Submission
-Starting with the April cycle, ARR will now require abstract submissions one week before the full paper deadline. EMNLP will follow this process. This extra step will help the ARR team to get a head start on all the tasks needed prior to paper reviewer matching, including new reviewer expertise, max reviewing load requests, as well as any other steps needed to secure coverage of reviewing needs for the cycle. The paper title, author names, contact details, and abstract must be submitted electronically through the EMNLP 2024 paper submission site by the abstract submission deadline (June 7). It will be possible to make minor edits to the title and abstract until the full paper submission deadline, but you cannot change subject areas or author list, although author order can be changed.
-
 ## Mandatory Reviewing Workload
-As our pace of research keeps increasing, we are in need to enforce reviewing commitment for each paper submission. During the abstract submission process, authors will be required to specify which co-authors are committing to cover reviewing for at least three papers in this reviewing cycle. Authors selected to do this must fulfill the following requirements:
+As our pace of research continues to increase, we need to reinforce the commitment to reviewing  for each paper submission. During the final submission process, authors will be required to specify which co-authors are committing to cover reviewing in this reviewing cycle. Authors selected to do this must fulfill the following requirements:
 
 * They must have an updated Open Review profile.
 * They must have published at least three papers in *CL conferences in the last five years.
+* They must commit to review at least three papers
 
-Due to challenges faced in meeting reviewing needs, papers that do not meet the criteria above by the full paper deadline, may be subject to desk rejection. There are of course, exceptional circumstances that we will consider. For example, one co-author might not meet the minimum three paper requirement, while the other one might already be serving in a different capacity (Area Chair, Senior Area Chair, or similar). But in most cases, papers have many authors that can fulfill the reviewing workload requirement. We ask authors to help by providing this information at submission time.
+Due to challenges faced in meeting reviewing needs, papers that do not meet the criteria above by the full paper deadline may be subject to desk rejection. There are, of course, exceptional circumstances that we will consider. For example, one co-author might not meet the minimum three paper requirement, while the other one might already be serving in a different capacity (Area Chair, Senior Area Chair, or similar). Another example of an exception is in the case where all authors are new to the *CL community and therefore cannot fulfill number 2 above. But in most cases, papers have many authors that can fulfill the reviewing workload requirement. We ask authors to help by providing this information by the final submission deadline.
 
 ## Submission Topics
 EMNLP 2024 aims to have a broad technical program. Relevant topics for the conference include, but are not limited to, the following areas:
@@ -41,7 +39,7 @@ EMNLP 2024 aims to have a broad technical program. Relevant topics for the confe
 * Computational Social Science and Cultural Analytics
 * Dialogue and Interactive Systems
 * Discourse and Pragmatics
-* Efficient/Low-resource Methods for NLP
+* Low-resource Methods for NLP
 * Ethics, Bias, and Fairness
 * Generation
 * Information Extraction
@@ -58,46 +56,42 @@ EMNLP 2024 aims to have a broad technical program. Relevant topics for the confe
 * Semantics: Lexical
 * Semantics: Sentence-level Semantics, Textual Inference and Other areas
 * Sentiment Analysis, Stylistic Analysis, and Argument Mining
-* Speech recognition, text-to-speech and spoken language understanding
+* Speech processing and spoken language understanding
 * Summarization
-* Syntax: Tagging, Chunking and Parsing / ML
+* Syntax: Tagging, Chunking and Parsing
 * NLP Applications
 * __Special Theme:__ Efficiency in Model Training and Inference: Addressing Data Requirements and Model Size 
 
-## EMNLP 2024 Theme Track: Efficiency in Model Training and Inference: Addressing Data Requirements and Model Size
-This track provides a platform for researchers to explore key aspects of making model training and inference more efficient, focusing on both data requirements and model size. We welcome submissions that propose innovative approaches, methodologies, and techniques to streamline the training and inference process for language models while optimizing resource utilization and reducing model size. Authors are encouraged to explore various ways to enhance efficiency, including parameter-efficient tuning and methods for learning with less data and smaller model sizes, ultimately leading to NLP systems that are more scalable, practical, and resource-efficient.
+## EMNLP 2024 Theme Track: Efficiency in Model Algorithms, Training, and Inference
+This track provides a platform for researchers to explore key aspects of making model algorithms, training, and inference more efficient, e.g., quantization,  data requirements, and model size. We welcome submissions that propose innovative approaches, methodologies, and techniques to streamline the training and inference process for language models while optimizing resource utilization and reducing model size. Authors are encouraged to explore various ways to enhance efficiency, including parameter-efficient tuning and methods for learning with less data and smaller model sizes, ultimately leading to more scalable, practical, and resource-efficient  NLP systems.
 
 ## Two Stage Review: Submission to ARR, Commitment to EMNLP
-EMNLP 2024 will use ACL Rolling Review (ARR) as a reviewing system, but final decisions will be made by the conference. Both submissions of articles for review and commitment of reviewed articles to the conference will be performed via the Open Review platform. Specifically, authors will follow a two-step process:
+EMNLP 2024 will use [ACL Rolling Review](https://aclrollingreview.org/cfp) (ARR) as a reviewing system, but final decisions will be made by the conference. Both submissions of articles for review and commitment of reviewed articles to the conference will be performed via the [Open Review](https://openreview.net) platform. Specifically, authors will follow a two-step process:
 
-- Authors submit articles to ARR, where submissions receive reviews and meta-reviews from ARR reviewers and action editors;
-- Authors commit their reviewed articles to a publication venue (e.g., EMNLP 2024), where Senior Area Chairs and Program Chairs make acceptance decisions from the ARR reviews and meta-reviews.
+* Authors submit articles to ARR, where submissions receive reviews and meta-reviews from ARR reviewers and action editors;
+* Authors commit their reviewed articles to a publication venue (e.g., EMNLP 2024), where Senior Area Chairs and Program Chairs make acceptance decisions from the ARR reviews and meta-reviews.
+
 
 EMNLP 2024 has chosen this approach in coordination with *CL 2024 conferences, which are adopting the same procedure and a coordinated submission plan to allow maximum flexibility during their submission periods for the authors. At each cycle, after a paper has been fully reviewed, authors have the option to commit their paper to a conference, or revise and resubmit for another round of reviews.
 
 The reviewing process will continue to be double-blind. Reviewers will not see authors, nor will authors see reviewers and reviews on ARR will not be made publicly visible. However, authors will be given the option through ARR to make their anonymized submitted articles publicly visible.
-
-## Choosing a Preferred Venue
-At the time of submission to ARR, authors will be asked to select a preferred venue (e.g., EMNLP 2024). This is used only to calculate acceptance rates. Authors who selected EMNLP 2024 as a preferred venue when submitting to ARR may choose not to commit to EMNLP 2024 after receiving their reviews, and authors who selected a preferred venue other than EMNLP 2024 when submitting to ARR are still welcome to commit to EMNLP 2024.
 
 ## Important Dates for EMNLP 2024
 <style>
 .news-table { font-size: .9em; table-layout: fixed;}
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
-| Abstract Submission deadline (Mandatory) | June 7, 2024
 | ARR submission deadline (long & short papers) | June 15, 2024
-| Notification of desk rejection for submissions to ARR 2024 June that violate the mandatory reviewing policy | June 17, 2024
 | Commitment deadline for EMNLP 2024 | August 20, 2024
-| Author response period | August 1-7, 2024
 | Notification of acceptance (long & short papers) | September 20, 2024
+| Camera-ready papers due (long & short) | October 3, 2024
 | Main Conference | November 12-14, 2024
 | Workshops and Tutorials | November 15-16, 2024
 
  
 __Note: All deadlines are 11:59PM UTC-12:00 (“anywhere on Earth”).__
 
-__Following the ACL and ARR policies, there is no anonymity period requirement.__
+__Following the [ACL and ARR policies](https://www.aclweb.org/portal/content/report-acl-committee-anonymity-policy), there is no anonymity period requirement.__
 
 At the time of submission to ARR, authors will be asked to select a preferred venue (e.g., EMNLP 2024). This is used only to calculate acceptance rates. Authors who selected EMNLP 2024 as a preferred venue when submitting to ARR may choose not to commit to EMNLP 2024 after receiving their reviews, and authors who selected a preferred venue other than EMNLP 2024 when submitting to ARR are still welcome to commit to EMNLP 2024.
 
@@ -110,6 +104,7 @@ Both long and short paper submissions should follow all of the [ARR submission r
 * [Multiple Submission Policy](https://aclrollingreview.org/cfp#multiple-submission-policy), [Resubmission Policy](https://aclrollingreview.org/cfp#resubmission-policy), and [Withdrawal Policy](https://aclrollingreview.org/cfp#withdrawal-policy)
 * [Ethics Policy](https://aclrollingreview.org/cfp#ethics-policy) including the [responsible NLP research checklist](https://aclrollingreview.org/responsibleNLPresearch)
 * [Limitations](https://aclrollingreview.org/cfp#limitations)
+* [Writing Assistance](https://2023.aclweb.org/blog/ACL-2023-policy/)
 * [Paper Submission and Templates](https://aclrollingreview.org/cfp#paper-submission-and-templates)
 * [Optional Supplementary Materials](https://aclrollingreview.org/cfp#optional-supplementary-materials-appendices-software-and-data)
 
