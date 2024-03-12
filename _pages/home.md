@@ -58,7 +58,7 @@ EMNLP 2024 will take place in Miami, Florida from **Nov 12th to Nov 16th, 2024**
 ## Important Dates
 <b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</b>
 
-<!-- ### Main Conference Papers -->
+### Main Conference Papers
 <style>
 .news-table { font-size: .9em; table-layout: fixed;}
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
