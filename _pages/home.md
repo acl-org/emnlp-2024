@@ -39,7 +39,7 @@ EMNLP 2024 will take place in Miami, Florida from **Nov 12th to Nov 16th, 2024**
 ### Main Conference Papers
 <style>
 .news-table { font-size: .9em; table-layout: fixed;}
-.news-table tr td:nth-child(1) { font-weight: bold; width: 50em; }
+.news-table tr td:nth-child(1) { font-weight: bold; width: 30em; }
 </style>
 | ARR submission deadline (long & short papers) | June 15, 2024
 | Commitment deadline for EMNLP 2024 | August 20, 2024
