@@ -291,7 +291,7 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Veronica Perez Rosas"
+   name="Veronica Perez-Rosas"
    picture="/assets/images/EMNLP-2024-Headshots/veronica-perez-rosas.jpeg"
    site="https://vrncapr.engin.umich.edu/"
    institution="Indian Institute of Science (IISc), Bangalore"
