@@ -65,9 +65,9 @@ sidebar:
 {% include committee-member.html
    name="Franck Dernouncourt"
    picture="/assets/images/EMNLP-2024-Headshots/franck-dernoncourt.jpeg"
-   site="https://research.adobe.com/person/franck-dernoncourt/"
+   site="https://francky.me/"
    institution="Adobe Research"
-   email = "dernonco@adobe.com"
+   email = "franck.dernoncourt@gmail.com"
 %}
 
 {% include committee-member.html
