@@ -239,7 +239,7 @@ sidebar:
    name="Shruti Rijhwani"
    picture="/assets/images/EMNLP-2024-Headshots/shruti-rhijwani.jpeg"
    site="https://shrutirij.github.io/"
-   institution="Google Deepmind"
+   institution="Google DeepMind"
    email = "shrutirijhwani@gmail.com"
 %}
 
