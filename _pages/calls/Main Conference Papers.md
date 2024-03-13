@@ -24,7 +24,7 @@ Papers may be submitted to the ARR 2024 June cycle (link to be provided later).
 Papers that have received reviews and a meta-review from ARR (whether from the ARR 2024 June cycle or an earlier ARR cycle) may be committed to EMNLP (link to be provided later).
 
 
-## Mandatory Reviewing Workload
+## Mandatory Reviewing Workload (NEW!!)
 As our pace of research continues to increase, we need to reinforce the commitment to reviewing for each paper submission. During the final submission process, authors will be required to specify which co-authors are committing to cover reviewing in this reviewing cycle. Authors selected to do this must fulfill the following requirements:
 
 * They must have an updated Open Review profile.
