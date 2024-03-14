@@ -41,7 +41,7 @@ sidebar:
    email = "yvchen@csie.ntu.edu.tw"
 %}
 
-<h2>Local Chair</h2>
+<h2>Local Chairs</h2>
 {% include committee-member.html
    name="Mark Finlayson"
    picture="/assets/images/EMNLP-2024-Headshots/mark-finlayson.jpg"
