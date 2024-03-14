@@ -394,3 +394,20 @@ sidebar:
    institution="AI2"
    email = "lianhui@ucsd.edu"
 %}
+
+<h2>Past Program Chair Advisors</h2>
+{% include committee-member.html
+   name="Juan Pino"
+   picture="/assets/images/EMNLP-2024-Headshots/juan-pino.jpeg"
+   site="https://twitter.com/juanmiguelpino"
+   institution="Meta"
+   email = "juancarabina@meta.com"
+%}
+
+{% include committee-member.html
+   name="Kevin Duh"
+   picture="/assets/images/EMNLP-2024-Headshots/kevin-duh.jpg"
+   site="https://www.cs.jhu.edu/~kevinduh/"
+   institution="Johns Hopkins University"
+   email = "kevinduh@cs.jhu.edu"
+%}
