@@ -71,7 +71,7 @@ sidebar:
 %}
 
 {% include committee-member.html
-   name="Daniel Preotiuc"
+   name="Daniel Preoțiuc-Pietro"
    picture="/assets/images/EMNLP-2024-Headshots/daniel-preotiuc.jpeg"
    site="https://www.preotiuc.ro/"
    institution="Bloomberg"
