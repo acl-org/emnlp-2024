@@ -59,7 +59,7 @@ EMNLP 2024 aims to have a broad technical program. Relevant topics for the confe
 * Summarization
 * Syntax: Tagging, Chunking and Parsing
 * NLP Applications
-* __Special Theme:__ Efficiency in Model Training and Inference: Addressing Data Requirements and Model Size 
+* __Special Theme:__ Efficiency in Model Algorithms, Training, and Inference
 
 ## EMNLP 2024 Theme Track: Efficiency in Model Algorithms, Training, and Inference
 This track provides a platform for researchers to explore key aspects of making model algorithms, training, and inference more efficient, e.g., quantization,  data requirements, and model size. We welcome submissions that propose innovative approaches, methodologies, and techniques to streamline the training and inference process for language models while optimizing resource utilization and reducing model size. Authors are encouraged to explore various ways to enhance efficiency, including parameter-efficient tuning and methods for learning with less data and smaller model sizes, ultimately leading to more scalable, practical, and resource-efficient NLP systems.
