@@ -78,6 +78,14 @@ sidebar:
    email = "dpreotiucpie@bloomberg.net"
 %}
 
+{% include committee-member.html
+   name="Anastasia Shimorina"
+   picture="/assets/images/EMNLP-2024-Headshots/anastasia-shimorina.jpg"
+   site="https://openreview.net/profile?id=~Anastasia_Shimorina1"
+   institution="Orange Innovation"
+   email = "anastasia.shimorina@orange.com"
+%}
+
 
 
 <h2>Workshop Chairs
