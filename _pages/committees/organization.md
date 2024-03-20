@@ -262,6 +262,15 @@ sidebar:
 
 
 <h2>Student Volunteer Chairs</h2>
+
+{% include committee-member.html
+   name="Shubhra Kanti (Santu) Karmaker"
+   picture="/assets/images/EMNLP-2024-Headshots/Santu-Karmaker.png"
+   site="https://karmake2.github.io/"
+   institution="Auburn University"
+   email = "sks0086@auburn.edu"
+%}
+
 {% include committee-member.html
    name="Nafise Sadat Moosavi"
    picture="/assets/images/EMNLP-2024-Headshots/nafise-sadat-moosavi.jpg"
@@ -277,15 +286,6 @@ sidebar:
    institution="Boston College"
    email = "prudhome@bc.edu"
 %}
-
-<!-- {% include committee-member.html
-   name=""
-   picture="/assets/images/EMNLP-2024-Headshots/"
-   site=""
-   institution=""
-   email = ""
-%}
- -->
 
 
 <h2>Diversity/Inclusion Chairs</h2>
@@ -351,6 +351,14 @@ sidebar:
 
 <h2>Sponsorship Chairs</h2>
 {% include committee-member.html
+   name="Heba Elfardy"
+   picture="/assets/images/EMNLP-2024-Headshots/heba-elfardy.jpeg"
+   site="https://scholar.google.com/citations?user=L6lzWrYAAAAJ&hl=en&oi=ao"
+   institution="Amazon"
+   email = "heba.elfardy@gmail.com"
+%}
+
+{% include committee-member.html
    name="Leonardo Neves"
    picture="/assets/images/EMNLP-2024-Headshots/leonardo-neves.jpg"
    site="https://www.linkedin.com/in/lrmneves"
@@ -358,14 +366,7 @@ sidebar:
    email = "lneves@snapchat.com"
 %}
 
-<!-- {% include committee-member.html
-   name=""
-   picture="/assets/images/EMNLP-2024-Headshots/"
-   site=""
-   institution=""
-   email = ""
-%}
- -->
+
 
 <h2>Website Chairs</h2>
 {% include committee-member.html
