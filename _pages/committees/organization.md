@@ -146,13 +146,13 @@ sidebar:
    email = "luciana.benotti@unc.edu.ar"
 %}
 
-<!-- {% include committee-member.html
-   name=""
-   picture="/assets/images/EMNLP-2024-Headshots/"
-   site=""
-   institution=""
-   email = ""
-%} -->
+{% include committee-member.html
+   name="Sunipa Dev"
+   picture="/assets/images/EMNLP-2024-Headshots/sunipa-dev.jpeg"
+   site="http://sunipa.github.io/"
+   institution="Google Research"
+   email = "sunipadev@google.com"
+%}
 
 <h2>Demonstration Chairs</h2>
 {% include committee-member.html
