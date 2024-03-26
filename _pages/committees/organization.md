@@ -146,6 +146,15 @@ sidebar:
    email = "luciana.benotti@unc.edu.ar"
 %}
 
+
+{% include committee-member.html
+   name="Snigdha Chaturvedi"
+   picture="/assets/images/EMNLP-2024-Headshots/snigdha-chaturvedi.jpeg"
+   site="https://sites.google.com/site/snigdhac/"
+   institution="University of North Carolina at Chapel Hill"
+   email = "snigdha@cs.unc.edu"
+%}
+
 {% include committee-member.html
    name="Sunipa Dev"
    picture="/assets/images/EMNLP-2024-Headshots/sunipa-dev.jpeg"
