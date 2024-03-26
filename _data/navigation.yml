@@ -29,7 +29,7 @@ main:
     url: /organization
   
   - title: "Sponsors"
-    url: /sponsors
+    url: /sponsors/
   
   - title: "Contact"
     url: /contact 

@@ -226,7 +226,7 @@ toc_label: "&nbsp;Sponsorship Tier"
 #     image_path: /assets/images/logos/STB_Passion_logo.png
 #     alt: SPMP
 #     title: SPMP
-
+---
 EMNLP 2024 is extremely grateful to all sponsors. We simply couldn’t run the conference without the help of these generous organizations. We thank them sincerely for their ongoing support of the NLP/CL community.  
   
 If your organization would like to sponsor EMNLP or other conferences in the ACL family, please refer to the <a href= "/downloads/Sponsorship_Brochure_for_ACL_2024_conferences.pdf">sponsorship brochure</a> for information about sponsorship rates and benefits.
