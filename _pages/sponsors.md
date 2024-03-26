@@ -254,7 +254,7 @@ If your organization would like to sponsor EMNLP or other conferences in the ACL
 </style>
 
 
-## Diamond
+<!-- ## Diamond
 
 # {% include sponsors-list id="diamond" layout="third" %}
 
@@ -288,4 +288,4 @@ If your organization would like to sponsor EMNLP or other conferences in the ACL
 
 # ## Held in
 
-# {% include sponsors-list id="held_in" layout="third" %}
+# {% include sponsors-list id="held_in" layout="third" %} -->
