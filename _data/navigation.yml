@@ -13,8 +13,8 @@ main:
   #- title: "Registration"
   #  url: /registration/
 
-  # - title: "Participants Info"
-  #   url: /participants/
+  - title: "Participants Info"
+    url: /participants/
 
   - title: "Calls"
     url: /calls/main_conference_papers/

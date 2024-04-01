@@ -9,7 +9,7 @@ sidebar:
     nav: participants
 ---
 
-## To Authors: Submission Requirements for Underline
+<!-- ## To Authors: Submission Requirements for Underline
 
 ### Oral Presentation (In-Person or Remote)
 
@@ -114,16 +114,13 @@ Visa Information
 For more information on visas and to check if you need a visa, please visit [here](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements). You are advised to apply for an entry visa within 30 days prior to arrival in Singapore.
 
 
-
+ -->
 
 ## Invitation Letters
-A letter of invitation will be issued once you register for the EMNLP 23 Conference through YesEvents and can be printed for your travel. 
+We are pleased to announce that we have created a [form](https://forms.office.com/r/rwq33DTqhL) for conference attendees to request an invitation letter for a visa. If you need an invitation letter to apply for a visa, go to the form and follow the instructions. Note that this form is only for those submitting papers to the main conference tracks, as well as invited speakers for and members of the organizing committees for the main conference and co-located workshops. If you are only submitting a paper to a workshop, please reach out to your workshop organizers for an invitation letter. If you have any questions, please don't hesitate to reach out to the local arrangements chairs [Mark Finlayson](mailto:markaf@fiu.edu) and [Zoey Liu](mailto:liu.ying@ufl.edu).
 
 
-Participants from some Countries will need an additional Visa [V39A form](https://drive.google.com/file/d/101n0IyxzeS53HbcElWBqwbprS45MMH3Z/view). The ACL has designated CMA International Consultants to assist in the issuance of V39A form to support visa application. If you need assistance in getting your V39A letter, click [here](https://forms.gle/gwAP1Rhj5kejr7vY8).
-
-
-## Airports
+<!-- ## Airports
 
 Singapore Changi Airport (SIN) are responsible for the arrival and departure of hundreds of flights every day.  The distance from Airport to Resorts World Convention Centre is 23.9km.
   
@@ -210,5 +207,5 @@ It is the responsibility of the community as a whole to promote an inclusive and
 ## ACL Anti-Harassment Policy
 
 EMNLP adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Any participant who experiences harassment or hostile behaviour may contact any current member of the [ACL Professional Conduct Committee](https://www.aclweb.org/adminwiki/index.php/Professional_Conduct_Committee). Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
-
+ -->
 
