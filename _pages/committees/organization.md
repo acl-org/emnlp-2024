@@ -63,9 +63,9 @@ sidebar:
 <h2>Industry Track Chairs </h2>
 
 {% include committee-member.html
-   name="Franck Dernouncourt"
+   name="Franck Dernoncourt"
    picture="/assets/images/EMNLP-2024-Headshots/franck-dernoncourt.jpeg"
-   site="https://francky.me/"
+   site="http://francky.me/"
    institution="Adobe Research"
    email = "franck.dernoncourt@gmail.com"
 %}
