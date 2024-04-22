@@ -26,7 +26,7 @@ Papers that have received reviews and a meta-review from ARR (whether from the A
 
 ## Mandatory Reviewing Workload (NEW!!)
 
-As our pace of research continues to increase, we need to strengthen the commitment to reviewing for each paper submission. During the ARR submission process, authors will be required to specify which co-authors are committing to cover reviewing in this reviewing cycle. Please see the new ARR policy regarding reviewing workload here: [https://aclrollingreview.org/reviewing-workload-requirement/](https://aclrollingreview.org/reviewing-workload-requirement/) As this is an ARR-wide policy for all *CL conferences, questions or clarifications should be addressed to ARR directly.
+As our pace of research continues to increase, we need to strengthen the commitment to reviewing for each paper submission. During the ARR submission process, authors will be required to specify which co-authors are committing to cover reviewing in this reviewing cycle. Please see the new ARR policy regarding reviewing workload [here](https://aclrollingreview.org/reviewing-workload-requirement/). As this is an ARR-wide policy for all *CL conferences, questions or clarifications should be addressed to ARR directly.
 
 ## Submission Topics
 EMNLP 2024 aims to have a broad technical program. Relevant topics for the conference include, but are not limited to, the following areas:
