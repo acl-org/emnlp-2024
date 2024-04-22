@@ -12,7 +12,7 @@ toc_icon: "cog"
 ## Overview
 EMNLP 2024 Industry Track (Miami, Florida, USA)
 
-Main Conference: **12 - 14 November 2024**
+**Main Conference: 12 - 14 November 2024**
 
 **Paper Submission Deadline: 18 July 2024**
 
