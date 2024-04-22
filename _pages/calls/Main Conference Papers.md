@@ -25,13 +25,8 @@ Papers that have received reviews and a meta-review from ARR (whether from the A
 
 
 ## Mandatory Reviewing Workload (NEW!!)
-As our pace of research continues to increase, we need to reinforce the commitment to reviewing for each paper submission. During the final submission process, authors will be required to specify which co-authors are committing to cover reviewing in this reviewing cycle. Authors selected to do this must fulfill the following requirements:
 
-* They must have an updated Open Review profile.
-* They must have published at least three papers in *CL conferences in the last five years.
-* They must commit to review at least three papers
-
-Due to challenges faced in meeting reviewing needs, papers that do not meet the criteria above by the full paper deadline may be subject to desk rejection. There are, of course, exceptional circumstances that we will consider. For example, one co-author might not meet the minimum three paper requirement, while the other one might already be serving in a different capacity (Area Chair, Senior Area Chair, or similar). This restriction will not apply in cases where all authors are new to the *CL community and therefore cannot fulfill the second requirement above. We welcome submissions from groups new to *CL. But in most cases, papers have many authors that can fulfill the reviewing workload requirement. We ask authors to help by providing this information by the final submission deadline.
+As our pace of research continues to increase, we need to strengthen the commitment to reviewing for each paper submission. During the ARR submission process, authors will be required to specify which co-authors are committing to cover reviewing in this reviewing cycle. Please see the new ARR policy regarding reviewing workload here: [https://aclrollingreview.org/reviewing-workload-requirement/](https://aclrollingreview.org/reviewing-workload-requirement/) As this is an ARR-wide policy for all *CL conferences, questions or clarifications should be addressed to ARR directly.
 
 ## Submission Topics
 EMNLP 2024 aims to have a broad technical program. Relevant topics for the conference include, but are not limited to, the following areas:
