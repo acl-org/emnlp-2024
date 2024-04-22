@@ -139,8 +139,8 @@ calls:
         url: /calls/main_conference_papers/
       # - title: "System Demonstrations"
       #   url: /calls/demos/
-      # - title: "Industry Track"
-      #   url: /calls/industry_track/
+      - title: "Industry Track"
+        url: /calls/industry_track/
       # - title: "Style Files and Formatting"
       #   url: /calls/style-and-formatting/
 #       - title: "Volunteers"
