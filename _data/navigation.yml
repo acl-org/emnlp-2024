@@ -47,15 +47,15 @@ main:
 
 
 
-# program:
-#   - title: "Programs"
-#     children:
+program:
+  - title: "Programs"
+    children:
 #       - title: "Conference Overview"
 #         url: /program/
 #       - title: "Workshops"
 #         url: /program/workshops/
-#       - title: "Tutorials"
-#         url: /program/tutorials/
+      - title: "Tutorials"
+        url: /program/tutorials/
 #   - title: Events
 #     children:
 #       - title: "Keynotes"
