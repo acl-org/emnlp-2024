@@ -1,7 +1,7 @@
 ---
 title: Conference Overview
 layout: single
-excerpt: "EMNLP 2023 Conference Overview."
+excerpt: "EMNLP 2024 Conference Overview."
 permalink: /program/
 sidebar:
     nav: program

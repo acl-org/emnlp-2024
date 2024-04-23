@@ -1,7 +1,7 @@
 ---
 title: Tutorials
 layout: single
-excerpt: "EMNLP 2023 Tutorials."
+excerpt: "EMNLP 2024 Tutorials."
 permalink: /program/tutorials/
 toc: true
 toc_sticky: true

@@ -7,8 +7,8 @@ main:
   # - title: "MiniConf"
   #   url: https://virtual2023.emnlp.org/
     
-  # - title: "Program"
-  #   url: /program/
+  - title: "Program"
+    url: /program/
 
   #- title: "Registration"
   #  url: /registration/
@@ -50,8 +50,8 @@ main:
 program:
   - title: "Programs"
     children:
-      - title: "Conference Overview"
-        url: /program/
+      # - title: "Conference Overview"
+      #   url: /program/
 #       - title: "Workshops"
 #         url: /program/workshops/
       - title: "Tutorials"
