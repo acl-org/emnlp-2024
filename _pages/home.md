@@ -17,6 +17,8 @@ EMNLP 2024 will take place in Miami, Florida from **Nov 12th to Nov 16th, 2024**
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2024-4-23 | [Tutorials](program/tutorials) have been listed.
+| 2024-4-23 | Information on [System Demonstrations](calls/demos) is available.
 | 2024-4-23 | Update regarding [mandatory reviewing workload](calls/main_conference_papers/#mandatory-reviewing-workload-new).
 | 2024-4-22 | Information on [Industry Track](/calls/industry_track) is now available.
 | 2024-3-31 | Information on [Invitation letters](/participants/#invitation-letters) has been released.
