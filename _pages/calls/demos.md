@@ -71,6 +71,7 @@ As in previous years, EMNLP 2024’s demo track will feature a Best Demo Award. 
 Submissions must include the following: 
 
 **A Paper**
+
 A paper submitted to accompany a demonstration should outline the design of the system and provide sufficient details to allow the evaluation of its validity, quality, and relevance to natural language processing. Technical details of the system are required, including visual aids (e.g., screenshots, snapshots, or diagrams). A paper can do this by addressing the following questions:
 
 - What problem does the proposed system address?
