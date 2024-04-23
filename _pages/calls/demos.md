@@ -126,8 +126,8 @@ Authors will be allowed extra space after the 6th page for a broader impact stat
 
 ## Demonstration Co-chairs
 
-[Tom Hope](tomh@allenai.org), AI2
-[Manling Li](manlingl@stanford.edu), Stanford/Northwestern
-[Delia Irazu Hernandez Farias](dirazuhf@inaoep.mx), Instituto Nacional de Astrofísica, Óptica y Electrónica
+- [Tom Hope](tomh@allenai.org), AI2
+- [Manling Li](manlingl@stanford.edu), Stanford/Northwestern
+- [Delia Irazu Hernandez Farias](dirazuhf@inaoep.mx), Instituto Nacional de Astrofísica, Óptica y Electrónica
 
 
