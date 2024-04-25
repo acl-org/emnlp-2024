@@ -85,7 +85,7 @@ A paper submitted to accompany a demonstration should outline the design of the 
 
 Note that this year, submissions that do not report any form of evaluation may be desk rejected.
 
-Paper submission is electronic, using the OpenReview conference management system. Please submit your papers [here](https://openreview.net/group?id=EMNLP/2024/Demo_Track)
+Paper submission is electronic, using the OpenReview conference management system. Please submit your papers [here](https://openreview.net/group?id=EMNLP/2024/Demo_Track).
 
 Submissions can contain up to **6 pages** (longer submissions will be desk rejected), plus unlimited extra space for an optional ethics/broader impact statement and also unlimited space for references. Appendices are allowed but are limited to a maximum of 2 pages (note the difference to main track papers).  Accepted papers will be given one additional page of content, so that reviewers’ comments can be taken into account.
 
