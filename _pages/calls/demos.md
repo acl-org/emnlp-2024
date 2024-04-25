@@ -127,9 +127,9 @@ Authors will be allowed extra space after the 6th page for a broader impact stat
 
 ## Demonstration Co-chairs
 
-- Tom Hope, AI2: [tomh@allenai.org](mailto:tomh@allenai.org)
-- Manling Li, Stanford/Northwestern: [manlingl@stanford.edu](mailto:manlingl@stanford.edu)
-- Delia Irazu Hernandez Farias, Instituto Nacional de Astrofísica, Óptica y Electrónica: [dirazuhf@inaoep.mx](mailto:dirazuhf@inaoep.mx)
+- [Tom Hope](https://tomhoper.github.io/), AI2
+- [Manling Li](https://limanling.github.io/), Stanford/Northwestern
+- [Delia Irazu Hernandez Farias](https://ccc.inaoep.mx/directorio-de-investigadores-y-personal/investigadores/delia-irazu-hernandez-farias), Instituto Nacional de Astrofísica, Óptica y Electrónica
 
 Contact: [emnlp2024-demo-track@googlegroups.com](mailto:emnlp2024-demo-track@googlegroups.com)
 
