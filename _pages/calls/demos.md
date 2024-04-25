@@ -10,7 +10,7 @@ toc_icon: "cog"
 ---
 
 
-The EMNLP 2024 System Demonstration Program Committee invites proposals for the Demonstrations Program. Demonstrations may range from early research prototypes to mature production-ready systems. Publicly available open-source or open-access systems are of special interest. We additionally strongly encourage demonstrations of industrial systems that are technologically innovative given the current state of the art of theory and applied research in natural language processing. Each submitted demonstration must be accompanied by a submitted paper describing the system (see below) and a video.
+The EMNLP 2024 System Demonstration Program Committee invites proposals for the Demonstrations Program. Demonstrations may range from early research prototypes to mature production-ready systems. Publicly available open-source or open-access systems are of special interest. We additionally strongly encourage demonstrations of industrial systems that are technologically innovative given the current state of the art of theory and applied research in natural language processing.
 
 Areas of interest include all topics related to theoretical and applied natural language processing, such as (but not limited to) the topics listed on the main conference website.
 
