@@ -34,7 +34,7 @@ Contributions are invited across all spectrums of language technologies and syst
 ## Topics of Interest
 The EMNLP 2024 Industry Track provides the opportunity to highlight the key insights and new research challenges that arise from the development and deployment of real-world applications using language technologies.
 
-Relevant areas include System design, efficiency, maintainability and scalability of real-world applications, with topics in alphabetical order including, but not limited to:
+Relevant areas include system design, efficiency, maintainability and scalability of real-world applications, with topics in alphabetical order including, but not limited to:
 - Benchmarks and methods for improving the latency and efficiency of systems
 - Continuous maintenance and improvement of deployed systems
 - Efficient methods for training and inference
