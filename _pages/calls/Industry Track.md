@@ -85,7 +85,7 @@ The papers should be submitted through the [EMNLP 2024 industry track online sub
 
 **Formatting**
 
-Manuscripts should be submitted electronically, in PDF format and formatted using the templates available here. Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
+Manuscripts should be submitted electronically, in PDF format and formatted using the templates available [here](https://acl-org.github.io/ACLPUB/formatting.html). Please do not modify these style files, nor should you use templates designed for other conferences. Submissions that do not conform to the required styles, including paper size, margin width, and font size restrictions, will be rejected without review.
 
 **Length**
 
