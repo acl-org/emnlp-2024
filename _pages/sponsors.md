@@ -231,6 +231,13 @@ EMNLP 2024 is extremely grateful to all sponsors. We simply couldn’t run the c
   
 If your organization would like to sponsor EMNLP or other conferences in the ACL family, please refer to the <a href= "/downloads/Sponsorship_Brochure_for_ACL_2024_conferences.pdf">sponsorship brochure</a> for information about sponsorship rates and benefits.
 
+As a sponsor, you can also help us with our diversity and inclusion (D&I)  initiatives through D&I sponsorship. The goal of this initiative is to make the conference more accessible to people from underrepresented groups and geographic regions, provide accommodations to researchers with disabilities, and make the conference more welcoming to newcomers. As the registration fees can be 2 to 10 times the minimum wage in many parts of the world, the D&I committee reaches out to NLP researchers from underrepresented groups and offers registration fee waivers, travel grants, caregiving subsidies, etc. We also organize theme-based academic mentoring sessions and affinity group socials/workshops to help newcomers and early-career researchers. This year, in addition to our other initiatives, we plan to trial the following:
+
+- ACL Fellow Lunch: Students and junior researchers meet with past and current ACL Fellows;
+- Future Intern program: Companies can directly sponsor individuals whose research is of potential interest and who might be able to apply for an internship the following year;
+- Paper Internships: Companies or institutions with travel grants invite students or young researchers to collaborate on a paper whose research is partially underway (without being officially interns) and sponsor their participation in the conference.
+
+Our D&I initiatives would not be successful without the help of sponsors. In previous conferences, we have been able to reach out to hundreds of NLP researchers around the world. At ACL 2023, more than 166 applied for D&I subsidies and with the help of our sponsors, we offered 10 full travel grants, 7 in-person registration fee waivers, 46 virtual waivers and 43 ACL membership waivers, and 1 childcare subsidy.
 
 <style>
 .sponsors-list { justify-content: flex-start; }
