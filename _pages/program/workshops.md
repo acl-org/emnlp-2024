@@ -61,8 +61,8 @@ Organizers: Joel Tetreault, Thien Huu Nguyen, Hemank Lamba and Amanda Hughes
 17. **Workshop on Customizable NLP: Progress and Challenges in Customizing NLP for a Domain, Application, Group, or Individual (CustomNLP4U)** 
 Organizers: Chan Young Park, Vidhisha Balachandran, Weijia Shi, Shirley Anugrah Hayati and Sachin Kumar
 
-#### The Second Workshop on Social Influence in Conversations (SICon 2024) 
+18. **The Second Workshop on Social Influence in Conversations (SICon 2024)** 
 Organizers: Muskan Garg, Kushal Chawla, Weiyan Shi, Ritam Dutt, Deuksin Brian Kwon, James Hale, Daniel Hershcovich, Aina Gari Soler, Liang Qiu, Alexandros Papangelis, Zhou Yu and Gale Lucas
 
-#### Ninth Conference on Machine Translation (WMT24) 
+19. **Ninth Conference on Machine Translation (WMT24)** 
 Organizers: Philipp Koehn, Barry Haddow, Christof Monz and Tom Kocmi
