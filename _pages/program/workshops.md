@@ -49,7 +49,7 @@ Organizers: Matthew Shardlow, Marcos Zampieri, Kai North, Fernando Alva-Manchego
 13. **The 11th Workshop on Asian Translation (WAT2024)** 
 Organizers: Toshiaki Nakazawa, Isao Goto, Raj Dabre, Shantipriya Parida, Hidaya Mino, Chenhui Chu, Akiko Eriguchi, Yusuke Oda  and Makoto Morishita
 
-14 **CoNLL 2024** 
+14. **CoNLL 2024** 
 Organizers: Julia Hockenmaier and Afra Alishahi
 
 15. **The Sixth Workshop on Narrative Understanding** 
