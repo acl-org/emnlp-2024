@@ -1,7 +1,7 @@
 ---
 title: Workshops
 layout: single
-excerpt: "EMNLP 2023 Workshops."
+excerpt: "EMNLP 2024 Workshops."
 permalink: /program/workshops/
 toc: true
 toc_sticky: true
@@ -10,78 +10,59 @@ sidebar:
     nav: program
 ---
 
+#### The 3rd International Workshop on Natural Language Processing for Digital Humanities (NLP4DH) 
+Organizers: Mika Hämäläinen, Emily Öhman, Khalid Alnajjar, So Miyagawa and Yuri Bizzoni
 
+#### BlackboxNLP 2024: Analysing and interpreting neural networks for NLP 
+Organizers: Najoung Kim, Jaap Jumelet, Hosein Mohebbi, Hanjie Chen and Yonatan Belinkov
 
-<!-- Note that while the main conference time zone is Singapore Standard Time (UTC+8), workshop time zones vary. -->
+#### NLP4Science: The First Workshop on Natural Language Processing for Science 
+Organizers: Nitay Calderon, Alex Chapanin, Rotem Dror, Amir Feder, Ariel Goldstein, Anna Korhonen, Shir Lissak, Yaakov Ophir, Roi Reichart, Ilanit Sobol, Refael Tikochinski and Mor Ventura
 
-[Workshop chairs](https://2023.emnlp.org/organization/): Sujian Li, Alex Marin and Hao Fei.
+#### Seventh Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2024) 
+Organizers: Maciej Ogrodniczuk, Sameer Pradhan, Anna Nedoluzhko, Massimo Poesio and Vincent Ng
 
-Please refer to each individual event's website for more details.
+#### GenBench: The second workshop on generalisation (benchmarking) in NLP 
+Organizers: Dieuwke Hupkes, Verna Dankers, Amirhossein Kazemnejad, Khuyagbaatar Batsuren, Ryan Cotterell and Christos Christodoulopoulos
 
-## Wednesday & Thursday, December 6<sup>th</sup> & 7<sup>th</sup>
+#### Natural Legal Language Processing (NLLP) Workshop 2024 
+Organizers: Nikolaos Aletras, Leslie Barrett, Ilias Chalkidis, Catalina Goanta, Daniel Preotiuc-Pietro and Gerasimos Spanakis
 
-**W1: [The SIGNLL Conference on Computational Natural Language Learning(CoNLL)](https://www.conll.org/2023)** (IN-PERSON ATTENDANCE ONLY)
+#### The 4th Workshop on Multi-lingual Representation Learning 
+Organizers: Duygu Ataman, Benjamin Muller, Hila Gonen, Gozde Gul Sahin, Sebastian Ruder, Genta Indra Winata and David Adelani
 
+#### The Eighth Widening NLP Workshop (WiNLP 2024) 
+Organizers: Atnafu Lambebo Tonja, Mukund Rungta, Shaily Bhatt, Weijia Xu, Sunipa Dev, Bonaventure F. P. Dossou, Isidora Chara Tourni and Alfredo Gomez
 
-**W2: [The Sixth Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2023)](https://sites.google.com/view/crac2023/)**
+#### Seventh Workshop on Fact Extraction and VERification (FEVER) 
+Organizers: Michael Sejr Schlichtkrull, Mubashara Akhtar, Rami Aly, Christos Christodoulopoulos, Oana Cocarascu, Zhijiang Guo, Zhenyun Deng, Arpit Mittal, James Thorne and Andreas Vlachos
 
+#### Third Workshop on NLP for Positive Impact 
+Organizers: Zhijing Jin, Rada Mihalcea, Joel Tetreault, Jieyu Zhao, Steven Wilson, Oana Ignat and Daryna Dementieva
 
-**W3: [The Eighth Conference on Machine Translation (WMT23)](http://www.statmt.org/wmt23/)**
+#### NLP for Wikipedia Workshop 
+Organizers: Lucie-Aimée Kaffee, Isaac Johnson, Angela Fan, Tajuddeen Gwadabe, Fabio Petroni and Daniel van Strien
 
+#### Workshop on Text Simplification, Accessibility and Readability 
+Organizers: Matthew Shardlow, Marcos Zampieri, Kai North, Fernando Alva-Manchego, Sian Gooding, Sanja Stajner and Horacio Saggion
 
-## Wednesday, December 6<sup>th</sup>
+#### The 11th Workshop on Asian Translation (WAT2024) 
+Organizers: Toshiaki Nakazawa, Isao Goto, Raj Dabre, Shantipriya Parida, Hidaya Mino, Chenhui Chu, Akiko Eriguchi, Yusuke Oda  and Makoto Morishita
 
-**W4: [GenBench: The first workshop on generalisation (benchmarking) in NLP](https://genbench.org/workshop/)**
+#### CoNLL 2024 
+Organizers: Julia Hockenmaier and Afra Alishahi
 
+#### The Sixth Workshop on Narrative Understanding 
+Organizers: Faeze Brahman, Anneliese Brei, Khyathi Raghavi Chandu, Snigdha Chaturvedi, Elizabeth Clark, Yash Kumar Lal and Mohit Iyyer
 
-**W5: [The 4th International Workshop on Computational Approaches to Historical Language Change (LChange'23)](https://www.changeiskey.org/event/2023-emnlp-lchange/)**
+#### Workshop on the Future of Event Detection 
+Organizers: Joel Tetreault, Thien Huu Nguyen, Hemank Lamba and Amanda Hughes
 
+#### Workshop on Customizable NLP: Progress and Challenges in Customizing NLP for a Domain, Application, Group, or Individual (CustomNLP4U) 
+Organizers: Chan Young Park, Vidhisha Balachandran, Weijia Shi, Shirley Anugrah Hayati and Sachin Kumar
 
-**W6: [The 4th New Frontiers in Summarization Workshop (NewSumm)](https://newsumm.github.io/2023/)**
+#### The Second Workshop on Social Influence in Conversations (SICon 2024) 
+Organizers: Muskan Garg, Kushal Chawla, Weiyan Shi, Ritam Dutt, Deuksin Brian Kwon, James Hale, Daniel Hershcovich, Aina Gari Soler, Liang Qiu, Alexandros Papangelis, Zhou Yu and Gale Lucas
 
-
-**W7: [The 3rd Workshop for Natural Language Processing Open Source Software (NLP-OSS)](https://nlposs.github.io/)**
-
-
-**W8: [The Pattern-based Approaches to NLP in the Age of Deep Learning Workshop (Pan-DL)](https://pan-dl.github.io/)**
-
-
-**W9: [The Seventh Widening NLP Workshop (WiNLP 2023)](https://www.winlp.org/)**
-
-
-**W10: [Combined Workshop on Spatial Language Understanding and Grounded Communication for Robotics (SpLU-RoboNLP)](https://splu-robonlp-2023.github.io/)**
-
-
-**W11: [Natural Language Generation, Evaluation, and Metric (GEM)](https://gem-benchmark.com/workshop)**
-
-
-
-## Thusday, December 7<sup>th</sup>
-
-
-
-**W12: [The	10th Workshop on Argument Mining(ArgMining)](https://argmining-org.github.io/2023/)**
-
-
-**W13: [The Big Picture: Crafting a Research Narrative (BigPicture)](https://www.bigpictureworkshop.com/)**
-
-
-**W14: [BlackboxNLP 2023: The 6th Workshop on Analysing and Interpreting Neural Networks for NLP](https://blackboxnlp.github.io)**
-
-
-**W15: [The Sixth Workshop on Computational Approaches to Linguistic Code Switching](https://code-switching.github.io/2023)**
-
-
-**W16: [The Natural Legal Language Processing Workshop 2023 (NLLP)](https://nllpw.org/workshop/)**
-
-
-**W17: [The First Arabic Natural Language Processing Conference (ArabicNLP 2023)](https://wanlp2023.sigarab.org/)**
-
-
-**W18: [The Third Workshop on Multi-lingual Representation Learning(MRL)](https://sigtyp.github.io/ws2023-mrl.html)**
-
-
-**W19: [Novel Ideas in Learning to Learn through Interaction (NILLI)](https://www.cs.mcgill.ca/~pparth2/nilli_workshop_2023)**
-
-
-**W20: [The First Bangla Language Processing Workshop (BLP)](https://blp-workshop.github.io/)**
+#### Ninth Conference on Machine Translation (WMT24) 
+Organizers: Philipp Koehn, Barry Haddow, Christof Monz and Tom Kocmi
