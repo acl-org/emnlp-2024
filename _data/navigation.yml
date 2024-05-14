@@ -52,8 +52,8 @@ program:
     children:
       # - title: "Conference Overview"
       #   url: /program/
-#       - title: "Workshops"
-#         url: /program/workshops/
+       - title: "Workshops"
+         url: /program/workshops/
       - title: "Tutorials"
         url: /program/tutorials/
 #   - title: Events
