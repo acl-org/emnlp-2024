@@ -245,7 +245,7 @@ Our D&I initiatives would not be successful without the help of sponsors. In pre
 
 ## Contact
 
-For more information, please reach out to the sponsorship chairs: [Leonardo Neves](mailto:lneves@snap.com) and [Heba Elfardy](heba.elfardy@gmail.com).
+For more information, please reach out to the sponsorship chairs: [Leonardo Neves](mailto:lneves@snap.com) and [Heba Elfardy](mailto:heba.elfardy@gmail.com).
 
 <style>
 .sponsors-list { justify-content: flex-start; }
