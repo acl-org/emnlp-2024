@@ -398,14 +398,6 @@ sidebar:
 
 <h2>Virtual Infrastructure Chair</h2>
 {% include committee-member.html
-   name="Daniel Fried"
-   picture="/assets/images/EMNLP-2024-Headshots/daniel-fried.jpeg"
-   site="https://dpfried.github.io/"
-   institution="Carnegie Mellon University"
-   email = "dfried@cs.cmu.edu"
-%}
-
-{% include committee-member.html
    name="Lianhui Qin"
    picture="/assets/images/EMNLP-2024-Headshots/lianhui-qin.jpg"
    site="https://sites.google.com/view/lianhuiqin/home?pli=1"
