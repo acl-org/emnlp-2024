@@ -17,7 +17,7 @@ Organizers: Mika Hämäläinen, Emily Öhman, Khalid Alnajjar, So Miyagawa and Y
 Organizers: Najoung Kim, Jaap Jumelet, Hosein Mohebbi, Hanjie Chen and Yonatan Belinkov
 
 3. **NLP4Science: The First Workshop on Natural Language Processing for Science** 
-Organizers: Nitay Calderon, Alex Chapanin, Rotem Dror, Amir Feder, Ariel Goldstein, Anna Korhonen, Shir Lissak, Yaakov Ophir, Roi Reichart, Ilanit Sobol, Refael Tikochinski and Mor Ventura
+Organizers: Nitay Calderon, Alex Chapanin, Rotem Dror, Amir Feder, Ariel Goldstein, Anna Korhonen, Shir Lissak, Yaakov Ophir,  Lotem Peled-Cohen, Roi Reichart, Ilanit Sobol, Refael Tikochinski and Mor Ventura
 
 4. **Seventh Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2024)** 
 Organizers: Maciej Ogrodniczuk, Sameer Pradhan, Anna Nedoluzhko, Massimo Poesio and Vincent Ng
