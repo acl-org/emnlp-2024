@@ -44,7 +44,7 @@ Organizers: Zhijing Jin, Rada Mihalcea, Joel Tetreault, Jieyu Zhao, Steven Wilso
 Organizers: Lucie-Aimée Kaffee, Isaac Johnson, Angela Fan, Tajuddeen Gwadabe, Fabio Petroni and Daniel van Strien
 
 12. **Workshop on Text Simplification, Accessibility and Readability** 
-Organizers: Matthew Shardlow, Marcos Zampieri, Kai North, Fernando Alva-Manchego, Sian Gooding, Sanja Stajner and Horacio Saggion
+Organizers: Matthew Shardlow, Marcos Zampieri, Kai North, Fernando Alva-Manchego, Sian Gooding, Sanja Štajner and Horacio Saggion
 
 13. **The 11th Workshop on Asian Translation (WAT2024)** 
 Organizers: Toshiaki Nakazawa, Isao Goto, Raj Dabre, Shantipriya Parida, Hidaya Mino, Chenhui Chu, Akiko Eriguchi, Yusuke Oda  and Makoto Morishita
