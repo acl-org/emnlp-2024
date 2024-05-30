@@ -405,6 +405,15 @@ sidebar:
    email = "lianhui@ucsd.edu"
 %}
 
+{% include committee-member.html
+   name="Vladimir Araujo"
+   picture="/assets/images/EMNLP-2024-Headshots/vladamir-araujo.jpeg"
+   site="https://vgaraujov.github.io"
+   institution="KU Leuven"
+   email = "vgaraujo@uc.cl"
+%}
+
+
 <h2>Past Program Chair Advisors</h2>
 {% include committee-member.html
    name="Juan Pino"
