@@ -109,13 +109,13 @@ sidebar:
 
 
 
-<!-- {% include committee-member.html
-   name=""
-   picture="/assets/images/EMNLP-2024-Headshots/"
-   site=""
-   institution=""
-   email = ""
-%} -->
+{% include committee-member.html
+   name="Marta R. Costa-Jussa"
+   picture="/assets/images/EMNLP-2024-Headshots/ESbsByqWsAE5lKa.jpeg"
+   site="https://costa-jussa.com/"
+   institution="Meta AI"
+   email = "costajussa@meta.com"
+%}
 
 
 <h2>Tutorial Chairs </h2>
