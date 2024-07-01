@@ -9,61 +9,48 @@ toc_sticky: false
 
 ## Student Volunteer Program
 
-A limited number of student volunteers are needed for the success of EMNLP 2023. Both online and in-person event volunteers are needed.
+A limited number of student volunteers are needed for the success of EMNLP 2024. A link to the application portal will appear here on August 28.
 
-Tasks may include assisting at the registration desk, filling delegate packs, managing poster board sessions and displays, serving as volunteer coordinator for the day, and/or AV/technical support such as (but not limited to) managing social media (X/Twitter) and providing assistance for conference events including tutorials, the main conference, and workshops (either online or in-person versions).
+Tasks may include assisting at the registration desk, filling delegate packs, managing poster board sessions and displays, serving as volunteer coordinator for the day, providing AV/technical support, and assisting with tutorials and workshops. There will also be a limited number of opportunities for support with virtual conference activities.
 
-In exchange for one full day equivalent of work, students receive free registration to the main conference (including the ACL membership fee of the current year), workshops and tutorials, and the social events. The work will be divided, probably into two half-day shifts, and the shifts will be scheduled to maximize volunteer access to the conference events.
+In exchange for one full day equivalent of work, student volunteers receive free registration to the main conference (including the ACL membership fee of the current year), workshops, tutorials, and the social events. The work will be divided into two or more shifts, and the shifts will be scheduled to maximize volunteer access to conference events.
 
-*We'd like to kindly inform you that the award does not include provisions for travel and accommodation.* If travel support is essential for you, we encourage you to explore the [Diversity & Inclusion (D&I)](https://2023.emnlp.org/calls/subsidies/) funds as well. Additionally, we're offering an optional reduced rate for accommodation at 220 SGD for a double room for our volunteers.
+Please note that we cannot provide funds for travel or accommodation. Travel funds for eligible students may be available from the Diversity & Inclusion (D&I) Program [link TBD].
 
+## Tentative Important Dates
 
-## Important Dates
+**All deadlines are 23:59 UTC -12h (“anywhere on Earth”).**
 
-<b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</b>
-
-Application deadline: October 20, 2023
-
-Notification of acceptance: November 3, 2023
-
-
+- Application portal opens:   28 August 2024
+- Application deadline:         30 September 2024
+- Acceptance notifications:  11 October 2024 (subject to change)
 
 ## Selection Criteria
+The selection process for the Student Volunteer Program will involve a careful evaluation of the materials submitted by applicants. We encourage both newcomers and those with prior volunteer experience to apply. Priority consideration will be given to individuals who meet the following two criteria:
 
-The selection process for the Student Volunteer Program will involve a careful evaluation of the materials submitted by applicants. Priority consideration will be given to individuals who meet either of the following two criteria:
+Students who will be presenting a paper at the main conference or an associated workshop, whether in person or online.
+Students who demonstrate financial need. We recommend that applicants include with their application a letter from their faculty advisor to explain financial need, if possible.
 
-- Students who will be presenting a paper at the main conference or an associated workshop, whether in person or online. We encourage both newcomers and those with prior volunteer experience to apply.
-- Student presenters who demonstrate financial need (Applicants can optionally include a letter from faculty advisor to explain financial need).
+**IMPORTANT:** Applicants who are selected must commit to attending the training sessions and fulfilling the assigned responsibilities. If you are unsure whether you will attend the conference, please do not apply. We expect every accepted volunteer to show up and demonstrate enthusiasm for helping out the conference.
 
-**IMPORTANT: Applicants who are selected must commit to attending the training sessions and fulfilling the assigned responsibilities. If you are unsure whether you will attend the conference, please do not apply–we expect every volunteer to show up and demonstrate enthusiasm for helping out the conference**.
+## Application Procedure
+Applicants for the Student Volunteer Program must be full-time students at the undergraduate or graduate level. If possible, we will also consider applications from postdocs who lack travel funding and very recent PhDs who have not yet secured employment.
 
+Applications will be collected via Google Form, which will ask for information to demonstrate your eligibility and allow you to submit a CV, and where applicable, a letter from their advisor demonstrating financial need. A link to the Google Form will be posted here by August 28, 2024. The deadline for applications will be September 30, 2024.
 
+You are free to make your travel arrangements at your convenience, but DO NOT REGISTER for the conference until you have received an email confirming that you have been accepted as a volunteer. This email will explain how to get a registration link that will waive the registration fee. If you are not accepted, the registrar will work with you to secure early registration fee rates even if the deadline for early registration has passed.
 
-## Submission Procedure
-
-Applicants for the Student Volunteer Program must be full-time students and should submit the completed application form where we ask a few questions and a one-page CV (resume). Students should make travel arrangements and accommodations independent of the results of the application. We plan to offer the option of reduced rate student housing for accepted volunteers, but please note that you are still responsible for the cost of accommodation.
-
-- EMNLP Singapore 2023 [Volunteer Registration Application](https://docs.google.com/forms/d/e/1FAIpQLScHMDNQJbdU9dT4eUZTpxXIJkhF3rc0_Zv1K98A7tx7_-utFA/viewform?usp=sf_link) 
-
-Please **DO NOT REGISTER** for the EMNLP 2023 Conference until someone has reached out to you or you have received a Congratulatory email confirming your Volunteer Service Acceptance. Once you have received this Acceptance notification you will receive a special link to register in which your registration fees are waived. Additionally, a separate email containing a Volunteer Registration form will be sent to you, in which you can list what volunteer preference task you would like based on your skillset (i.e. registration, volunteer coordinator, poster session liaison etc.). This form must be completed FIRST in order to receive the EMNLP Conference 2023 LINK to have registration fees waived. If for any reason you are not accepted, the Registrar will work with you to secure early registration fee rates.
-In the case that a student requires reimbursement after the conference for LATE volunteer registration, the student must provide receipt of paid registration fees from debit or bank account (i.e., a business expense report) to the ACL Assistant Director of Events, Megs Haddad <a href="mailto:acl.megshaddad@gmail.com">acl.megshaddad@gmail.com</a>).
-
-
-## Summary of Important Notes
-
-- Student volunteers receive only free conference registration and free ACL membership for the year, and must be responsible for all other costs such as travel and accommodation.
-- Student volunteers may also apply to the [Diversity & Inclusion (D&I)](https://2023.emnlp.org/calls/subsidies/) grant, which may help offset additional cost. The application procedures are separate.
-- We plan to notify acceptance of student volunteer status on November 3, 2023. Please do not register for the conference before that.
-- Student volunteers who do NOT show up to their training sessions and their assigned duties will be charged the full cost after the conference.
-
+## Important Reminders
+- Student volunteers receive free registration and ACL membership for the year. 
+- Volunteers are responsible for travel and accommodations. Travel funds for eligible students may be available from the Diversity & Inclusion (D&I) program [link TBD].
+- Please apply for the program only if you are sure you will attend.
+- We tentatively plan to notify acceptance of student volunteer status by October 11, 2024. Please do not register for the conference before that.
+- Student volunteers who do not show up to their training sessions and their assigned duties will be charged the full cost after the conference.
 
 ## Student Volunteer Chairs
 
-Contact: emnlp2023-volunteers@googlegroups.com
+- Nafise Sadat Moosavi, University of Sheffield: n.s.moosavi@sheffield.ac.uk
 
-- Mamoru Komachi, Hitotsubashi University (Japan)
-- Kevin Duh, Johns Hopkins University (USA)
-- Ekaterina Kochmar, MBZUAI (UAE)
+- Shubhra Kanti (Santu) Karmaker, Auburn University: sks0086@auburn.edu
 
-
-
+- Emily Prud'hommeaux, Boston College: prudhome@bc.edu
