@@ -9,7 +9,7 @@ toc_sticky: false
 
 ## Student Volunteer Program
 
-A limited number of student volunteers are needed for the success of EMNLP 2024. A link to the application portal will appear here on August 28.
+A limited number of student volunteers are needed for the success of EMNLP 2024. We expect to post a link to the application portal here on this website by August 28, 2024.
 
 Tasks may include assisting at the registration desk, filling delegate packs, managing poster board sessions and displays, serving as volunteer coordinator for the day, providing AV/technical support, and assisting with tutorials and workshops. There will also be a limited number of opportunities for support with virtual conference activities.
 
@@ -28,13 +28,13 @@ Please note that we cannot provide funds for travel or accommodation. Travel fun
 ## Selection Criteria
 The selection process for the Student Volunteer Program will involve a careful evaluation of the materials submitted by applicants. We encourage both newcomers and those with prior volunteer experience to apply. Priority consideration will be given to individuals who meet the following two criteria:
 
-Students who will be presenting a paper at the main conference or an associated workshop, whether in person or online.
-Students who demonstrate financial need. We recommend that applicants include with their application a letter from their faculty advisor to explain financial need, if possible.
+- Students who will be presenting a paper at the main conference or an associated workshop, whether in person or online.
+- Students who demonstrate financial need. We recommend that applicants include with their application a letter from their faculty advisor to explain financial need, if possible.
 
 **IMPORTANT:** Applicants who are selected must commit to attending the training sessions and fulfilling the assigned responsibilities. If you are unsure whether you will attend the conference, please do not apply. We expect every accepted volunteer to show up and demonstrate enthusiasm for helping out the conference.
 
 ## Application Procedure
-Applicants for the Student Volunteer Program must be full-time students at the undergraduate or graduate level. If possible, we will also consider applications from postdocs who lack travel funding and very recent PhDs who have not yet secured employment.
+Applicants for the Student Volunteer Program must be full-time students at the undergraduate or graduate level. If feasible, we will also consider applications from postdocs who lack travel funding and very recent PhDs who have not yet secured employment.
 
 Applications will be collected via Google Form, which will ask for information to demonstrate your eligibility and allow you to submit a CV, and where applicable, a letter from their advisor demonstrating financial need. A link to the Google Form will be posted here by August 28, 2024. The deadline for applications will be September 30, 2024.
 
