@@ -49,8 +49,8 @@ You are free to make your travel arrangements at your convenience, but DO NOT RE
 
 ## Student Volunteer Chairs
 
-- Nafise Sadat Moosavi, University of Sheffield: (mailto:n.s.moosavi@sheffield.ac.uk)
+- Nafise Sadat Moosavi, University of Sheffield: [n.s.moosavi@sheffield.ac.uk](mailto:n.s.moosavi@sheffield.ac.uk)
 
-- Shubhra Kanti (Santu) Karmaker, Auburn University: (mailto:sks0086@auburn.edu)
+- Shubhra Kanti (Santu) Karmaker, Auburn University: [sks0086@auburn.edu](mailto:sks0086@auburn.edu)
 
-- Emily Prud'hommeaux, Boston College: (mailto:prudhome@bc.edu)
+- Emily Prud'hommeaux, Boston College: [prudhome@bc.edu](mailto:prudhome@bc.edu)
