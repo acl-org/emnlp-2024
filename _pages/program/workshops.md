@@ -29,7 +29,7 @@ Organizers: Dieuwke Hupkes, Verna Dankers, Amirhossein Kazemnejad, Khuyagbaatar 
 Organizers: Nikolaos Aletras, Leslie Barrett, Ilias Chalkidis, Catalina Goanta, Daniel Preotiuc-Pietro and Gerasimos Spanakis
 
 7. **The 4th Workshop on Multi-lingual Representation Learning** 
-Organizers: Duygu Ataman, Benjamin Muller, Hila Gonen, Gozde Gul Sahin, Sebastian Ruder, Genta Indra Winata and David Adelani
+Organizers: David Ifeoluwa Adelani, Duygu Ataman, Mammad Hajili, Raghav Mantri, Abraham Owodunni, Jonne Saleva, David Strap and Francesco Tinner 
 
 8. **The Eighth Widening NLP Workshop (WiNLP 2024)** 
 Organizers: Atnafu Lambebo Tonja, Mukund Rungta, Shaily Bhatt, Weijia Xu, Sunipa Dev, Bonaventure F. P. Dossou, Isidora Chara Tourni and Alfredo Gomez
