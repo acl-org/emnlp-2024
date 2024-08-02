@@ -8,9 +8,6 @@ sidebar:
 ---
 
 
-### Commonsense Reasoning
-**SACS:**
-
 ### Computational Social Science and Cultural Analytics
 **SACS:** [Chenhao Tan](mailto:chenhao@uchicago.edu), [David Bamman](mailto:dbamman@berkeley.edu), [Svitlana Volkova](mailto:svolkova@aptima.com), [Tanmoy Chakraborty](mailto:chak.tanmoy.iit@gmail.com)
 
