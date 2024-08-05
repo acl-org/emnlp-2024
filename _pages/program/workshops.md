@@ -23,7 +23,7 @@ Organizers: Nitay Calderon, Alex Chapanin, Rotem Dror, Amir Feder, Ariel Goldste
 Organizers: Maciej Ogrodniczuk, Sameer Pradhan, Anna Nedoluzhko, Massimo Poesio and Vincent Ng
 
 5. **GenBench: The second workshop on generalisation (benchmarking) in NLP** 
-Organizers: Dieuwke Hupkes, Verna Dankers, Amirhossein Kazemnejad, Khuyagbaatar Batsuren, Ryan Cotterell and Christos Christodoulopoulos
+Organizers: Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Amirhossein Kazemnejad, Khuyagbaatar Batsuren, Ryan Cotterell and Christos Christodoulopoulos
 
 6. **Natural Legal Language Processing (NLLP) Workshop 2024** 
 Organizers: Nikolaos Aletras, Leslie Barrett, Ilias Chalkidis, Catalina Goanta, Daniel Preotiuc-Pietro and Gerasimos Spanakis
