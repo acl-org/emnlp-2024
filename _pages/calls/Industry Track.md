@@ -61,6 +61,7 @@ Methods for deployed systems, with topics in alphabetical order including, but n
 
 ## Important Dates
 - Paper submission deadline: July 18, 2024
+- Reviewer-author discussion period: 5-11 September, 2024
 - Notification: October 1, 2024
 - Camera-ready version of papers due: October 15, 2024
 - Main conference: 12 - 14 November 2024
