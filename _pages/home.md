@@ -17,6 +17,7 @@ EMNLP 2024 will take place in Miami, Florida from **Nov 12th to Nov 16th, 2024**
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2024-8-5 | [EMNLP commitment link](https://openreview.net/group?id=EMNLP/2024/Conference) is available. More details [here](calls/main_conference_papers).
 | 2024-6-4 | [ARR submission link](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/June#tab-your-consoles) is available. Submission details [here](calls/main_conference_papers).
 | 2024-5-20 | [Workshops](program/workshops) have been listed.
 | 2024-4-23 | [Tutorials](program/tutorials) have been listed.

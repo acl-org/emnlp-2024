@@ -21,7 +21,7 @@ EMNLP 2024 invites the submission of long and short papers featuring substantial
 
 ## Paper Submission Information
 Papers may be submitted to the ARR 2024 [June cycle](https://openreview.net/group?id=aclweb.org/ACL/ARR/2024/June#tab-your-consoles).
-Papers that have received reviews and a meta-review from ARR (whether from the ARR 2024 June cycle or an earlier ARR cycle) may be committed to EMNLP (link to be provided later).
+Papers that have received reviews and a meta-review from ARR (whether from the ARR 2024 June cycle or an earlier ARR cycle) may be committed to EMNLP via the [commitment link](https://openreview.net/group?id=EMNLP/2024/Conference).
 
 
 ## Mandatory Reviewing Workload (NEW!!)
