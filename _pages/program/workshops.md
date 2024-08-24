@@ -50,7 +50,7 @@ Organizers: Matthew Shardlow, Marcos Zampieri, Kai North, Fernando Alva-Manchego
 Organizers: Toshiaki Nakazawa, Isao Goto, Raj Dabre, Shantipriya Parida, Hidaya Mino, Chenhui Chu, Akiko Eriguchi, Yusuke Oda  and Makoto Morishita
 
 14. **CoNLL 2024** 
-Organizers: Julia Hockenmaier and Afra Alishahi
+Organizers: Libby Barak and Malihe Alikhani
 
 15. **The Sixth Workshop on Narrative Understanding** 
 Organizers: Faeze Brahman, Anneliese Brei, Khyathi Raghavi Chandu, Snigdha Chaturvedi, Elizabeth Clark, Yash Kumar Lal and Mohit Iyyer
