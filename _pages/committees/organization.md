@@ -276,8 +276,8 @@ sidebar:
    name="Shubhra Kanti (Santu) Karmaker"
    picture="/assets/images/EMNLP-2024-Headshots/Santu-Karmaker.png"
    site="https://karmake2.github.io/"
-   institution="Auburn University"
-   email = "sks0086@auburn.edu"
+   institution="University of Central Florida"
+   email = "santu@ucf.edu"
 %}
 
 {% include committee-member.html
