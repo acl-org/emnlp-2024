@@ -9,11 +9,11 @@ toc_sticky: false
 
 ## Student Volunteer Program
 
-A limited number of student volunteers are needed for the success of EMNLP 2024. We expect to post a link to the application portal here on this website by August 28, 2024.
+A limited number of student volunteers are needed for the success of EMNLP 2024. Please apply [here]()
 
 Tasks may include assisting at the registration desk, filling delegate packs, managing poster board sessions and displays, serving as volunteer coordinator for the day, providing AV/technical support, and assisting with tutorials and workshops. There will also be a limited number of opportunities for support with virtual conference activities.
 
-In exchange for one full day equivalent of work, student volunteers receive free registration to the main conference (including the ACL membership fee of the current year), workshops, tutorials, and the social events. The work will be divided into two or more shifts, and the shifts will be scheduled to maximize volunteer access to conference events.
+In exchange for **10 hours of work**, student volunteers receive free registration to the main conference (including the ACL membership fee of the current year), workshops, tutorials, and the social events. The work will be divided into two or more shifts, and the shifts will be scheduled to maximize volunteer access to conference events.
 
 Please note that we cannot provide funds for travel or accommodation. Travel funds for eligible students may be available from the Diversity & Inclusion (D&I) Program [link TBD].
 
