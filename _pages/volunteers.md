@@ -9,7 +9,7 @@ toc_sticky: false
 
 ## Student Volunteer Program
 
-A limited number of student volunteers are needed for the success of EMNLP 2024. Please apply [here]()
+A limited number of student volunteers are needed for the success of EMNLP 2024. Please apply [here](https://forms.gle/2kVSJGP6NLuXMgnv7)
 
 Tasks may include assisting at the registration desk, filling delegate packs, managing poster board sessions and displays, serving as volunteer coordinator for the day, providing AV/technical support, and assisting with tutorials and workshops. There will also be a limited number of opportunities for support with virtual conference activities.
 
