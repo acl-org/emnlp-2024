@@ -262,8 +262,11 @@ As a sponsor, you can also help us with our diversity and inclusion (D&I)  initi
 ### Diversity and Inclusion Ally
 - Apple
 
+## Contact
 
-## Novel Initiatives
+For more information, please reach out to the sponsorship chairs: [Leonardo Neves](mailto:lneves@snap.com) and [Heba Elfardy](mailto:heba.elfardy@gmail.com).
+
+## Novel D&I Initiatives
 
 This year, in addition to our other initiatives, we plan to trial the following:
 
@@ -273,9 +276,9 @@ This year, in addition to our other initiatives, we plan to trial the following:
 
 Our D&I initiatives would not be successful without the help of sponsors. In previous conferences, we have been able to reach out to hundreds of NLP researchers around the world. At ACL 2023, more than 166 applied for D&I subsidies and with the help of our sponsors, we offered 10 full travel grants, 7 in-person registration fee waivers, 46 virtual waivers and 43 ACL membership waivers, and 1 childcare subsidy.
 
-## Contact
+### Contact for D&I Initiatives
 
-For more information, please reach out to the sponsorship chairs: [Leonardo Neves](mailto:lneves@snap.com) and [Heba Elfardy](mailto:heba.elfardy@gmail.com).
+For more information, please reach out to the D&I chairs: [Christos Christodoulopoulos](mailto:chrchrs@amazon.co.uk), [Veronica Perez-Rosas](mailto:vrncapr@umich.edu) and [Danish Pruthi](mailto:danishp@iisc.ac.in).
 
 <style>
 .sponsors-list { justify-content: flex-start; }
