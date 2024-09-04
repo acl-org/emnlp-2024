@@ -84,4 +84,4 @@ sidebar:
 **SACs:** [Ramakanth Pasunuru](mailto:rpasunuru@meta.com), [Xiaojun Wan](mailto:wanxiaojun@pku.edu.cn)
 
 ### Syntax, Parsing and their Applications
-**SACs:** [Weiwei Sun](mailto:sunnweiwei@gmail.com)
+**SACs:** [Lingpeng Kong](mailto:lpk@cs.hku.hk), [Najoung Kim](mailto:najoung@bu.edu)
