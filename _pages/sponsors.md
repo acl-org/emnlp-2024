@@ -42,10 +42,10 @@ diamond:
   image_path: /assets/images/logos/bloomberg-logo.png
   alt: Bloomberg
   title: Bloomberg
-  # - url: https://research.google
-  #   image_path: /assets/images/logos/google-logo.png
-  #   alt: Google
-  #   title: Google
+- url: https://deepmind.google/
+  image_path: /assets/images/logos/googledeepmind-logo.png
+  alt: Google Deepming
+  title: Google Deepmind
   # - url: https://nyuad.nyu.edu/en/
   #   image_path: /assets/images/logos/nyuad-logo.png
   #   alt: New York University Abu Dhabi
@@ -54,7 +54,7 @@ diamond:
   #   image_path: /assets/images/logos/mbzuai-logo.png
   #   alt: Mohamed bin Zayed University of Artificial Intelligence
   #   title: Mohamed bin Zayed University of Artificial Intelligence
-# platinum:
+platinum:
   # - url: https://www.microsoft.com
   #   image_path: /assets/images/logos/microsoft-logo.jpg
   #   alt: Microsoft
@@ -63,10 +63,14 @@ diamond:
   #   image_path: /assets/images/logos/Alibaba-logo.png
   #   alt: Alibaba
   #   title: Alibaba
-  # - url: https://megagon.ai
-  #   image_path: /assets/images/logos/megagon-logo.png
-  #   alt: Megagon
-  #   title: Megagon
+- url: https://megagon.ai
+  image_path: /assets/images/logos/megagon-logo.png
+  alt: Megagon
+  title: Megagon
+- url:  https://cohere.com/
+  image_path: /assets/images/logos/cohere-logo.png
+  alt: Cohere  
+  title: Cohere  
   # - url: https://home.baidu.com/home/index
   #   image_path: /assets/images/logos/baidu-logo.png
   #   alt: Baidu
@@ -87,10 +91,6 @@ diamond:
   #   image_path: /assets/images/logos/ahrefs-logo.png
   #   alt: Ahrefs 
   #   title: Ahrefs
-  # - url:  https://cohere.com/
-  #   image_path: /assets/images/logos/cohere-logo.png
-  #   alt: Cohere  
-  #   title: Cohere  
   # - url: https://www.scai.sa/
   #   # image_path: /assets/images/logos/scai-logo.png
   #   # alt: SCAI
@@ -108,10 +108,6 @@ diamond:
 #     image_path: /assets/images/logos/salesforce.png
 #     alt: salesforce
 #     title: salesforce
-#   - url: https://www.antgroup.com
-#     image_path: /assets/images/logos/Ant-Group-logo.png
-#     alt: Ant Group
-#     title: Ant Group
 #   - url: https://www.jpmorgan.com/technology/applied-ai-and-ml/machine-learning
 #     image_path: /assets/images/logos/JPMorgan JP Morgan Chase Co-logo.png
 #     alt: JPMorgan JP Morgan Chase & Co. Machine Learning Center of Excellence
@@ -140,15 +136,15 @@ diamond:
   #   image_path: /assets/images/logos/tii-logo.png
   #   alt: Technology Innovation Institute (TII) in Abu Dhabi
   #   title: Technology Innovation Institute (TII) in Abu Dhabi    
-# silver:
+silver:
+- url: https://www.antgroup.com/en
+  image_path: /assets/images/logos/antgroup-logo.png
+  alt: Ant Group
+  title: Ant Group
 #   - url: https://aixplain.com/
 #     image_path: /assets/images/logos/aixplain-logo.png
 #     alt: aiXplain
 #     title: aiXplain
-#   - url: https://translated.com/welcome
-#     image_path: /assets/images/logos/translated-logo.png
-#     alt: Translated
-#     title: Translated  
 #   - url: https://research.duolingo.com
 #     image_path: /assets/images/logos/duolingo-logo.png
 #     alt: Duolingo
@@ -157,7 +153,15 @@ diamond:
 #     image_path: /assets/images/logos/jenni-ai-logo.png
 #     alt: jenni.ai
 #     title: jenni.ai  
-# bronze:
+bronze:
+- url: https://translated.com/welcome
+  image_path: /assets/images/logos/translated-logo.png
+  alt: Translated
+  title: Translated
+- url: https://www.janestreet.com/
+  image_path: /assets/images/logos/janestreet-logo.png
+  alt: Jane Street
+  title: Jane Street
 #   - url: https://babelscape.com
 #     image_path: /assets/images/logos/babelscape-logo.png
 #     alt: Babelscape
@@ -195,11 +199,11 @@ diamond:
 #     image_path: /assets/images/logos/riken-api-logo.jpg
 #     alt: RIKEN AIP
 #     title: RIKEN AIP
-# di_ally:
-#   - url: https://www.amazon.science/
-#     image_path: /assets/images/logos/amazon-logo.png
-#     alt: Amazon
-#     title: Amazon
+di_ally:
+- url: https://machinelearning.apple.com
+  image_path: /assets/images/logos/apple.jpg
+  alt: Apple
+  title: Apple
   # - url: https://nyuad.nyu.edu/en/
   #   image_path: /assets/images/logos/nyuad-logo.png
   #   alt: New York University Abu Dhabi
@@ -236,6 +240,22 @@ As a sponsor, you can also help us with our diversity and inclusion (D&I)  initi
 ## Diamond
 
 {% include sponsors-list id="diamond" layout="third" %}
+
+## Platinum
+
+{% include sponsors-list id="platinum" layout="third" %}
+
+## Silver
+
+{% include sponsors-list id="silver" layout="third" %}
+
+## Bronze
+
+{% include sponsors-list id="bronze" layout="third" %}
+
+## Diversity and Inclusion: Ally
+
+{% include sponsors-list id="di_ally" layout="third" %}
 
 ## EMNLP 2024 Sponsors List
 
