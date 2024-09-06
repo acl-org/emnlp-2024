@@ -245,6 +245,10 @@ As a sponsor, you can also help us with our diversity and inclusion (D&I)  initi
 
 {% include sponsors-list id="platinum" layout="third" %}
 
+## Silver
+
+{% include sponsors-list id="silver" layout="third" %}
+
 ## Bronze
 
 {% include sponsors-list id="bronze" layout="third" %}
