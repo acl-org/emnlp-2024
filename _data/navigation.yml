@@ -46,15 +46,15 @@ main:
   #   url: /ethics/faq/
 
 
-participants:
-  - title: "Participants Information"
-    children:
-      - title: "Invitation Letters"
-        url: /participants/invitation_letters
-      - title: "Visa Requirements"
-        url: /participants/visa_requirements
-      - title: "Transportation"
-        url: /participants/transportation
+# participants:
+#   - title: "Participants Information"
+#     children:
+#       - title: "Invitation Letters"
+#         url: /participants/invitation_letters
+#       - title: "Visa Requirements"
+#         url: /participants/visa_requirements
+#       - title: "Transportation"
+#         url: /participants/transportation
 
 program:
   - title: "Programs"
