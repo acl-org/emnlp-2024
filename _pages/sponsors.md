@@ -13,7 +13,7 @@ toc_label: "&nbsp;Sponsorship Tier"
 #     title: Abu Dhabi Convention and Exhibition Bureau
 
 
-# diamond:
+diamond:
   # - url: https://www.sony.com/en/
   #   image_path: /assets/images/logos/sony-logo.png
   #   alt: Sony
@@ -38,10 +38,10 @@ toc_label: "&nbsp;Sponsorship Tier"
   #   image_path: /assets/images/logos/apple.jpg
   #   alt: Apple
   #   title: Apple
-  # - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/artificial-intelligence-ai/?utm_medium=cto&utm_content=site-partner&utm_source=site-
-  #   image_path: /assets/images/logos/bloomberg-logo.png
-  #   alt: Bloomberg
-  #   title: Bloomberg
+  - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/
+  image_path: /assets/images/logos/bloomberg-logo.png
+  alt: Bloomberg
+  title: Bloomberg
   # - url: https://research.google
   #   image_path: /assets/images/logos/google-logo.png
   #   alt: Google
