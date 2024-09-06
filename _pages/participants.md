@@ -9,203 +9,110 @@ sidebar:
     nav: participants
 ---
 
-<!-- ## To Authors: Submission Requirements for Underline
+## Accommodations
 
-### Oral Presentation (In-Person or Remote)
+## Venue
 
-If you are presenting an oral (in-person or remotely), you are required to submit: 
+## General Information
 
-* Pre-recording of your presentation (maximum length 6 min)
-* Presentation slides and/or poster PDF (up to 20MB)
+## Travel to Venue
 
-Whether you are presenting in-person or remotely, you are allocated 12 minutes to present your papers live and up to 3 minutes for Q&A. The length of your pre-recorded presentation does not correspond to the length of your actual live presentation.
+## Airports
 
-### Poster Presentation (In-Person)
+The closest international airport is Miami International Airport: MIA Distance 9 miles (14.48 kilometers). The conference hotel is about a 20 minute / $40 cab ride from MIA. 
 
-If you are presenting a poster in-person, you are required to submit:
+### Transportation from MIA
 
-* Pre-recording of your presentation (maximum length 6 min)
-* Poster PDF and/or presentation slides
+- [Taxis & Ride App](https://miami-airport.com/taxicabs-shuttles.asp) 
+    - Taxicabs & Ride App pickup zones are located on the arrival (ground) level of the airport, outside of the baggage claim areas. Learn more about transportation options available [here](https://miami-airport.com/taxicabs-shuttles.asp). Uber and Lyft are widely available throughout Miami.
 
-You are required to have a physical poster ready - A0, portrait
+- [Transportation Safety Tip](https://miami-airport.com/taxicabs-shuttles.asp)
+    - Passengers at MIA are advised to ignore offers of transportation from solicitors inside the terminal. Solicitation of ground transportation is an illegal activity and many illegal solicitors are unlicensed and uninsured. To obtain safe and legitimate ground transportation, please be sure to go to the designated Taxi stands located at the lower-level curb, outside of the baggage claim area, where uniformed Miami-Dade Aviation Department staff members will be happy to assist you.
+    - Please ignore any non-uniformed persons offering to assist with transportation or baggage. Always seek out uniformed airport employees with MIA ID badges for assistance.
 
-### Poster Presentation (Remote)
+- [Public Transportation](https://miami-airport.com/public-transportation.asp)
 
-If you are presenting a poster remotely, you are required to submit:
+    - Avoid parking and traffic traveling to and from Miami International Airport by using one of our affordable and convenient choices. Traveling made easy! Learn more [here](https://miami-airport.com/public-transportation.asp).
 
-* Pre-recording of your presentation (maximum length 6 min)
-* Poster PDF (up to 20MB, preferably landscape) or presentation slides
+- [Car Rentals](https://miami-airport.com/car-rentals.asp)
 
-### Findings Paper
+    - You can connect to the MIA Rental Car Center using the MIA Mover, located on the 3rd level between the Dolphin and Flamingo garages. Learn more [here](https://miami-airport.com/car-rentals.asp).
 
-If your paper has been accepted to findings, submitting your paper to Underline is OPTIONAL (regardless of presentation mode).
+    - Some travelers may find it convenient to fly into the [Fort Lauderdale International Airport (FLL)](https://www.fort-lauderdale-airport.com/) instead. FLL is about 1 hour by car north of the conference venue. A taxi from FLL to the conference center is about $90.
 
-* Pre-recording of your presentation (maximum length 6 min) - OPTIONAL
-* Poster PDF or presentation slides - OPTIONAL
+- [Brightline](https://www.gobrightline.com/train-stations)
+    - Brightline is an inter-city express train located at the Miami Central Station, and it connects Miami to Fort Lauderdale (including FLL), West Palm Beach, and Orlando. The company offers shuttles to drop you off at MIA.                
 
-Your paper will appear in the proceedings even if you do not submit to Underline.
 
-### Presenting Findings Paper
+### Hotel Parking
 
-If you are presenting your findings paper, submitting to Underline is OPTIONAL (regardless of the presentation mode).
+- Self-parking: $53.00
+- Valet parking: Standard vehicles $53.00; Oversize vehicles: $78.00
 
-* Pre-recording of your presentation (maximum length 6 min) - OPTIONAL
-* Poster PDF or presentation slides - OPTIONAL
+## Visa/Passport
 
-### Demo Paper
+The following questions will help you in determining whether and how to apply for a U.S. visa to attend the conference.
 
-If you are presenting a demo paper, you are required to submit:
+### Can I travel to the U.S. without a visa?
 
-* Pre-recording of your presentation (maximum length 4 min)
-* Poster PDF
-* Presentation slides - OPTIONAL
+Please see [this page](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visa-waiver-program.html) to determine whether you are eligible to apply for an [Electronic System Travel Authorization (ESTA)](https://esta.cbp.dhs.gov/) instead, which might be cheaper and easier. This is usually allowed if you hold a passport from a country that participates in the Visa Waiver Program, but there are some exceptions. Be sure to apply for the ESTA at least 72 hours in advance. [Do not](https://visaguide.world/tips/how-to-avoid-esta-fraud/) purchase your ESTA from any website other than the one linked above.
 
-### Industry Track Paper
+### What kind of visa do I need?
 
-If you are presenting an industry track paper, you are required to submit:
+To attend the conference, you should apply for a nonimmigrant B-1 visa. (This also [permits](https://www.cbp.gov/sites/default/files/documents/B-1%20permissible%20activities.pdf) you to engage in tourism during your trip.)
 
-* Pre-recording of your presentation (maximum length 4 min)
-* Presentation slides and/or poster PDF
+### How do I apply for a visa?
 
-### TACL/CL Paper
+Please apply well in advance. Visa applications can take from 1–4 months to be approved and normally require an interview at a U.S. Embassy or Consulate. For details, begin [here](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html) and navigate to the website for the embassy or consulate nearest you for further visa instructions.
 
-If you are presenting a TACL/CL paper, you are required to submit:
-* Pre-recording of your presentation (maximum length 6 min)
-* Presentation slides and/or a poster PDF
+### How much will it cost?
 
+The non-refundable visa application fee is [approximately $185](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/fees/fees-visa-services.html#temp) in local currency. Depending on your nationality, you may also have to pay a [visa issuance fee](https://travel.state.gov/content/travel/en/us-visas/Visa-Reciprocity-and-Civil-Documents-by-Country.html).
 
-### Important Note for In-Person Presentations
+### Invitation Letters
 
-If you will be presenting your paper in-person at the main conference (with the exception of findings), you are required to submit a pre-recording. Pre-recordings will be used as a backup in case you fail to present. Your presentation will also be available for participants to view in case they miss your live presentation or would like to see it at their convenience.
+We are pleased to announce that we have created a [form](https://forms.office.com/pages/responsepage.aspx?id=-KBNDTFKdk2s5gpiMx4bhPsn11I1EsNGsk44LIKnyTtUNFE0NlAxRkpSUDhLSk9CME9IT1NNQTJEUC4u) for conference attendees to request an invitation letter for a visa. If you need an invitation letter to apply for a visa, go to the form and follow the instructions. Note that this form is only for those submitting papers to the main conference tracks, as well as invited speakers for and members of the organizing committees for the main conference and co-located workshops. If you are only submitting a paper to a workshop, please reach out to your workshop organizers for an invitation letter. If you have any questions, please don’t hesitate to reach out to the local arrangements chairs [Mark Finlayson](mailto:markaf@fiu.edu) and [Zoey Liu](mailto:liu.ying@ufl.edu).
 
-### Submission Link
+A letter is not specifically required. However, you are supposed to [bring documentation](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html) to your visa interview. Bringing a letter from the conference organizers can help to establish the purpose of your trip: for example, we can document that you are coming to present a paper.
 
-[Underline Submission Form](https://emnlp2023-main.paperform.co/)
+In addition, if you have already paid for your registration, bringing your receipt can help to establish your ability to pay. In some countries, it may also be wise to bring a letter from your own institution that authorizes you to attend the conference.
 
+### What other documents may be needed in the visa interview?
 
-## To Authors
+**The answer to this question varies by the country where the interview is conducted, and perhaps also by your nationality. Typically you will be asked to bring:**
 
-For those Authors needing to print their posters you can take advantage of an onsite pick up. Please note deadlines and express printing charges may apply. [Order here](https://www.cma.sg/event/emnlp23/)
+- your visa interview appointment letter
 
+- [suitable](https://travel.state.gov/content/travel/en/us-visas/visa-information-resources/photos.html) photos or digital images
 
-## Visa Requirements
+- your passport, valid for at least 6 months beyond the period of stay in the U.S.
 
+- DS-160 application confirmation page
 
-For questions about visa letter request, please reach out at  [emnlp2023_visa_help@googlegroups.com](mailto:celine@nus.edu.sg). Our dedicated visa assistance team will be in touch to help out with the issues for attending.
+- application fee payment receipt
 
+**You may also bring other documentation that will help you answer the interviewer’s questions. The interviewer is particularly interested to establish:**
 
-Information for participants entering Singapore for EMNLP 2023 
-Traveling to Singapore All travelers are welcome to Singapore regardless of COVID-19 vaccination status. From 13 February 2023, all travelers can enter Singapore with no entry approvals, pre-departure tests, on-arrival tests, quarantine, and COVID-19 travel insurance required. 
-To enter Singapore, travelers need to ensure the following:
+- The purpose of your trip. See the previous question. You may also be asked to bring your CV.
 
-* A minimum of 6-months passport validity 
-* Visa, if applicable 
-* A submitted [SG Arrival Card](https://eservices.ica.gov.sg/sgarrivalcard/), up to 3 days before arrival  
-* An international certificate for vaccination for Yellow Fever, if applicable.
+- Your intent to depart the United States after your trip. You may wish to show your return ticket, and evidence of your work and family responsibilities outside the U.S.
 
+- Your ability to pay all costs of the trip. You may wish to show your bank statement, or evidence of travel grants or sponsorships, etc.
 
-For more information on entry to Singapore, you may visit [here](https://www.ica.gov.sg/enter-transit-depart/entering-singapore).
+- Your U.S. stay address. You may wish to bring your hotel booking information.
 
+### Is it safe to go ahead and register for the conference before I have a visa?
 
+Yes. If your visa application is denied, you can request a full refund or change your registration from in-person to virtual. Please contact the EMNLP 2024 Registrar at [EMNLPinfo@yesevents.com](mailto:EMNLPinfo@yesevents.com) or toll-free number 1-800-937-8728.
 
-From 11 March 2022, all foreign visitors arriving in Singapore will be notified digitally of their visit pass through email. There will not be any endorsement on your passport. The notification will indicate the period of stay granted and last day of stay allowed. Please ensure that you provide a valid email address when submitting the SG Arrival Card. 
-Visa Information 
+## About Miami
 
-For more information on visas and to check if you need a visa, please visit [here](https://www.ica.gov.sg/enter-transit-depart/entering-singapore/visa_requirements). You are advised to apply for an entry visa within 30 days prior to arrival in Singapore.
+## Things to do in Miami
 
+## Useful Information
 
- -->
+## Poster Printing
 
-## Invitation Letters
-We are pleased to announce that we have created a [form](https://forms.office.com/r/rwq33DTqhL) for conference attendees to request an invitation letter for a visa. If you need an invitation letter to apply for a visa, go to the form and follow the instructions. Note that this form is only for those submitting papers to the main conference tracks, as well as invited speakers for and members of the organizing committees for the main conference and co-located workshops. If you are only submitting a paper to a workshop, please reach out to your workshop organizers for an invitation letter. If you have any questions, please don't hesitate to reach out to the local arrangements chairs [Mark Finlayson](mailto:markaf@fiu.edu) and [Zoey Liu](mailto:liu.ying@ufl.edu).
+## Contact Us
 
-
-<!-- ## Airports
-
-Singapore Changi Airport (SIN) are responsible for the arrival and departure of hundreds of flights every day.  The distance from Airport to Resorts World Convention Centre is 23.9km.
-  
-
-
-## Transportation
-
-[Visit Singapore Transportation Options](https://www.visitsingapore.com/travel-guide-tips/getting-around/?cmp=SEM_STB-DC23-1015-SG-SEM_US_DC_ENG_NA_NONE_NONE_PM-GettingAround-NA_NA_GOOG_SEA_AO_Cross_XTG&gclid=CjwKCAjwyNSoBhA9EiwA5aYlbzum3cSywNAw_zM2PhqDwb3WO0fxua6u4CeF-_KbGd_p9-CQJ-t_2xoC5IsQAvD_BwE&gclsrc=aw.ds)
-
-
-[Changi Airport Options](https://www.changiairport.com/en/airport-guide/transport/leaving-the-airport.html)
-
-[Compare your options](https://www.rome2rio.com/): plane, train, bus, car, ferry, bike share, driving and walking directions all in one search.
-
-
-
-
-### Parking 
-
-Hotel Guests: 
-Drop your vehicles off at the hotel driveway and enjoy complimentary valet service and parking with every stay.
-
-
-Convention Centre: 
-
-Carpark Charges
-
-Monday - Thursday (excludes Public Holidays)
-
-SGD6.50 for 1st hour
-
-SGD1.10 for half hour or part thereof
-
-Capped at SGD13.10 per day (0000hrs to 2359hrs)
-
-Friday/Saturday/Sunday/Public Holiday
-
-SGD9.70 for 1st hour
-
-SGD1.10 for half hour or part thereof
-
-Capped at SGD16.30 per day (0000hrs to 2359hrs)
-
-
-## Local Law
-
-### Singapore Law: Public Assemblies and Processions
-
-Under the Public Order Act, a Police permit is required for a public assembly / procession if the purpose of the event is to:
-- Demonstrate support for or opposition to the views or actions of any persons, group of persons or any government
-- Publicise a cause or campaign
-- Mark or commemorate any event
-
-More information can be found on the [Ministry of Home Affairs website](https://www.mha.gov.sg/what-we-do/maintaining-law-and-order/maintaining-public-order#::text=Under%20the%20Public%20Order%20Act,Publicise%20a%20cause%20or%20campaign).
-
-### Offences Relating to Unlawful Assembly in Singapore
-
-In Singapore law, Chapter 8 of the Penal Code governs unlawful assembly. The definition of an unlawful assembly is "an assembly of five or more persons."
-
-### Explanation of Unlawful Assembly
-
-Section 141 of the Penal Code defines an unlawful assembly as a gathering of five or more people for any of the following common purposes:
-- a) To commit any offence;
-- b) To resist the enforcement of any law or legal process;
-- c) To use criminal force or the threat of criminal force to intimidate the government or any public servant who is acting within their legal authority;
-- d) To use criminal force against any person, to take possession of the property, or to deprive any person of the enjoyment of his right of way, incorporeal rights or possessions;
-- e) To use criminal force to compel someone to do something they are not required by law to do or to refrain from doing something they are legally allowed to do
-
-For more details, visit the [IRB Law website](https://irblaw.com.sg/learning-centre/offences-relating-to-unlawful-assembly-in-singapore/#::text=In%20Singapore%20law%2C%20Chapter%208,together%20can%20later%20become%20one).
-
-
-## Code of Conduct
-
-By registering, participants acknowledge and agree to follow the [ACL's code of ethics](https://www.aclweb.org/portal/content/acl-code-ethics), the [ACL's anti-harassment policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy), and the ACL code of conduct below. Violations against those should be reported to the [Professional Conduct Committee](https://www.aclweb.org/adminwiki/index.php?title=Professional_Conduct_Committee) by approaching any of its members. The contact information for each member and the languages they speak are listed [here](https://www.aclweb.org/adminwiki/index.php?title=Professional_Conduct_Committee).
-
-### ACL Code of Conduct
-
-The open exchange of ideas, the freedom of thought and expression, and respectful scientific debate are central to the aims and goals of the ACL. These require a community and an environment that recognizes the inherent worth of every person and group, that fosters dignity, understanding, and mutual respect, and embraces diversity. For these reasons, ACL is dedicated to providing a harassment-free experience for all the members, as well as participants at our events and in our programs.
-
-Harassment and hostile behavior are unwelcome at any ACL conference, associated event, or in ACL-affiliated online discussions. This includes speech or behavior that intimidates, creates discomfort, or interferes with a person's participation or opportunity for participation in a conference or an event. We aim for ACL-related activities to be an environment where harassment in any form does not happen, including but not limited to: harassment based on race, gender, religion, age, color, appearance, national origin, ancestry, disability, sexual orientation, or gender identity. Harassment includes degrading verbal comments, deliberate intimidation, stalking, harassing photography or recording, inappropriate physical contact, and unwelcome sexual attention. The policy is not intended to inhibit challenging scientific debate, but rather to promote it by ensuring that all are welcome to participate in the shared spirit of scientific inquiry. Vexatious complaints and willful misuse of this procedure will render the complainant subject to the same sanctions as a violation of the anti-harassment policy.
-
-It is the responsibility of the community as a whole to promote an inclusive and positive environment for our scholarly activities. In addition, anyone who experiences harassment or hostile behavior may contact any member of the [Professional Conduct Committee](https://www.aclweb.org/adminwiki/index.php?title=Professional_Conduct_Committee). Members of this committee are instructed to keep any such contact in strict confidence, and those who approach the committee will be consulted before any actions are taken.
-
-## ACL Anti-Harassment Policy
-
-EMNLP adheres to the [ACL Anti-Harassment Policy](https://www.aclweb.org/adminwiki/index.php?title=Anti-Harassment_Policy). Any participant who experiences harassment or hostile behaviour may contact any current member of the [ACL Professional Conduct Committee](https://www.aclweb.org/adminwiki/index.php/Professional_Conduct_Committee). Please be assured that if you approach us, your concerns will be kept in strict confidence, and we will consult with you on any actions taken.
- -->
-
+## Ethics/Harassment
