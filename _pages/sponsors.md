@@ -38,7 +38,7 @@ diamond:
   #   image_path: /assets/images/logos/apple.jpg
   #   alt: Apple
   #   title: Apple
-  - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/
+- url: https://www.bloomberg.com/company/values/tech-at-bloomberg/
   image_path: /assets/images/logos/bloomberg-logo.png
   alt: Bloomberg
   title: Bloomberg
