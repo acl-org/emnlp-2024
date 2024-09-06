@@ -34,10 +34,10 @@ diamond:
   #   image_path: /assets/images/logos/LivePerson-logo.jpg
   #   alt: LivePerson
   #   title: LivePerson
-  # - url: https://machinelearning.apple.com
-  #   image_path: /assets/images/logos/apple.jpg
-  #   alt: Apple
-  #   title: Apple
+- url: https://machinelearning.apple.com
+  image_path: /assets/images/logos/apple.jpg
+  alt: Apple
+  title: Apple
 - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/
   image_path: /assets/images/logos/bloomberg-logo.png
   alt: Bloomberg
@@ -303,11 +303,10 @@ For more information, please reach out to the D&I chairs: [Christos Christodoulo
 .sponsors-list > a:hover > img { box-shadow: none !important; }
 </style>
 
-
-<!-- ## Diamond
+## Diamond
 
 # {% include sponsors-list id="diamond" layout="third" %}
-
+<!--
 # ## Platinum
 
 # {% include sponsors-list id="platinum" layout="third" %}
