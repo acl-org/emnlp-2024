@@ -44,7 +44,7 @@ diamond:
   title: Bloomberg
 - url: https://deepmind.google/
   image_path: /assets/images/logos/googledeepmind-logo.png
-  alt: Google Deepming
+  alt: Google Deepmind
   title: Google Deepmind
   # - url: https://nyuad.nyu.edu/en/
   #   image_path: /assets/images/logos/nyuad-logo.png
