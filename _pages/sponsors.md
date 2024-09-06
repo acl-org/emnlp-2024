@@ -233,6 +233,10 @@ If your organization would like to sponsor EMNLP or other conferences in the ACL
 
 As a sponsor, you can also help us with our diversity and inclusion (D&I)  initiatives through D&I sponsorship. The goal of this initiative is to make the conference more accessible to people from underrepresented groups and geographic regions, provide accommodations to researchers with disabilities, and make the conference more welcoming to newcomers. As the registration fees can be 2 to 10 times the minimum wage in many parts of the world, the D&I committee reaches out to NLP researchers from underrepresented groups and offers registration fee waivers, travel grants, caregiving subsidies, etc. We also organize theme-based academic mentoring sessions and affinity group socials/workshops to help newcomers and early-career researchers. 
 
+## Diamond
+
+{% include sponsors-list id="diamond" layout="third" %}
+
 ## EMNLP 2024 Sponsors List
 
 ### Diamond Sponsors
@@ -303,9 +307,6 @@ For more information, please reach out to the D&I chairs: [Christos Christodoulo
 .sponsors-list > a:hover > img { box-shadow: none !important; }
 </style>
 
-## Diamond
-
-# {% include sponsors-list id="diamond" layout="third" %}
 <!--
 # ## Platinum
 
