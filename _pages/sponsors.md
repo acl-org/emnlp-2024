@@ -238,13 +238,15 @@ As a sponsor, you can also help us with our diversity and inclusion (D&I)  initi
 ### Diamond Sponsors
 - Apple
 - Bloomberg
-- Google
+- Google DeepMind
+- Meta
  
 ### Platinum Sponsors
-- Baidu
-- ByteDance
-- Cohere
 - Megagon
+- Baidu
+- Cohere
+- ByteDance
+- Amazon
 
 ### Gold
 - Millennium
@@ -253,11 +255,11 @@ As a sponsor, you can also help us with our diversity and inclusion (D&I)  initi
 - Ant Group
 
 ### Bronze
+- JP Morgan
+- Translated
 - Adobe
 - Florida International University
 - Jane Street
-- JP Morgan
-- Translated
 
 ### Diversity and Inclusion Ally
 - Apple
