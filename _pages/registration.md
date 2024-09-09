@@ -208,3 +208,14 @@ Please Note Paper titles are not available until Notifications go out. If you re
  
 
 **Register now: https://acl.swoogo.com/emnlp2024**
+
+## Contact
+
+For questions about your registration and/or payment, please contact:
+- [YesEvents](mailto:EMNLPinfo@yesevents.com) (Toll Free: 800-937-8728)
+
+For questions about online virtual access please contact:
+- [Underline](mailto:emnlp2023@underline.io)
+
+
+
