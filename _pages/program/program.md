@@ -30,7 +30,7 @@ Program Updates
 - Please see [workshop](/program/workshops)/[tutorial](/program/tutorials) for detail schedule
   - 10:30 - 11:00		Coffee Break
   - 15:30 - 16:00		Coffee Break
-- Friday, November 15 - Workshop/Tutorial Day
+- Saturday, November 16 - Workshop/Tutorial Day
   - 08:00 - 16:00		Registration
 - Please see [workshop](/program/workshops)/[tutorial](/program/tutorials) for detail schedule
   - 10:30 - 11:00		Coffee Break
