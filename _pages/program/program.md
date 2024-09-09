@@ -10,6 +10,31 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
+*** Under Construction ***
+
+Program Updates
+- Monday, November 11 - Welcome Reception
+  - 18:30 - 21:00		Welcome Reception
+- Tuesday, November 12 - Main Conference
+  - 07:30 - 16:00		Registration
+  - 09:00 - 17:30		Day 1 Main Sessions
+- Wednesday, November 13 - Main Conference
+  - 08:30 - 16:00		Registration
+  - 09:00 - 17:30		Day 2 Main Sessions
+  - 18:30 - 21:30		Social Event - Dinner
+- Thursday, November 14 - Main Conference
+  - 08:30 - 16:00		Registration
+  - 09:00 - 17:00		Day 3 Main Sessions
+- Friday, November 15 - Workshop/Tutorial Day
+  - 08:00 - 16:00		Registration
+- Please see [workshop](/program/workshops)/[tutorial](/program/tutorials) for detail schedule
+  - 10:30 - 11:00		Coffee Break
+  - 15:30 - 16:00		Coffee Break
+- Friday, November 15 - Workshop/Tutorial Day
+  - 08:00 - 16:00		Registration
+- Please see [workshop](/program/workshops)/[tutorial](/program/tutorials) for detail schedule
+  - 10:30 - 11:00		Coffee Break
+  - 15:30 - 16:00		Coffee Break
 
 <!-- [Conference Handbook](/downloads/EMNLP-2023-Handbook-Dec-06.pdf)
 {: .text-center .notice--success}
