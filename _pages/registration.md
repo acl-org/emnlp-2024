@@ -10,149 +10,201 @@ sidebar:
 ---
 
   
-Based on longstanding prior ACL practice, all papers in the program (oral or poster) must have the actual presenter of each paper registered for the conference at the appropriate rate for their intended presentation modality and status (e.g. virtual or in-person, student or regular, full conference or workshop only). Also, all in-person attendees must register for the conference at the in-person rates, and virtual (Underline platform) credentials should not be shared.
-
-Thus all virtual presenters should also be registered individually (at student or regular rates, as appropriate). Findings papers only appearing in the proceedings need not have someone register, but Findings papers presented in any way, including as virtual posters or spotlight talks, should register at the appropriate in-person or virtual rate of the presenter. If an attendee's or actual presenter's registration status changes after registration (e.g. from in-person to virtual, or virtual to in-person, or if the actual presenter changes) then a partial refund or additional payment may be made as appropriate.  If any of the above would cause financial hardship, please apply for D&I subsidies including discounted or free virtual registration. Application Link will be available October 9, 2023.
-
-
-
-**The Full Conference In-person Registration Fee Includes:**
-
-* Admission to all in-person Meeting sessions and the exhibition as well as the entire virtual program
-* Conference Bag and Materials
-* Tea and coffee breaks throughout the Meeting
-* Admission to the Welcome Reception on Thursday 7th of December at Resorts World Convention Center, Central Foyer and Ballrooms including light Hors d'oeuvres and a welcome drink.
-* Admission to the Social Dinner on Saturday 9th December at the Convention Center followed by access to Universal Studios from 20:00 – 23:45, buffet dinner included from 19:00 – 21:00.
-* Attendance to all recorded sessions on demand for at least one month following the Meeting.
-
-**The Full Conference Virtual Registration Fee Includes:**
-
-* Attendance to all Meeting sessions via the virtual conference platform
-* Access to online poster gallery
-* Access to online networking opportunities
-* Attendance to all recorded sessions on demand for at least one month following the Meeting.
+## Registration is open
  
-**Note that:**
+### Registration Dates:
 
-* Early registration will end on Sunday, November 12, 2023, 11:59 PM (EST).
-* Late registration starts Monday, November 13 and ends Sunday, December 3, 2023, 11:59 PM (EST). 
-* On-site registration begins Monday, December 4, 2023.  
-* Bring a copy of your registration confirmation to Registration Check-in to pick up your badge.
-* If your plans change and you had selected virtual attendance but now want to attend in person, please contact Yes Events (below) to make the change and pay the difference owed.  Similarly, if you cannot attend in person as you had registered, by contacting Yes Events, you may change to virtual and receive a refund for the difference (**fees may apply**).
+- Early Registration: September 9–October 21
+- Late Registration: October 22– November 11
+- Onsite Registration: November 12–16
 
-## In- Person Pricing 
+The ACL & EMNLP Exec have put together the following 3 registration types, each with an option for Authors to register their paper to present at the conference and cover their hard costs of presenting at the conference while allowing non-presenting authors and attendees a discounted rate for future advancement of the NLP Communities the ability to attend. 
+ 
+1. Industrial/Non-Academic
+2. Academic 
+3. Student
 
-Each main conference paper must have at least one registered author (either in person or virtual). If this is prohibitive, please contact the D&I committee. Findings papers have optional virtual presentations and optional in-person spotlights.  If you elect to take advantage of these presentation opportunities, at least one author of the Findings paper must register.
+## Authors Registration Fee Details: 
 
-If you are presenting at a workshop, you do not need to register for the main conference, but you must register for the appropriate workshop.
+Author Register Paper (for presentation) Industrial/Non-Academic, Academic or Student
+ 
+At least one author of each accepted paper to an ACL conference (ACL, NAACL, EACL, AACL, or EMNLP) must register their paper to present at the conference. 
+Exceptions to the statement above:
+Accepted Finding that are not being presented. All findings being presented must register their paper.
+Workshop shared tasked papers do not need to register their paper to present.
+ 
+### Note all Paper registration fees are based on actual hard cost to the conference. 
+In person registration fee reflects the attendees’ hard costs of food & beverage (breaks, welcome reception and social dinner) along with meeting space, av or poster presentation equipment). 
+Virtual attendees’ registration fees reflect the virtual costs (internet, AV, content management, platforms). 
+ 
+### Author Deadlines for Registering the Paper to Present: 
+To assist the program chairs and committee with publishing the conference details for the program and Anthology we ask all authors to register no later than the following dates:
 
+- Accepted – Main Conference, Findings, CL/TACL, DEMOS & Industry – October 14th 
+ 
+- Accepted – Workshop no later than the Early Registration deadline of October 21st
+ 
+All Authors presenting their paper at a workshop must have 1 author register your paper. If attending the full conference, select the Registered Paper option and follow the prompts  to select  your attendee type.
+*Workshop Exception for registering your paper would be shared task papers. Shared Tasks are not required to register your paper.*
+Since workshop notifications can come after early registration ends, there will be a way to add a paper to a registration once you receive notification.
+ 
+Paper registration instructions, policy and fees are below the conference rates listed after membership and cancelation policies.
+ 
+## In Person Main Conf. Registration
+- Admission to all in-person and online meeting sessions and the exhibition (in person only) as well as the entire virtual program held on Underline.
+- Morning and afternoon coffee breaks (with light snacks) each day of the conference
+- Admission to the Welcome Reception on Sunday, November 11th located on the Terrace level of the Hyatt Regency Miami, from lobby take escalators down to the Terrace level.
+- Admission to the Social Dinner on Tuesday, November 13th located at the Frost Museum.
+- Attendance to all recorded sessions on demand for at least one month following the meeting.
+- Please note: Breakfast, Lunch and Dinners are not included in your conference fees Exception is the Social Dinner.
 
-| Full Conference Registrations: December 6 - 10 , 2023                     | In-Person  |
-|--------------------------------------------|-----------:|
-| Full Conference Regular Early Presenter    |   $950.00  |
-| Full Conference Regular Early Non-Presenter|   $850.00  |
-| Full Conference Regular Late Presenter     |   $1075.00  |
-| Full Conference Regular Late Non-Presenter |   $975.00  |
-| Full Conference Regular Onsite Presenter   |   $1175.00  |
-| Full Conference Regular Onsite Non-Presenter |   $1075.00  |
-| Full Conference Student Early Presenter   |     $475.00  |
-| Full Conference Student Early Non-Presenter|    $375.00  |
-| Full Conference Student Late Presenter    |     $575.00  |
-| Full Conference Student Late Non-Presenter |     $475.00  |
-| Full Conference Student Onsite Presenter   |     $675.00  |
-| Full Conference Student Onsite Non-Presenter   |     $575.00  |
-| Volunteers (Applications being accepted)   |     $0.00  |
-| D&I Awardees (Applications being accepted)   |     $0.00  |
-| Guests/Invited Speakers/Sponsors/Staff   |     $0.00  |
+### In Person Tutorial Only or Workshop Only
+- Admission to the In Person Session you registered for (as well as access virtually)
+- Morning and afternoon coffee breaks (with light snacks)
+- Please note: Breakfast, Lunch and Dinners are not included in your conference fees Exception is the Social Dinner.
 
+### In person rates
 
-|Tutorials December 6, 2023           | In-Person  |
-|-------------------------------------|-----------:|
-| Tutorial Only - Regular Early      |   $150.00  |
-| Tutorial Only - Regular Late/Onsite |  $225.00  |
-| Tutorial Only - Student Early      |    $75.00  |
-| Tutorial Only - Student Late/Onsite |   $125.00  |
+**Register Here: https://acl.swoogo.com/emnlp2024**
 
-
-| Workshops December 6 & 7, 2023                           |  In-Person |
-|-----------------------------------------------|-----------:|
-| Workshops Only (2 days) - Regular Early       |   $300.00  |
-| Workshops Only (2 days) - Regular Late/Onsite |   $400.00  |
-| Workshops Only (2 days) - Student Early       |   $150.00  |
-| Workshops Only (2 days) - Student Late/Onsite |   $225.00  |
-
-
-Register Here: [https://acl.swoogo.com/EMNLP23 ](https://acl.swoogo.com/EMNLP23)
-
-## Virtual Pricing
-
-For a Discounted/sliding scale Virtual Registration ($0-100), apply [here](https://2023.emnlp.org/registration/discounted_virtual_registration/) by Nov 12, 2023.
-
-Given the large real costs of all conference paper presentations (whether virtual or in-person), all papers in the program (oral or poster) must have at least one author Presenting registered as a presenter. If this is prohibitive, please contact the D&I committee.
-
-| Full Conference Registrations: December 6 - 10 , 2023                             | Virtual  |
-|--------------------------------------------|---------:|
-| Full Conference Regular Early - Presenter  | $375.00  |
-| Full Conference Regular Early – Non-Presenter     | $275.00  |
-| Full Conference Regular Late - Presenter          | $450.00  |
-| Full Conference Regular Late – Non-Presenter      | $350.00  |
-| Full Conference Regular Onsite - Presenter        | $550.00  |
-| Full Conference Regular Onsite – Non-Presenter    | $450.00  |
-| Full Conference Student Early - Presenter         | $250.00  |
-| Full Conference Student Early - Non-Presenter     | $150.00  |
-| Full Conference Student Late - Presenter          | $350.00  |
-| Full Conference Student Late -  Non-Presenter     | $250.00  |
-| Full Conference Student Onsite - Presenter        | $375.00  |
-| Full Conference Student Onsite - Non-Presenter    | $275.00  |
-| Volunteers (Applications being accepted)          | $0.00  |
-| D&I Awardees (Applications being accepted)        | $0.00  |
-| Guests/Invited Speakers/Sponsors/Staff            | $0.00  |
-
-
-| Tutorials December 6, 2023          | Virtual  |
-|-------------------------------------|---------:|
-| Tutorial Only - Regular Early       |  $75.00  |
-| Tutorial Only - Regular Late/Onsite |  $125.00  |
-| Tutorial Only - Student Early       |  $35.00  |
-| Tutorial Only - Student Late/Onsite |  $60.00  |
+| Registration Types                                                   | 10/21/2024 | 11/11/2024 | 11/16/2024 |
+|----------------------------------------------------------------------|------------|------------|------------|
+| IP - Full Conference - Registering Paper Industrial/Non-Academic     | $1,150.00  | $1,300.00  | $1,400.00  |
+| IP - Full Conference - Industrial/Non-Academic                       | $950.00    | $1,100.00  | $1,200.00  |
+| IP - Full Conference - Registering Paper Academic                    | $850.00    | $1,000.00  | $1,100.00  |
+| IP - Full Conference - Academic                                      | $650.00    | $800.00    | $900.00    |
+| IP - Full Conference - Registering Paper Student                     | $550.00    | $700.00    | $800.00    |
+| IP - Full Conference - Student                                       | $350.00    | $500.00    | $600.00    |
+| IP - Workshop Only - Registering Paper Industrial/Non-Academic       | $550.00    | $600.00    | $650.00    |
+| IP - Workshop Only - Industrial/Non-Academic                         | $350.00    | $400.00    | $450.00    |
+| IP - Workshop Only - Registering Paper Academic                      | $450.00    | $500.00    | $550.00    |
+| IP - Workshop Only - Academic                                        | $250.00    | $300.00    | $350.00    |
+| IP - Workshop Only - Registering Paper Student                       | $350.00    | $400.00    | $450.00    |
+| IP - Workshop Only - Student                                         | $150.00    | $200.00    | $250.00    |
+| IP - Tutorial Only - Industrial/Non-Academic                         | $175.00    | $200.00    | $225.00    |
+| IP - Tutorial Only - Academic                                        | $125.00    | $150.00    | $175.00    |
+| IP - Tutorial Only - Student                                         | $75.00     | $100.00    | $125.00    |
+| IP - Workshop & Tutorial - Registering Paper Industrial/Non-Academic | $550.00    | $600.00    | $650.00    |
+| IP - Workshop & Tutorial - Industrial/Non-Academic                   | $350.00    | $400.00    | $450.00    |
+| IP - Workshop & Tutorial - Registering Paper Academic                | $450.00    | $500.00    | $550.00    |
+| IP - Workshop & Tutorial - Academic                                  | $250.00    | $300.00    | $350.00    |
+| IP - Workshop & Tutorial - Registering Paper Student                 | $350.00    | $400.00    | $450.00    |
+| IP - Workshop & Tutorial - Student                                   | $150.00    | $200.00    | $250.00    |
 
 
-| Workshops December 6 & 7, 2023               | Virtual |
-|----------------------------------------------|:-------:|
-| Workshops Only (2days) - Regular Early       | $150.00  |
-| Workshops Only (2days) - Regular Late/Onsite | $250.00  |
-| Workshops Only (2days) - Student Early       | $75.00  |
-| Workshops Only (2days) - Student Late/Onsite | $125.00  |
+## Virtual Main Conference Registration
+- Attendance to all online virtual sessions (plenary, oral talks and virtual poster sessions) via the virtual conference platform held on Underline.
+- Access to online Gather poster gallery
+- Access to online networking opportunities
+- Attendance to all recorded sessions on demand for at least one month following the meeting.
 
+### Discounted Virtual Registration
+Discounted/sliding scale virtual registration is intended to make ACL events accessible to researchers who otherwise would be unable to participate. Application coming soon
+Criteria for selection for financial aid will include your
+- (a) country of residence
+- (b) employment position
+- (c) monthly income range
+- (d) available financial support from your employer/university, and
+- (e) special circumstances.
 
-Register Here: [https://acl.swoogo.com/EMNLP2023](https://acl.swoogo.com/EMNLP23)
+Authors with accepted papers to the conference do not qualify for this program. Students needing financial assistance can apply for [Volunteer](https://docs.google.com/forms/d/e/1FAIpQLSdJiXsQblilP6TgmvemxfHRzMd0DbABpQY0pawNK-gDXNXKpQ/viewform) and DNI (link coming soon) grants. The virtual subsidy is available to those in greatest financial need, except in the case of special circumstances this additional funding is not intended for employed individuals and funded students from USA, Canada, Europe, Australia, New Zealand and higher income countries in Asia and the Middle East. Standard student registration rates (including from these regions) are already substantially discounted.
+ 
+### Virtual Tutorial Only or Workshop Only
+- Attendance to all online virtual Sessions you registered for (tutorial or workshop selected)
+- Access to Gather if your workshop has a virtual poster session.
+- Attendance to all Tutorial or Workshop sessions on demand for at least one month following the meeting.
 
+### Virtual Rates
 
+**Register Here: https://acl.swoogo.com/emnlp2024**
 
+| Registration Types                                                  | 10/21/2024 | 11/11/2024 | 11/16/2024 | Virtual Subsidy |
+|---------------------------------------------------------------------|------------|------------|------------|-----------------|
+| V - Full Conference - Registering Paper Industrial/Non-Academic     | $550.00    | $700.00    | $750.00    | n/a             |
+| V - Full Conference - Industrial/Non-Academic                       | $450.00    | $600.00    | $650.00    | n/a             |
+| V - Full Conference - Registering Paper Academic                    | $400.00    | $500.00    | $600.00    | n/a             |
+| V - Full Conference - Academic                                      | $300.00    | $400.00    | $500.00    | $100            |
+| V - Full Conference - Registering Paper Student                     | $250.00    | $350.00    | $450.00    | n/a             |
+| V - Full Conference - Student                                       | $150.00    | $250.00    | $350.00    | $50             |
+| V - Workshop Only - Registering Paper Industrial/Non-Academic       | $250.00    | $300.00    | $300.00    | n/a             |
+| V - Workshop Only - Industrial/Non-Academic                         | $150.00    | $200.00    | $200.00    | n/a             |
+| V - Workshop Only - Registering Paper Academic                      | $200.00    | $250.00    | $250.00    | n/a             |
+| V - Workshop Only - Academic                                        | $100.00    | $150.00    | $150.00    | n/a             |
+| V - Workshop Only - Registering Paper Student                       | $150.00    | $200.00    | $200.00    | n/a             |
+| V - Workshop Only - Student                                         | $50.00     | $100.00    | $100.00    | n/a             |
+| V - Tutorial Only - Industrial/Non-Academic                         | $75.00     | $125.00    | $125.00    | n/a             |
+| V - Tutorial Only - Academic                                        | $50.00     | $85.00     | $85.00     | n/a             |
+| V - Tutorial Only - Student                                         | $25.00     | $40.00     | $40.00     | n/a             |
+| V - Workshop & Tutorial - Registering Paper Industrial/Non-Academic | $250.00    | $300.00    | $300.00    | n/a             |
+| V - Workshop & Tutorial - Industrial/Non-Academic                   | $150.00    | $200.00    | $200.00    | n/a             |
+| V - Workshop & Tutorial - Registering Paper Academic                | $200.00    | $250.00    | $250.00    | n/a             |
+| V - Workshop & Tutorial - Academic                                  | $100.00    | $150.00    | $150.00    | n/a             |
+| V - Workshop & Tutorial - Registering Paper Student                 | $150.00    | $200.00    | $200.00    | n/a             |
+| V - Workshop & Tutorial - Student                                   | $50.00     | $100.00    | $100.00    | n/a             |
 
-## Membership Policy & Fees 
-The ACL policy is that everyone attending an ACL conference must be a current (CY 2023) ACL member. So, in addition to the registration fee, each Regular will add $100 membership fee to their registration and each Student will add $50 membership fee to their registration if not already a 2023 paid member. Your ACL membership is for the entire calendar year, providing membership in the society devoted to promoting CL research throughout the world, open access to the CL and TACL Journals and ACL Anthology as well as access to other ACL conferences in the same year without paying membership again. Membership also entitles you to electronic notification of new issues of the journals, discounts on publications from participating publishers, announcements of ACL and related conferences, workshops, and journal calls of interest to the community.
+## Membership Policy
+The ACL policy is that everyone attending an ACL conference must be a current (CY 2024) ACL member. So, in addition to the registration fee, each Industrial, Non-Academic, Academic attendee will add a $100 membership fee to their registration and each Student will add a $50 membership fee to their registration if not already a 2024 paid member.
+Your ACL membership is for the entire 2024 year, providing membership in the society devoted to promoting CL research throughout the world, open access to the CL and TACL Journals and ACL Anthology as well as access to other ACL conferences in the same year without paying membership again.
+Membership also entitles you to electronic notification of new issues of the journals, discounts on publications from participating publishers, announcements of ACL and related conferences, workshops, and journal calls of interest to the community.
+ 
+## Cancellation Policy
+- Cancellation of registration one month or more prior to the conference (October 14th, 2024, or before), will be refunded the full amount paid (Minus up to $50 processing fee).
+- Cancellations up to three weeks prior to the conference (October 21st, 2024) will be refunded the ACL membership (if paid as part of the registration) and any amounts paid over and above the first $200.
+- Cancellations 2 weeks prior to the start of the conference (Oct 28th, 2024), and all no-shows, will not be refunded any amount. They will be able to retain the current full year ACL membership (if paid as part of the registration) and have access virtually.
+- _Exceptions: Cancellation due to governmental travel restrictions, failure to obtain a visa, or serious illness that prevents travel to the conference will be refunded the full amount paid (Minus up to $50 processing fee) regardless of when the notification is received by the ACL Office and registrant must submit documentation supporting the above cancellation exceptions._
+ 
+## Authors Paper Registration Policy & Fees for ACL Conferences
+ 
+Authors, the registration fee covers the cost of your paper being presented. In Person presentation has a higher cost due to the onsite costs of food and beverage as well as the space and equipment needed to present. Virtual presenters have platform, internet and audio video cost to cover the virtual presentation.
+ 
+The Maximum number of papers you can register under 1 person is 2.
+ 
+One author from each accepted paper at ACL must register their paper for the type of presentation that it will be presented at during the conference. Please note you cannot register your paper for a virtual presentation and expect to present in person you will only be allowed to present virtually.
+ 
+Please note that all in-person attendees must register for the conference at the in- person rates and virtual attendees must register for the conference at the virtual rate. All registrations will be given access to the Underline platform and your credentials should not be shared. All violators will lose access to the conference without refund.
+ 
+Invitation letters will be issued once you have registered and paid for the conference. Authors, please note your paper title will be included on the letter of invitation if you selected yes to do you have a paper accepted to the conference. 
+ 
+### Overview on how to Register your Paper to Present at the Conference:
 
+- Do you have a paper accepted to the conference?
+  - Yes
+  - No
 
+_Note: The paper title will be included in your invitation letter._
+ 
+- Are you registering a paper to be presented at the conference (note: only one person needs to register the paper for the conference)
+  - Yes
+  - No
 
+Only one author/presenter needs to be registered for each paper.
+If you answer No you will go to the next question,
+If you answer Yes, the following questions will need to be answered
+ 
+- Type of Paper Presenting or Accepted
+  - Main Conference/Oral/Poster/CL/TACL/Findings Poster
+  - Workshop
+ 
+- Are you the Presenter?
+  - Yes
+  - No
 
+If No, who is presenting the paper? (First and Last Name)
+The ACL Business office will confirm they are registered to attend.
+ 
+- I plan to attend as a(n)
+  - In-Person Attendee
+  - Virtual Attendee
+ 
+- Attendee Type
+  - Industrial/Non-Academic
+  - Academic
+  - Student
 
+Every paper will be assigned a “_Registration ID_”
+All Authors can select a paper. Only those who selected ‘_Registering their Paper_’ to be presented at the Conference, will pay the Registered Paper rate. 
+ 
+Please Note Paper titles are not available until Notifications go out. If you register before notification you will need to go back and amend your registration. To do this, simply go back and select your paper, however, in the meantime input TBD. (Papers not registered for the conference, annotating ‘_Author Paper Registered_’ risk notification of being pulled from the conference. Additionally, if not registered the week before, the paper(s) will be pulled from the proceeding and will not be published).  
+ 
 
-## Cancelation Policy  
-Cancellation of registration one month or more prior to the conference (November 07, 2023, or before), will be refunded the full amount paid. (Minus up to $50 processing fee)
-Cancellations up to three weeks prior to the conference (Nov 16, 2023) will be refunded the ACL membership (if paid as part of the registration) and any amounts paid over and above the first $200. Cancellations 2 weeks prior to start of Conference (November 23, 2023), and all no-shows, will not be refunded any amount. They will be able to retain the current full year ACL membership (if paid as part of the registration) and have access virtually.
-
-Exceptions: Cancellation due to governmental travel restrictions, unstable situation of countries like a war, failure to obtain a visa, or serious illness that prevents travel to the conference will be refunded the full amount paid or the difference between the in-person and virtual registration fees in case virtual attendance is still possible (Minus up to $50 processing fee) regardless of when the notification is received by the ACL Office and must submit documentation supporting or explaining the above cancelation exceptions.
-
-
-For questions about your registration and/or payment, please contact:
-
-* YesEvents
-* Email: [EMNLPinfo@yesevents.com](mailto:EMNLPinfo@yesevents.com)
-* Toll Free: 800-937-8728
-
-For questions about online virtual access please contact:
-
-
-* Underline
-* Email: [emnlp2023@underline.io](mailto:emnlp2023@underline.io)
+**Register now: https://acl.swoogo.com/emnlp2024**
