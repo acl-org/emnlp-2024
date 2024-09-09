@@ -65,7 +65,7 @@ Paper registration instructions, policy and fees are below the conference rates 
 
 ### In person rates
 
-**Register Here: https://acl.swoogo.com/emnlp2024**
+**Register Here: [https://acl.swoogo.com/emnlp2024](https://acl.swoogo.com/emnlp2024)**
 
 | Registration Types                                                   | 10/21/2024 | 11/11/2024 | 11/16/2024 |
 |----------------------------------------------------------------------|------------|------------|------------|
@@ -116,7 +116,7 @@ Authors with accepted papers to the conference do not qualify for this program. 
 
 ### Virtual Rates
 
-**Register Here: https://acl.swoogo.com/emnlp2024**
+**Register Here: [https://acl.swoogo.com/emnlp2024](https://acl.swoogo.com/emnlp2024)**
 
 | Registration Types                                                  | 10/21/2024 | 11/11/2024 | 11/16/2024 | Virtual Subsidy |
 |---------------------------------------------------------------------|------------|------------|------------|-----------------|
@@ -207,7 +207,7 @@ All Authors can select a paper. Only those who selected ‘_Registering their Pa
 Please Note Paper titles are not available until Notifications go out. If you register before notification you will need to go back and amend your registration. To do this, simply go back and select your paper, however, in the meantime input TBD. (Papers not registered for the conference, annotating ‘_Author Paper Registered_’ risk notification of being pulled from the conference. Additionally, if not registered the week before, the paper(s) will be pulled from the proceeding and will not be published).  
  
 
-**Register now: https://acl.swoogo.com/emnlp2024**
+**Register now: [https://acl.swoogo.com/emnlp2024](https://acl.swoogo.com/emnlp2024)**
 
 ## Contact
 
