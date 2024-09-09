@@ -10,59 +10,59 @@ sidebar:
     nav: program
 ---
 
-1. **The 3rd International Workshop on Natural Language Processing for Digital Humanities (NLP4DH)** 
+1. **[The 3rd International Workshop on Natural Language Processing for Digital Humanities (NLP4DH)](https://www.nlp4dh.com/nlp4dh-2024)** 
 Organizers: Mika Hämäläinen, Emily Öhman, Khalid Alnajjar, So Miyagawa and Yuri Bizzoni
 
-2. **BlackboxNLP 2024: Analysing and interpreting neural networks for NLP** 
+2. **[BlackboxNLP 2024: Analysing and interpreting neural networks for NLP](https://blackboxnlp.github.io/)** 
 Organizers: Najoung Kim, Jaap Jumelet, Hosein Mohebbi, Hanjie Chen and Yonatan Belinkov
 
-3. **NLP4Science: The First Workshop on Natural Language Processing for Science** 
+3. **[NLP4Science: The First Workshop on Natural Language Processing for Science](https://sites.google.com/view/nlp4science/home)** 
 Organizers: Nitay Calderon, Alex Chapanin, Rotem Dror, Amir Feder, Ariel Goldstein, Anna Korhonen, Shir Lissak, Yaakov Ophir,  Lotem Peled-Cohen, Roi Reichart, Ilanit Sobol, Refael Tikochinski and Mor Ventura
 
-4. **Seventh Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2024)** 
+4. **[Seventh Workshop on Computational Models of Reference, Anaphora and Coreference (CRAC 2024)](https://sites.google.com/view/crac2024/)** 
 Organizers: Maciej Ogrodniczuk, Sameer Pradhan, Anna Nedoluzhko, Massimo Poesio and Vincent Ng
 
-5. **GenBench: The second workshop on generalisation (benchmarking) in NLP** 
+5. **[GenBench: The second workshop on generalisation (benchmarking) in NLP](https://genbench.org/workshop/)** 
 Organizers: Dieuwke Hupkes, Mario Giulianelli, Verna Dankers, Amirhossein Kazemnejad, Khuyagbaatar Batsuren, Ryan Cotterell and Christos Christodoulopoulos
 
-6. **Natural Legal Language Processing (NLLP) Workshop 2024** 
+6. **[Natural Legal Language Processing (NLLP) Workshop 2024](https://nllpw.org/workshop/)** 
 Organizers: Nikolaos Aletras, Leslie Barrett, Ilias Chalkidis, Catalina Goanta, Daniel Preotiuc-Pietro and Gerasimos Spanakis
 
-7. **The 4th Workshop on Multi-lingual Representation Learning** 
+7. **[The 4th Workshop on Multi-lingual Representation Learning](https://sigtyp.github.io/ws2024-mrl.html)** 
 Organizers: David Ifeoluwa Adelani, Duygu Ataman, Mammad Hajili, Raghav Mantri, Abraham Owodunni, Jonne Saleva, David Strap and Francesco Tinner 
 
-8. **The Eighth Widening NLP Workshop (WiNLP 2024)** 
+8. **[The Eighth Widening NLP Workshop (WiNLP 2024)](https://www.winlp.org/winlp-2024-workshop/)** 
 Organizers: Atnafu Lambebo Tonja, Mukund Rungta, Shaily Bhatt, Weijia Xu, Sunipa Dev, Bonaventure F. P. Dossou, Isidora Chara Tourni and Alfredo Gomez
 
-9. **Seventh Workshop on Fact Extraction and VERification (FEVER)** 
+9. **[Seventh Workshop on Fact Extraction and VERification (FEVER)](https://fever.ai/workshop.html)** 
 Organizers: Michael Sejr Schlichtkrull, Mubashara Akhtar, Rami Aly, Christos Christodoulopoulos, Oana Cocarascu, Zhijiang Guo, Zhenyun Deng, Arpit Mittal, James Thorne and Andreas Vlachos
 
-10. **Third Workshop on NLP for Positive Impact** 
+10. **[Third Workshop on NLP for Positive Impact](https://sites.google.com/view/nlp4positiveimpact)** 
 Organizers: Zhijing Jin, Rada Mihalcea, Joel Tetreault, Jieyu Zhao, Steven Wilson, Oana Ignat and Daryna Dementieva
 
-11. **NLP for Wikipedia Workshop** 
+11. **[NLP for Wikipedia Workshop](https://meta.wikimedia.org/wiki/NLP_for_Wikipedia_(EMNLP_2024))** 
 Organizers: Lucie-Aimée Kaffee, Isaac Johnson, Angela Fan, Tajuddeen Gwadabe, Fabio Petroni and Daniel van Strien
 
-12. **Workshop on Text Simplification, Accessibility and Readability** 
+12. **[Workshop on Text Simplification, Accessibility and Readability](https://tsar-workshop.github.io/)** 
 Organizers: Matthew Shardlow, Marcos Zampieri, Kai North, Fernando Alva-Manchego, Sian Gooding, Sanja Štajner and Horacio Saggion
 
-13. **The 11th Workshop on Asian Translation (WAT2024)** 
+13. **[The 11th Workshop on Asian Translation (WAT2024)](https://lotus.kuee.kyoto-u.ac.jp/WAT/WAT2024/index.html)** 
 Organizers: Toshiaki Nakazawa, Isao Goto, Raj Dabre, Shantipriya Parida, Hidaya Mino, Chenhui Chu, Akiko Eriguchi, Yusuke Oda  and Makoto Morishita
 
-14. **CoNLL 2024** 
+14. **[CoNLL 2024](https://conll.org/)** 
 Organizers: Libby Barak and Malihe Alikhani
 
-15. **The Sixth Workshop on Narrative Understanding** 
+15. **[The Sixth Workshop on Narrative Understanding](https://sites.google.com/cs.stonybrook.edu/wnu2024)** 
 Organizers: Faeze Brahman, Anneliese Brei, Khyathi Raghavi Chandu, Snigdha Chaturvedi, Elizabeth Clark, Yash Kumar Lal and Mohit Iyyer
 
-16. **Workshop on the Future of Event Detection** 
+16. **[Workshop on the Future of Event Detection](https://future-of-event-detection.github.io/)** 
 Organizers: Joel Tetreault, Thien Huu Nguyen, Hemank Lamba and Amanda Hughes
 
-17. **Workshop on Customizable NLP: Progress and Challenges in Customizing NLP for a Domain, Application, Group, or Individual (CustomNLP4U)** 
+17. **[Workshop on Customizable NLP: Progress and Challenges in Customizing NLP for a Domain, Application, Group, or Individual (CustomNLP4U)](https://customnlp4u-24.github.io/)** 
 Organizers: Chan Young Park, Vidhisha Balachandran, Weijia Shi, Shirley Anugrah Hayati and Sachin Kumar
 
-18. **The Second Workshop on Social Influence in Conversations (SICon 2024)** 
+18. **[The Second Workshop on Social Influence in Conversations (SICon 2024)](https://sites.google.com/view/sicon2024/home)** 
 Organizers: Muskan Garg, Kushal Chawla, Weiyan Shi, Ritam Dutt, Deuksin Brian Kwon, James Hale, Daniel Hershcovich, Aina Gari Soler, Liang Qiu, Alexandros Papangelis, Zhou Yu and Gale Lucas
 
-19. **Ninth Conference on Machine Translation (WMT24)** 
+19. **[Ninth Conference on Machine Translation (WMT24)](https://www2.statmt.org/wmt24/)** 
 Organizers: Philipp Koehn, Barry Haddow, Christof Monz and Tom Kocmi
