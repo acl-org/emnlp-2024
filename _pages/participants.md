@@ -9,6 +9,29 @@ sidebar:
     nav: participants
 ---
 
+## Submission Requirements
+
+* If your paper has been accepted to the main conference (oral, poster, TACL/CL), you are required to submit a pre-recorded video presentation, a poster PDF and presentation slides
+* If your paper has been accepted to Findings, you are not required to present at the Conference
+* If you still plan to present your Findings paper at the conference, you are required to submit to Underline Findings papers that are not presented at the Conference will appear in the ACL Anthology regardless
+* If you are presenting a demo or an industry track paper, please see the requirements on slide 3
+* The physical poster size is A0 portrait
+* All pre-recorded presentations, posters and slides must be uploaded to Underline by Oct 22, 2024 through a Speaker Form detailed on slide 4.
+* On the following pages you can also find a simple set of guidelines on how to record your presentation.
+* If you need help or have questions please send an email to [emnlp2024@underline.io](mailto:emnlp2024@underline.io)
+
+| --- | EMNLP Main conference Long papers, all TACL and CL papers | EMNLP Main conference Short papers | Findings Long papers | Findings Short papers | Demo papers | Industry Track |
+| :-------- | :------: | :------: | :------: | :------: | :------: | :------: |
+| Pre-recorded video | REQUIRED: 10 minutes | REQUIRED: 5 minutes | REQUIRED: 10 minutes (only if you are presenting) | REQUIRED: 5 minutes (only if you are presenting) | REQUIRED: 2 minutes | RECOMMENDED: 5 minutes |
+| Poster PDF | REQUIRED | REQUIRED | REQUIRED (only if you are presenting) | REQUIRED (only if you are presenting) | REQUIRED | REQUIRED |
+| Slides | REQUIRED | REQUIRED | REQUIRED (only if you are presenting) | REQUIRED (only if you are presenting) | REQUIRED | REQUIRED |
+
+
+Please fill out the [speaker information and release form](https://emnlp2024-main-conference.paperform.co/) by **October 22, 2024**.
+
+NOTE! Even if some fields are optional, filling out the submission form is mandatory.
+
+
 ## Venue & Accommodations
 
 ### Venue
