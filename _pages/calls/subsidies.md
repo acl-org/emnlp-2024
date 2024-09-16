@@ -1,5 +1,5 @@
 ---
-title: Call for Diversity and Inclusion Subsidies
+title: Call for EMNLP 2024 Diversity and Inclusion Subsidies
 layout: single
 permalink: /calls/subsidies/
 sidebar: 
@@ -12,17 +12,17 @@ toc_icon: "cog"
 
 ## Instructions
 
-Applicants should fill out [the D&I Application form](https://forms.office.com/r/1Hv76rMJY7) before <b>October 20, 2023 11:59pm (AoE)</b>.
-.
+Applicants should fill out [this link](https://forms.office.com/r/U7LNRRmfak) before **Friday, October 11, 2024, 11:59 PM (AOE)**.
+
 
 ## Information
 
-EMNLP 2023 is providing D&I funds for registration, caregiving, bandwidth, travel and VPN subsidies. We strongly encourage researchers from developing countries and marginalised communities, students, and researchers with financial hurdles to apply for both subsidies and [volunteering](https://2023.emnlp.org/volunteers). opportunities to maximise their chances of getting their registration fees waived. Please apply for subsidies before <b>October 20, 2023 11:59pm (AoE)</b>. 
+EMNLP 2024 is providing D&I funds for registration, caregiving, bandwidth, travel and VPN subsidies. We strongly encourage researchers from developing countries and marginalised communities, students, and researchers with financial hurdles to apply for both subsidies and [volunteering](https://2024.emnlp.org/volunteers) opportunities to maximise their chances of getting their registration fees waived. Please apply for subsidies before **Friday, October 11, 2024, 11:59 PM (AOE)**. 
 
 
 ## Registration and Membership Subsidies
 
-This is for getting a waiver for EMNLP registration. You can also request ACL membership if applicable. You will be asked to justify your application. For instance, you can say:
+This is for getting a waiver for EMNLP 2024 registration. You can also request ACL membership if applicable. You will be asked to justify your application. For instance, you can say:
 
 
 * "_I have an accepted paper at the main conference. I would like to apply for a registration fee waiver because my fees are not funded by my organization/institution._"
@@ -68,14 +68,14 @@ Applications will be evaluated based on the submitted materials and provided jus
 
 <b>All deadlines are 11.59 pm <a target="_blank" href="https://www.timeanddate.com/time/zone/timezone/utc-12">UTC -12h</a> ("anywhere on Earth").</b>
 
-Application deadline: October 20, 2023
+Application Deadline: **Friday, October 11, 2024, 11:59 PM (AOE)**
 
-Notification of acceptance: November 5, 2023
+Notification Deadline: **Friday, October 17, 2024, 11:59 PM (AOE)**
 
 
 ## Notification of acceptance 
 
-Applicants will be notified on (or before) Sunday November 5, 2023, 11:59pm (AoE), which is one week before the EMNLP early registration deadline on Sunday November 12, 2023, 11:59PM (EDT). [Link to EMNLP registration](https://2023.emnlp.org/registration).
+Applicants will be notified on (or before) **Friday, October 17, 2024, 11:59 PM (AOE)**, which is one week before th EMNLP 2024 early registration deadline on **Monday, October 21, 2024, 11:59 PM (AOE), 11:59 PM (EST)**. Link to EMNLP 2024 [registration](https://acl.swoogo.com/emnlp2024). 
 
 
 We aim to send all the notifications by the deadline above. Please be patient and wait for our email as we will notify you as soon as we can and no matter what the response is.
@@ -84,9 +84,9 @@ We aim to send all the notifications by the deadline above. Please be patient an
 
 ## Diversity and Inclusion Chairs
 
-Contact: [emnlp2023diversity@googlegroups.com](mailto:emnlp2023diversity@googlegroups.com)
+EMNLP 2024 Diversity and Inclusion team: [emnlp2024diversity@googlegroups.com](mailto:emnlp2024diversity@googlegroups.com) 
 
-* Jing Li, The Hong Kong Polytechnic University
-* Luisa Bentivogli, Fondazione Bruno Kessler
-* Eva Vanmassenhove, Tilburg University
-* Shi Zong, University of Waterloo
+* Christos Christodoulopoulos, Amazon
+* Veronica Perez-Rosas, Texas State University
+* Danish Pruthi, Indian Institute of Science (IISc), Bangalore  
+
