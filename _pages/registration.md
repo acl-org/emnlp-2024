@@ -12,7 +12,7 @@ sidebar:
   
 ## Registration is open
  
-### Registration Dates:
+### Registration Dates
 
 - Early Registration: September 9–October 21
 - Late Registration: October 22– November 11
@@ -24,7 +24,7 @@ The ACL & EMNLP Exec have put together the following 3 registration types, each 
 2. Academic 
 3. Student
 
-## Authors Registration Fee Details: 
+## Authors Registration Fee Details
 
 Author Register Paper (for presentation) Industrial/Non-Academic, Academic or Student
  
@@ -33,11 +33,11 @@ Exceptions to the statement above:
 Accepted Finding that are not being presented. All findings being presented must register their paper.
 Workshop shared tasked papers do not need to register their paper to present.
  
-### Note all Paper registration fees are based on actual hard cost to the conference. 
+### Note all Paper registration fees are based on actual hard cost to the conference
 In person registration fee reflects the attendees’ hard costs of food & beverage (breaks, welcome reception and social dinner) along with meeting space, av or poster presentation equipment). 
 Virtual attendees’ registration fees reflect the virtual costs (internet, AV, content management, platforms). 
  
-### Author Deadlines for Registering the Paper to Present: 
+### Author Deadlines for Registering the Paper to Present
 To assist the program chairs and committee with publishing the conference details for the program and Anthology we ask all authors to register no later than the following dates:
 
 - Accepted – Main Conference, Findings, CL/TACL, DEMOS & Industry – October 14th 
@@ -165,7 +165,7 @@ Please note that all in-person attendees must register for the conference at the
  
 Invitation letters will be issued once you have registered and paid for the conference. Authors, please note your paper title will be included on the letter of invitation if you selected yes to do you have a paper accepted to the conference. 
  
-### Overview on how to Register your Paper to Present at the Conference:
+### Overview on how to Register your Paper to Present at the Conference
 
 - Do you have a paper accepted to the conference?
   - Yes
