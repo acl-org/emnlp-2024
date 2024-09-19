@@ -22,30 +22,82 @@ diamond:
   image_path: /assets/images/logos/googledeepmind-logo.png
   alt: Google DeepMind
   title: Google DeepMind
+- url: 
+  image_path: /assets/images/logos/meta-logo.png
+  alt: Meta
+  title: Meta
+- url: 
+  image_path: /assets/images/logos/citadel-logo.png
+  alt: Citadel
+  title: Citadel
 platinum:
 - url: https://megagon.ai
   image_path: /assets/images/logos/megagon-logo.png
   alt: Megagon
   title: Megagon
+- url: 
+  image_path: /assets/images/logos/baidu-logo.png
+  alt: Baidu
+  title: Baidu
 - url:  https://cohere.com/
   image_path: /assets/images/logos/cohere-logo.png
   alt: Cohere  
-  title: Cohere  
-gold: 
+  title: Cohere
+- url: 
+  image_path: /assets/images/logos/bytedance-logo.png
+  alt: ByteDance
+  title: ByteDance
+- url: 
+  image_path: /assets/images/logos/amazon-logo.png
+  alt: Amazon
+  title: Amazon
+- url: 
+  image_path: /assets/images/logos/oracle-logo.png
+  alt: Oracle
+  title: Oracle
+- url: 
+  image_path: /assets/images/logos/tolokaai-logo.png
+  alt: Toloka AI
+  title: Toloka AI
+gold:
+- url: https://www.mlp.com/people/technology/
+  image_path: /assets/images/logos/millenium-logo.png
+  alt: Millenium
+  title: Millenium
+- url: 
+  image_path: /assets/images/logos/turing-logo.png
+  alt: Turing
+  title: Turing
 silver:
 - url: https://www.antgroup.com/en
   image_path: /assets/images/logos/antgroup-logo.png
   alt: Ant Group
   title: Ant Group
 bronze:
+- url: 
+  image_path: /assets/images/logos/jpmorgan-logo.png
+  alt: JP Morgan
+  title: JP Morgan
 - url: https://translated.com/welcome
   image_path: /assets/images/logos/translated-logo.png
   alt: Translated
   title: Translated
+- url: 
+  image_path: /assets/images/logos/adobe-logo.png
+  alt: Adobe
+  title: Adobe
+- url: 
+  image_path: /assets/images/logos/floridastateuniversity-logo.png
+  alt: Florida State University
+  title: Florida State University
 - url: https://www.janestreet.com/
   image_path: /assets/images/logos/janestreet-logo.png
   alt: Jane Street
   title: Jane Street
+- url: 
+  image_path: /assets/images/logos/figma-logo.png
+  alt: Figma
+  title: Figma
 di_ally:
 - url: https://machinelearning.apple.com
   image_path: /assets/images/logos/apple.jpg
@@ -56,8 +108,6 @@ EMNLP 2024 is extremely grateful to all sponsors. We simply couldn’t run the c
   
 If your organization would like to sponsor EMNLP or other conferences in the ACL family, please refer to the <a href= "/downloads/Sponsorship_Brochure_for_ACL_2024_conferences.pdf">sponsorship brochure</a> for information about sponsorship rates and benefits. If you are currently a sponsor of EMNLP 2024, please review the <a href="https://docs.google.com/document/d/1Veoe0otkvfWj8d9Oea5SFdqpZP6t53rL95211mWTmxo/edit?usp=sharing">EMNLP 2024 Sponsorship Manual</a> for guidelines. Sponsors who are exhibiting will have a manual posted soon.
 
-As a sponsor, you can also help us with our diversity and inclusion (D&I)  initiatives through D&I sponsorship. The goal of this initiative is to make the conference more accessible to people from underrepresented groups and geographic regions, provide accommodations to researchers with disabilities, and make the conference more welcoming to newcomers. As the registration fees can be 2 to 10 times the minimum wage in many parts of the world, the D&I committee reaches out to NLP researchers from underrepresented groups and offers registration fee waivers, travel grants, caregiving subsidies, etc. We also organize theme-based academic mentoring sessions and affinity group socials/workshops to help newcomers and early-career researchers. 
-
 ## Diamond
 
 {% include sponsors-list id="diamond" layout="third" %}
@@ -65,6 +115,10 @@ As a sponsor, you can also help us with our diversity and inclusion (D&I)  initi
 ## Platinum
 
 {% include sponsors-list id="platinum" layout="third" %}
+
+## Gold
+
+{% include sponsors-list id="gold" layout="third" %}
 
 ## Silver
 
@@ -78,42 +132,15 @@ As a sponsor, you can also help us with our diversity and inclusion (D&I)  initi
 
 {% include sponsors-list id="di_ally" layout="third" %}
 
-## EMNLP 2024 Sponsors List
-
-### Diamond Sponsors
-- Apple
-- Bloomberg
-- Google DeepMind
-- Meta
- 
-### Platinum Sponsors
-- Megagon
-- Baidu
-- Cohere
-- ByteDance
-- Amazon
-
-### Gold
-- Millennium
-
-### Silver
-- Ant Group
-
-### Bronze
-- JP Morgan
-- Translated
-- Adobe
-- Florida International University
-- Jane Street
-
-### Diversity and Inclusion Ally
-- Apple
-
-## Contact
+## Contact for Sponsors
 
 For more information, please reach out to the sponsorship chairs: [Leonardo Neves](mailto:lneves@snap.com) and [Heba Elfardy](mailto:heba.elfardy@gmail.com).
 
-## Novel D&I Initiatives
+## D&I Initiatives
+
+As a sponsor, you can also help us with our diversity and inclusion (D&I)  initiatives through D&I sponsorship. The goal of this initiative is to make the conference more accessible to people from underrepresented groups and geographic regions, provide accommodations to researchers with disabilities, and make the conference more welcoming to newcomers. As the registration fees can be 2 to 10 times the minimum wage in many parts of the world, the D&I committee reaches out to NLP researchers from underrepresented groups and offers registration fee waivers, travel grants, caregiving subsidies, etc. We also organize theme-based academic mentoring sessions and affinity group socials/workshops to help newcomers and early-career researchers. 
+
+### Novel D&I Initiatives
 
 This year, in addition to our other initiatives, we plan to trial the following:
 
