@@ -22,7 +22,7 @@ diamond:
   image_path: /assets/images/logos/googledeepmind-logo.png
   alt: Google DeepMind
   title: Google DeepMind
-- url: 
+- url: https://ai.meta.com/
   image_path: /assets/images/logos/meta-logo.png
   alt: Meta
   title: Meta
@@ -35,7 +35,7 @@ platinum:
   image_path: /assets/images/logos/megagon-logo.png
   alt: Megagon
   title: Megagon
-- url: 
+- url: https://home.baidu.com/home/index
   image_path: /assets/images/logos/baidu-logo.png
   alt: Baidu
   title: Baidu
@@ -43,11 +43,11 @@ platinum:
   image_path: /assets/images/logos/cohere-logo.png
   alt: Cohere  
   title: Cohere
-- url: 
+- url: https://www.bytedance.com/en/
   image_path: /assets/images/logos/bytedance-logo.png
   alt: ByteDance
   title: ByteDance
-- url: 
+- url: https://www.amazon.science/
   image_path: /assets/images/logos/amazon-logo.png
   alt: Amazon
   title: Amazon
@@ -64,7 +64,7 @@ gold:
   image_path: /assets/images/logos/millenium-logo.png
   alt: Millenium
   title: Millenium
-- url: 
+- url: www.turing.com
   image_path: /assets/images/logos/turing-logo.png
   alt: Turing
   title: Turing
