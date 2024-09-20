@@ -31,7 +31,7 @@ TBD
 | Slides | REQUIRED | REQUIRED | REQUIRED (only if you are presenting) | REQUIRED (only if you are presenting) | REQUIRED | REQUIRED |
 
 
-Please fill out the speaker information and release form (TBA) by **October 22, 2024**.
+Please fill out the speaker information and [release form](https://emnlp2024-main-conference.paperform.co/) by **October 22, 2024**.
 
 NOTE! Even if some fields are optional, filling out the submission form is mandatory.
 
