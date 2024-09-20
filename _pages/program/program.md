@@ -21,7 +21,7 @@ Program Updates
 - Wednesday, November 13 - Main Conference
   - 08:30 - 16:00		Registration
   - 09:00 - 17:30		Day 2 Main Sessions
-  - 18:30 - 21:30		Social Event - Dinner
+  - 19:00 - 22:30		Social Event - Dinner
 - Thursday, November 14 - Main Conference
   - 08:30 - 16:00		Registration
   - 09:00 - 17:00		Day 3 Main Sessions
