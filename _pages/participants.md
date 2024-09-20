@@ -9,6 +9,10 @@ sidebar:
     nav: participants
 ---
 
+## Authors/Participants
+
+TBD
+
 ## Submission Requirements
 
 * If your paper has been accepted to the main conference (oral, poster, TACL/CL), you are required to submit a pre-recorded video presentation, a poster PDF and presentation slides
@@ -35,7 +39,7 @@ NOTE! Even if some fields are optional, filling out the submission form is manda
 
 Vista South Convention Services - Deadline for submitting print order is Monday, October 28, 2024. See [order form](https://2024.emnlp.org/assets/images/poster_form.pdf) for details.
 
-Pick up only, delivery services are not available
+Poster delivery service is available only through Vista South Convention Services. Pick up services are available through Fed Ex Office Print & Ship Center and The UPS Store.
 
 [FedEx Office Print & Ship Center](https://local.fedex.com/en-us/fl/miami/office-1706)
 
