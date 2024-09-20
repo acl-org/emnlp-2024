@@ -2,9 +2,9 @@
 title: Venue
 layout: single
 permalink: /venue
-# toc: true
-# toc_sticky: true
-# toc_icon: "cog"
+toc: true
+toc_sticky: true
+toc_icon: "cog"
 ---
 
 ## Venue & Accommodations
