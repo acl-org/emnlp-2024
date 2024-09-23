@@ -16,6 +16,8 @@ Address: 400 South East Second Ave.
 
 Miami, FL 33131-2197
 
+EMNLP is committed to fair participation of all people. In particular, all attendees are welcome to use the venue restrooms that align with their gender. There will be gender neutral stalls available.
+
 ### Discounted Accommodations
 Host Conference Hotel 
 
