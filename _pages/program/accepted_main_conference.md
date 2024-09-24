@@ -9,11 +9,7 @@ toc_icon: "cog"
 sidebar:
     nav: program
 ---
-[comment]: (This file was generated using scripts/accepted_papers.py)
 
-
-Long Papers
----
 
 **UniGen: Universal Domain Generalization for Sentiment Classification via Zero-shot Dataset Generation**<br/>Juhwan Choi, Yeonghwa Kim, Seunguk Yu, JungMin Yun, YoungBin Kim
 
