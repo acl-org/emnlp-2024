@@ -78,12 +78,12 @@ program:
 #       - title: "Birds-of-a-Feather and Affinity Group Meetups"
 #         url: /program/bof/
         
-#   - title: "Accepted Papers"
-#     children:
-#       - title: "Main Conference"
-#         url: /program/accepted_main_conference/
-#       - title: "Findings"
-#         url: /program/accepted_findings/
+  - title: "Accepted Papers"
+    children:
+      - title: "Main Conference"
+        url: /program/accepted_main_conference/
+      - title: "Findings"
+        url: /program/accepted_findings/
 #       - title: "Industry Track"
 #         url: /program/industry/
 #       - title: "System Demonstration"
