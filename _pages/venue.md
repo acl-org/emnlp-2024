@@ -97,8 +97,6 @@ The non-refundable visa application fee is [approximately $185](https://travel.s
 
 ### Invitation Letters
 
-~~We are pleased to announce that we have created a [form](https://forms.office.com/pages/responsepage.aspx?id=-KBNDTFKdk2s5gpiMx4bhPsn11I1EsNGsk44LIKnyTtUNFE0NlAxRkpSUDhLSk9CME9IT1NNQTJEUC4u) for conference attendees to request an invitation letter for a visa. If you need an invitation letter to apply for a visa, go to the form and follow the instructions. Note that this form is only for those submitting papers to the main conference tracks, as well as invited speakers for and members of the organizing committees for the main conference and co-located workshops. If you are only submitting a paper to a workshop, please reach out to your workshop organizers for an invitation letter. If you have any questions, please don’t hesitate to reach out to the local arrangements chairs [Mark Finlayson](mailto:markaf@fiu.edu) and [Zoey Liu](mailto:liu.ying@ufl.edu).~~
-
 **Update (21st September 2024):** Registration now is open for EMNLP. When you register for the conference, you will receive an automatically generated visa invitation letter. If there are specific details that need to be added or changed in the letter, please reach out to the local arrangements chairs [Mark Finlayson](mailto:markaf@fiu.edu) and [Zoey Liu](mailto:liu.ying@ufl.edu).
 
 A letter is not specifically required. However, you are supposed to [bring documentation](https://travel.state.gov/content/travel/en/us-visas/tourism-visit/visitor.html) to your visa interview. Bringing a letter from the conference organizers can help to establish the purpose of your trip: for example, we can document that you are coming to present a paper.
