@@ -14,6 +14,8 @@ toc_icon: "cog"
 
 Applicants should fill out [this link](https://forms.office.com/r/U7LNRRmfak) before **Friday, October 11, 2024, 11:59 PM (AOE)**.
 
+If you are applying for a D&I subsidy and require a visa letter (which you usually get after your registration), please contact the local arrangements chairs [Mark Finlayson](mailto:markaf@fiu.edu) and [Zoey Liu](mailto:liu.ying@ufl.edu).
+
 
 ## Information
 
