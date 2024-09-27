@@ -88,8 +88,8 @@ bronze:
   title: Adobe
 - url: 
   image_path: /assets/images/logos/floridastateuniversity-logo.png
-  alt: Florida State University
-  title: Florida State University
+  alt: Florida International University
+  title: Florida International University
 - url: https://www.janestreet.com/
   image_path: /assets/images/logos/janestreet-logo.png
   alt: Jane Street
