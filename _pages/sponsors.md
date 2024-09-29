@@ -26,7 +26,7 @@ diamond:
   image_path: /assets/images/logos/meta-logo.png
   alt: Meta
   title: Meta
-- url: 
+- url: https://www.citadelsecurities.com
   image_path: /assets/images/logos/citadel-logo.png
   alt: Citadel
   title: Citadel
