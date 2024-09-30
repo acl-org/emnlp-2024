@@ -51,7 +51,7 @@ platinum:
   image_path: /assets/images/logos/amazon-logo.png
   alt: Amazon
   title: Amazon
-- url: 
+- url: https://www.oracle.com/careers/opportunities/oracle-cloud-infrastructure/?source=:ex:sn:::::24EMNLP&SC=:ex:sn:::::24EMNLP&pcode=
   image_path: /assets/images/logos/oracle-logo.png
   alt: Oracle
   title: Oracle
