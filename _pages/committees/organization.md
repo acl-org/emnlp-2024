@@ -41,6 +41,15 @@ sidebar:
    email = "yvchen@csie.ntu.edu.tw"
 %}
 
+<h2>ARR Guest Program Chair </h2>
+{% include committee-member.html
+   name="Vincent Ng"
+   picture="/assets/images/EMNLP-2024-Headshots/vincent-ng.png"
+   site="https://www.hlt.utdallas.edu/~vince/"
+   institution="University of Texas at Dallas"
+   email = "vince@hlt.utdallas.edu"
+%}
+
 <h2>Local Chairs</h2>
 {% include committee-member.html
    name="Mark Finlayson"
