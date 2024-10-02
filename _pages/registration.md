@@ -146,12 +146,15 @@ Authors with accepted papers to the conference do not qualify for this program. 
 The ACL policy is that everyone attending an ACL conference must be a current (CY 2024) ACL member. So, in addition to the registration fee, each Industrial, Non-Academic, Academic attendee will add a $100 membership fee to their registration and each Student will add a $50 membership fee to their registration if not already a 2024 paid member.
 Your ACL membership is for the entire 2024 year, providing membership in the society devoted to promoting CL research throughout the world, open access to the CL and TACL Journals and ACL Anthology as well as access to other ACL conferences in the same year without paying membership again.
 Membership also entitles you to electronic notification of new issues of the journals, discounts on publications from participating publishers, announcements of ACL and related conferences, workshops, and journal calls of interest to the community.
- 
+
 ## Cancellation Policy
 - Cancellation of registration one month or more prior to the conference (October 14th, 2024, or before), will be refunded the full amount paid (Minus up to $50 processing fee).
 - Cancellations up to three weeks prior to the conference (October 21st, 2024) will be refunded the ACL membership (if paid as part of the registration) and any amounts paid over and above the first $200.
 - Cancellations 2 weeks prior to the start of the conference (Oct 28th, 2024), and all no-shows, will not be refunded any amount. They will be able to retain the current full year ACL membership (if paid as part of the registration) and have access virtually.
 - _Exceptions: Cancellation due to governmental travel restrictions, failure to obtain a visa, or serious illness that prevents travel to the conference will be refunded the full amount paid (Minus up to $50 processing fee) regardless of when the notification is received by the ACL Office and registrant must submit documentation supporting the above cancellation exceptions._
+
+## Switching from in-person to virtual registration
+If anyone has registered for in-person attendance for paper presentation but their VISA has been denied, then you will be allowed to switch to virtual registration without any penalty. Furthermore, the difference between the registration costs will be refunded back to you.
  
 ## Authors Paper Registration Policy & Fees for ACL Conferences
  
