@@ -55,7 +55,7 @@ platinum:
   image_path: /assets/images/logos/oracle-logo.png
   alt: Oracle
   title: Oracle
-- url: 
+- url: https://toloka.ai/
   image_path: /assets/images/logos/tolokaai-logo.png
   alt: Toloka AI
   title: Toloka AI
