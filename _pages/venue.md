@@ -69,6 +69,8 @@ The closest international airport is Miami International Airport: MIA Distance 9
 - [Brightline](https://www.gobrightline.com/train-stations)
     - Brightline is an inter-city express train located at the Miami Central Station, and it connects Miami to Fort Lauderdale (including FLL), West Palm Beach, and Orlando. The company offers shuttles to drop you off at MIA.                
 
+### Unisex Restrooms at MIA
+The north and south terminals have single use/unisex restrooms; however, the facilities in the central terminal area are of older design and have not been updated to include single use/unisex restrooms. As our terminal facilities are modernized, the latest ADA and code requirements are being incorporated." and link to the source for this information, [here](https://www.miami-airport.com/library/pdfdoc/ADA%20Documents/ADA%20FAQ's%20-%20June%202017.pdf). Also check [this](https://www.miami-airport.com/myMIAccess.asp).
 
 ### Hotel Parking
 
