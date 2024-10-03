@@ -74,7 +74,7 @@ silver:
   alt: Ant Group
   title: Ant Group
 bronze:
-- url: 
+- url: https://www.jpmorgan.com/technology/applied-ai-and-ml/machine-learning
   image_path: /assets/images/logos/jpmorgan-logo.png
   alt: JP Morgan
   title: JP Morgan
