@@ -1561,7 +1561,7 @@ sidebar:
 
 **Towards One-to-Many Visual Question Answering**<br/>Huishan Ji, Qingyi Si, Zheng Lin, Yanan Cao, Weiping Wang
 
-**Document-level Causal Relation Extraction with Knowledge-guided Binary Question Answering**<br/>Zimu Wang, Lei Xia, Wei Wang XJTLU, Xinya Du
+**Document-level Causal Relation Extraction with Knowledge-guided Binary Question Answering**<br/>Zimu Wang, Lei Xia, Wei Wang, Xinya Du
 
 **Block-Diagonal Orthogonal Relation and Matrix Entity for Knowledge Graph Embedding**<br/>Yihua Zhu, Hidetoshi Shimodaira
 
