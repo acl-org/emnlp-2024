@@ -89,7 +89,7 @@ In addition, if you have already paid for your registration, bringing your recei
 
 ### Is it safe to go ahead and register for the conference before I have a visa?
 
-Yes. If your visa application is denied, you can request a full refund or change your registration from in-person to virtual. Please contact the EMNLP 2024 Registrar at [EMNLPinfo@yesevents.com](mailto:EMNLPinfo@yesevents.com) or toll-free number 1-800-937-8728.
+Yes. If your visa application is denied, or is delayed past the conference dates, you can request a full refund or change your registration from in-person to virtual. Please contact the EMNLP 2024 Registrar at [EMNLPinfo@yesevents.com](mailto:EMNLPinfo@yesevents.com) or toll-free number 1-800-937-8728.
 
 ## Poster Printing Options
 
