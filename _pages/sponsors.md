@@ -64,7 +64,7 @@ gold:
   image_path: /assets/images/logos/millenium-logo.png
   alt: Millenium
   title: Millenium
-- url: www.turing.com
+- url: https://www.turing.com/
   image_path: /assets/images/logos/turing-logo.png
   alt: Turing
   title: Turing
@@ -82,7 +82,7 @@ bronze:
   image_path: /assets/images/logos/translated-logo.png
   alt: Translated
   title: Translated
-- url: 
+- url: https://research.adobe.com/
   image_path: /assets/images/logos/adobe-logo.png
   alt: Adobe
   title: Adobe
