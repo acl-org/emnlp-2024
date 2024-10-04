@@ -172,6 +172,23 @@ sidebar:
    email = "sunipadev@google.com"
 %}
 
+<h2>Internal Communications Chairs</h2>
+{% include committee-member.html
+   name="Jing Li"
+   picture="/assets/images/EMNLP-2024-Headshots/jing_li.png"
+   site="https://www4.comp.polyu.edu.hk/~jing1li/"
+   institution="Hong Kong Polytechnic University"
+   email = "jing-amelia.li@polyu.edu.hk"
+%}
+
+{% include committee-member.html
+   name="Yixin Cao"
+   picture="/assets/images/EMNLP-2024-Headshots/cao_yixin.png"
+   site="https://sites.google.com/view/yixin-homepage"
+   institution="Fudan University"
+   email = "yxcao@fudan.edu.cn"
+%}
+
 <h2>Demonstration Chairs</h2>
 {% include committee-member.html
    name="Delia Irazu Hernandez Farias"
