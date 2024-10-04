@@ -86,8 +86,8 @@ bronze:
   image_path: /assets/images/logos/adobe-logo.png
   alt: Adobe
   title: Adobe
-- url: 
-  image_path: /assets/images/logos/floridastateuniversity-logo.png
+- url: https://cec.fiu.edu/
+  image_path: /assets/images/logos/fiu-logo.png
   alt: Florida International University
   title: Florida International University
 - url: https://www.janestreet.com/
