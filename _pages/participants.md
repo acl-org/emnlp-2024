@@ -21,7 +21,7 @@ TBD
 * If you are presenting a demo or an industry track paper, please see the requirements on slide 3
 * The physical poster size is A0 portrait
 * All pre-recorded presentations, posters and slides must be uploaded to Underline by Oct 22, 2024 through a Speaker Form detailed on slide 4.
-* On the following pages you can also find a simple set of guidelines on how to record your presentation.
+* On the following pages you can also find a simple set of guidelines on how to record your presentation: [Main Conference Presenters](https://docs.google.com/presentation/d/1p_W2j1CRJ3cA7IANZcSCZv7om6_kAonsLtDrRP5YigY/edit?usp=sharing/) and [Workshop Presenters](https://docs.google.com/presentation/d/1_x_VznhmaezQ6KolT5BpoKwLdIHOWn8Bu7v2MVIdu1c/edit?usp=sharing).
 * If you need help or have questions please send an email to [emnlp2024@underline.io](mailto:emnlp2024@underline.io)
 
 | --- | EMNLP Main conference Long papers, all TACL and CL papers | EMNLP Main conference Short papers | Findings Long papers | Findings Short papers | Demo papers | Industry Track |
