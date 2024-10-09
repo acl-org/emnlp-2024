@@ -84,10 +84,10 @@ program:
         url: /program/accepted_main_conference/
       - title: "Findings"
         url: /program/accepted_findings/
-#       - title: "Industry Track"
-#         url: /program/industry/
-#       - title: "System Demonstration"
-#         url: /program/demo/
+      - title: "Industry Track"
+        url: /program/industry/
+      - title: "System Demonstration"
+        url: /program/demo/
 
 #   - title: "Awards"
 #     children:
