@@ -17,6 +17,8 @@ EMNLP 2024 will take place in Miami, Florida from **Nov 12th to Nov 16th, 2024**
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2024-10-9 | Instructions to record your talks posted. More details [here](/participants)
+| 2024-10-9 | List of accepted [demo](/program/demo) and [industry track](/program/industry) papers posted. 
 | 2024-9-24 | List of accepted [main](/program/accepted_main_conference) and [findings](/program/accepted_findings) papers posted. 
 | 2024-9-16 | Call for D&I Subsidies has been posted. More details [here](/calls/subsidies).
 | 2024-9-9 | Registration is open. More details [here](/registration).
