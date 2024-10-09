@@ -14,156 +14,246 @@ sidebar:
 
 Accepted Papers 
 ---
-**BeautifulPrompt: Towards Automatic Prompt Engineering for Text-to-Image Synthesis** <br/>Tingfeng Cao, Chengyu Wang, Bingyan Liu, Ziheng Wu, Jinhui Zhu and jun huang
+(Paper ID: 14) **Optimizing Entity Resolution in Voice Interfaces: An ASR-Aware Query Expansion Approach** <br/>Jiangning Chen, Ziyun Zhang, Qianli Hu
 
-**Enhancing Language Model with Unit Test Techniques for Efficient Regular Expression Generation** <br/>Chenhui Mao, Xiexiong Lin, Xin Jin and Xin Zhang
+(Paper ID: 25) **Two-tiered Encoder-based Hallucination Detection for Retrieval-Augmented Generation in the Wild** <br/>Ilana Zimmerman, Jadin Tredup, Ethan Selfridge, Joseph Bradley
 
-**A Comparative Analysis of Task-Agnostic Distillation Methods for Compressing Transformer Language Models** <br/>Takuma Udagawa, Aashka Trivedi, Michele Merler and Bishwaranjan Bhattacharjee
+(Paper ID: 32) **The Program Testing Ability of Large Language Models for Code** <br/>Weimin Xiong, Yiwen Guo, Hao Chen
 
-**Towards Effective Automatic Debt Collection with Persona Awareness** <br/>Tong Zhang, Junhong Liu, Chen Huang, Jia Liu, Hongru Liang, Zujie Wen and Wenqiang Lei
+(Paper ID: 38) **Salient Information Prompting to Steer Content in Prompt-based Abstractive Summarization** <br/>Lei Xu, Mohammed Asad Karim, Saket Dingliwal, Aparna Elangovan
 
-**Gatekeeper to save COGS and improve efficiency of Text Prediction** <br/>Nidhi Tiwari, Sneha Kola, Milos Milunovic, Si-qing Chen and Marjan Slavkovski
+(Paper ID: 42) **Predicting Entity Salience in Extremely Short Documents** <br/>Benjamin Bullough, Harrison Lundberg, Chen Hu, Weihang Xiao
 
-**Efficient Transformer Knowledge Distillation: A Performance Review** <br/>Nathan Brown, Ashton Williamson, Tahj Anderson and Logan Lawrence
+(Paper ID: 48) **Don't Shoot The Breeze: Topic Continuity Model Using Nonlinear Naive Bayes With Attention** <br/>Shu-Ting Pi, Pradeep Bagavan, Yejia Li, Disha, Qun Liu
 
-**CDD: A Large Scale Dataset for Legal Intelligence Research** <br/>Changzhen Ji, Yating Zhang, Adam Jatowt and Haipang Wu
+(Paper ID: 52) **Informing Speller Service of New Brands: A RAG Approach** <br/>Xuan Guo, Rohit Patki, Dante Everaert, Christopher Potts
 
-**MUST&P-SRL: Multi-lingual and Unified Syllabification in Text and Phonetic Domains for Speech Representation Learning** <br/>Noé Tits
+(Paper ID: 53) **Scaling Parameter-Constrained Language Models with Quality Data** <br/>Ernie Chang, Matteo Paltenghi, Yang Li, Pin-Jie Lin, Changsheng Zhao, Patrick Huber, Zechun Liu, Rastislav Rabatin, Yangyang Shi, Vikas Chandra
 
-**Personalized Dense Retrieval on Global Index for Voice-enabled Conversational Systems** <br/>Masha Belyi, Charlotte Dzialo, Chaitanya Dwivedi, Prajit Reddy Muppidi and Kanna Shimizu
+(Paper ID: 54) **INDUS: Effective and Efficient Language Models for Scientific Applications** <br/>Bishwaranjan Bhattacharjee, Aashka Trivedi, Masayasu Muraoka, Muthukumaran Ramasubramanian, Takuma Udagawa, Iksha Gurung, Nishan Pantha, Rong Zhang, Bharath Dandala, Rahul Ramachandran, Manil Maskey, Kaylin Bugbee, Mike Little, Elizabeth Fancher, Irina Gerasimov, Armin Mehrabian, Lauren Sanders, Sylvain Costes, Sergi Blanco-Cuaresma, Kelly Lockhart, Thomas Allen, Felix Grezes, Megan Ansdell, Alberto Accomazzi, Yousef El-Kurdi, Davis Wertheimer, Birgit Pfitzmann, Cesar Berrospi Ramis, Michele Dolfi, Rafael Teixeira De Lima, Panagiotis Vagenas, Surya Karthik Mukkavilli, Peter W. J. Staar, Sanaz Vahidinia, Ryan Mcgranaghan, Tsendgar Lee
 
-**Text2Topic: Multi-Label Text Classification System for Efficient Topic Detection in User Generated Content with Zero-Shot Capabilities**   <br/>Fengjun Wang, Moran Beladev, Ofri Kleinfeld, Elina Frayerman, Tal Shachar, Eran Fainman, Karen Lastmann Assaraf, Sarai Mizrachi and Benjamin Wang
+(Paper ID: 55) **DL-QAT: Weight-Decomposed Low-Rank Quantization-Aware Training for Large Language Models** <br/>Wenjing Ke, Zhe Li, Dong Li, Lu Tian, Emad Barsoum
 
-**Deep Metric Learning to Hierarchically Rank - An Application in Product Retrieval** <br/>KeeKiat Koo, Ashutosh Joshi, Nishaanth Reddy, Karim Bouyarmane, Ismail Tutar, Vaclav Petricek and Changhe Yuan
+(Paper ID: 60) **Hybrid-RACA: Hybrid Retrieval-Augmented Composition Assistance for Real-time Text Prediction** <br/>Menglin Xia, Xuchao Zhang, Camille Couturier, Guoqing Zheng, Saravan Rajmohan, Victor Rühle
 
-**A Pretrained Language Model for Cyber Threat Intelligence** <br/>Youngja Park and Weiqiu You
+(Paper ID: 62) **LLMC: Benchmarking Large Language Model Quantization with a Versatile Compression Toolkit** <br/>Ruihao Gong, Yang Yong, Shiqiao Gu, Yushi Huang, Chengtao Lv, Yunchen Zhang, Dacheng Tao, Xianglong Liu
 
-**SAMP: A Model Inference Toolkit of Post-Training Quantization for Text Processing via Self-Adaptive Mixed-Precision** <br/>Rong Tian, Zijing Zhao, Weijie Liu, Haoyan Liu, Weiquan Mao, Zhe Zhao and Kan Zhou
+(Paper ID: 63) **PDFTriage: Question Answering over Long, Structured Documents** <br/>Jon Saad-Falcon, Joe Barrow, Alexa Siu, Ani Nenkova, Seunghyun Yoon, Ryan A. Rossi, Franck Dernoncourt
 
-**KD-Boost: Boosting Real-Time Semantic Matching in E-commerce with Knowledge Distillation** <br/>Sanjay Agrawal, Vivek Sembium and Ankith M S
+(Paper ID: 65) **Fairness-Aware Online Positive-Unlabeled Learning in Text Classification** <br/>Hoin Jung, Xiaoqian Wang
 
-**Multi-teacher Distillation for Multilingual Spelling Correction** <br/>Jingfen Zhang, Xuan Guo, Sravan Bodapati and Christopher Potts
+(Paper ID: 69) **SAAS: Solving Ability Amplification Strategy for Enhanced Mathematical Reasoning in Large Language Models** <br/>Hyeonwoo Kim, Gyoungjin Gim, Yungi Kim, Jihoo Kim, Byungju Kim, Wonseok Lee, Chanjun Park
 
-**Does Named Entity Recognition Truly Not Scale Up to Real-world Product Attribute Extraction?** <br/>Wei-Te Chen, Keiji Shinzato, Naoki Yoshinaga and Yandi Xia
+(Paper ID: 75) **Debiasing Text Safety Classifiers through a Fairness-Aware Ensemble** <br/>Olivia Sturman, Aparna R Joshi, Piyush Kumar, Bhaktipriya Radharapu, Renee Shelby
 
-**Investigating Table-to-Text Generation Capabilities of Large Language Models in Real-World Information Seeking Scenarios** <br/>Yilun Zhao, Haowei Zhang, Shengyun Si, Linyong Nan, Xiangru Tang and Arman Cohan
+(Paper ID: 76) **Centrality-aware Product Retrieval and Ranking** <br/>Hadeel Saadany, Swapnil Bhosale, Samarth Agrawal, Constantin Orasan, Zhe Wu, Diptesh Kanojia
 
-**TMID: A Comprehensive Real-world Dataset for Trademark Infringement Detection in E-Commerce** <br/>Tongxin Hu, Zhuang Li, Xin Jin, Lizhen Qu and Xin Zhang
+(Paper ID: 77) **Fusion-Eval: Integrating Assistant Evaluators with LLMs** <br/>Lei Shu, Nevan Wichers, Liangchen Luo, Yun Zhu, Yinxiao Liu, Jindong Chen, Lei Meng
 
-**Joint Dialogue Topic Segmentation and Categorization: A Case Study on Clinical Spoken Conversations** <br/>Zhengyuan Liu, Siti Umairah Md Salleh, Hong Choon Oh, Pavitra Krishnaswamy and Nancy Chen
+(Paper ID: 80) **Investigating the Personality Consistency in Quantized Role-Playing Dialogue Agents** <br/>Yixiao Wang, Homa Fashandi, Kevin Ferreira
 
-**AdapterDistillation: Non-Destructive Task Composition with Knowledge Distillation** <br/>Junjie Wang, Yicheng Chen, Wangshu Zhang, Sen Hu, Teng Xu and Jing Zheng
+(Paper ID: 83) **Robust ASR Error Correction with Conservative Data Filtering** <br/>Takuma Udagawa, Masayuki Suzuki, Masayasu Muraoka, Gakuto Kurata
 
-**PROMINET: Prototype-based Multi-View Network for Interpretable Email Response Prediction** <br/>Yuqing Wang, Prashanth Vijayaraghavan and Ehsan Degan
+(Paper ID: 85) **Code Representation Pre-training with Complements from Program Executions** <br/>Jiabo Huang, Jianyu Zhao, Yuyang Rong, Yiwen Guo, Yifeng He, Hao Chen
 
-**Retrieval-Enhanced Dual Encoder Training for Product Matching** <br/>Justin Chiu
+(Paper ID: 89) **ScaleLLM: A Resource-Frugal LLM Serving Framework by Optimizing End-to-End Efficiency** <br/>Yuhang Yao, Han Jin, Alay Dilipbhai Shah, Shanshan Han, Zijian Hu, Yide Ran, Dimitris Stripelis, Zhaozhuo Xu, Salman Avestimehr, Chaoyang He
 
-**WordArt Designer: User-Driven Artistic Typography Synthesis using Large Language Models** <br/>JUN-YAN HE, Zhi-Qi Cheng, Chenyang Li, Jingdong Sun, Wangmeng Xiang, Xianhui Lin, Xiaoyang Kang, Zengke Jin, Yusen Hu, Bin Luo, Yifeng Geng, xuansong xie and Jingren Zhou
+(Paper ID: 90) **Context Matters: Pushing the Boundaries of Open-Ended Answer Generation with Graph-Structured Knowledge Context** <br/>Somnath Banerjee, Amruit Sahoo, Sayan Layek, Avik Dutta, Rima Hazra, Animesh Mukherjee
 
-**Lattice Path Edit Distance: A Romanization-aware Edit Distance for Extracting Misspelling-Correction Pairs from Japanese Search Query   Logs** <br/>Nobuhiro Kaji
+(Paper ID: 95) **SHIELD: LLM-Driven Schema Induction for Predictive Analytics in EV Battery Supply Chain Disruptions** <br/>Zhi-Qi Cheng, Yifei Dong, Yuzhi Hu, Aike Shi, Wei Liu, Jason O'Connor, Alexander Hauptmann, Kate Whitefoot
 
-**Learning Multilingual Sentence Representations with Cross-lingual Consistency Regularization** <br/>Pengzhi Gao, Liwen Zhang, Zhongjun He, Hua Wu and Haifeng Wang
+(Paper ID: 96) **Divide-Conquer-Reasoning for Consistency Evaluation and Automatic Improvement of Large Language Models** <br/>Wendi Cui, Jiaxin Zhang, Zhuohang Li, Damien Lopez, Kamalika Das, Bradley A. Malin, Sricharan Kumar
 
-**Unveiling Identity Biases in Toxicity Detection : A Game-Focused Dataset and Reactivity Analysis Approach** <br/>Josiane Van Dorpe, Zachary Yang, Nicolas Grenon-Godbout and Grégoire Winterstein
+(Paper ID: 100) **Greenback Bears and Fiscal Hawks: Finance is a Jungle and Text Embeddings Must Adapt** <br/>Peter Anderson, Mano Vikash Janardhanan, Jason He, Wei Cheng, Charlie Flanagan
 
-**ORANGE: Text-video Retrieval via Watch-time-aware Heterogeneous Graph Contrastive Learning** <br/>Yucheng Lin, Tim Chang, Yaning Chang, Jianqiang Ma, Donghui Li, Ting Peng, Zang Li, Zhiyi Zhou and Feng Wang
+(Paper ID: 104) **Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Industry Systems** <br/>Yilun Kong, Jingqing Ruan, Yihong Chen, Bin Zhang, Tianpeng Bao, Shi Shiwei, Du Guo Qing, Xiaoru Hu, Hangyu Mao, Ziyue Li, Xingyu Zeng, Rui Zhao, Xueqian Wang
 
-**Compute-Efficient Churn Reduction for Conversational Agents** <br/>Christopher Hidey and Sarthak Sarthak
+(Paper ID: 105) **Detecting Ambiguous Utterances in an Intelligent Assistant** <br/>Satoshi Akasaki, Manabu Sassano
 
-**Empower Large Language Model to Perform Better on Industrial Domain-Specific Question Answering** <br/>Fangkai Yang, Pu Zhao, Zezhong WANG, Lu Wang, Bo Qiao, Jue Zhang, Mohit Garg, Qingwei Lin, Saravan Rajmohan and Dongmei Zhang
+(Paper ID: 108) **GeoIndia: A Seq2Seq Geocoding Approach for Indian Addresses** <br/>Bhavuk Singhal, Anshu Aditya, Lokesh Todwal, Shubham Jain, Debashis Mukherjee
 
-**Enhancing Extreme Multi-Label Text Classification: Addressing Challenges in Model, Data, and Evaluation** <br/>Dan Li, Zi Long Zhu, Janneke van de Loo, Agnes Masip Gomez, Vikrant Yadav, Georgios Tsatsaronis and Zubair Afzal
+(Paper ID: 109) **Moleco: Molecular Contrastive Learning with Chemical Language Models for Molecular Property Prediction** <br/>Jun-Hyung Park, Hyuntae Park, Yeachan Kim, Woosang Lim, Sangkeun Lee
 
-**Query-aware Multi-modal based Ranking Relevance in Video Search** <br/>chengcan ye, Ting Peng, Tim Chang, Zhiyi Zhou and Feng Wang
+(Paper ID: 111) **SEED: Semantic Knowledge Transfer for Language Model Adaptation to Materials Science** <br/>Yeachan Kim, Jun-Hyung Park, Sungho Kim, Juhyeong Park, Sangyun Kim, Sangkeun Lee
 
-**Coordinated Replay Sample Selection for Continual Federated Learning** <br/>Jack Good, Jimit Majmudar, Christophe Dupuy, Jixuan Wang, Charith Peris, Clement Chung, Richard Zemel and Rahul Gupta
+(Paper ID: 113) **News Risk Alerting System (NRAS): A Data-Driven LLM Approach to Proactive Credit Risk Monitoring** <br/>Ashish Upadhyay, Xenia Skotti, Adil Nygaard, Lauren Hinkle, Joe Halliwell, Ian C Brown, Glen Noronha
 
-**Building Real-World Meeting Summarization Systems using Large Language Models: A Practical Perspective** <br/>Md Tahmid Rahman Laskar, Xue-Yong Fu, Cheng Chen and Shashi Bhushan TN
+(Paper ID: 120) **FastAdaSP: Multitask-Adapted Efficient Inference for Large Speech Language Model** <br/>Yichen Lu, Jiaqi Song, Chao-Han Huck Yang, Shinji Watanabe
 
-**Creator Context for Tweet Recommendation** <br/>Spurthi Amba Hombaiah, Tao Chen, Mingyang Zhang, Michael Bendersky, Marc Najork, Matt Colen, Sergey Levi, Vladimir Ofitserov and Tanvir Amin
+(Paper ID: 125) **PolyRouter: A Multi-LLM Querying System** <br/>Dimitris Stripelis, Zhaozhuo Xu, Zijian Hu, Alay Dilipbhai Shah, Han Jin, Yuhang Yao, Jipeng Zhang, Tong Zhang, Salman Avestimehr, Chaoyang He
 
-**AdaBERT-CTC: Leveraging BERT-CTC for Text-Only Domain Adaptation in ASR** <br/>Tyler Vuong, Karel Mundnich, Dhanush Bekal, Veera Raghavendra Elluru, Srikanth Ronanki and Sravan Bodapati
+(Paper ID: 127) **Prompt-Tuned Muti-Task Taxonomic Transformer (PTMTTaxoFormer)** <br/>Rajashekar Vasantha, Nhan Nguyen, Yue Zhang
 
-**Conversing with databases: Practical Natural Language Querying** <br/>Denis Kochedykov, Fenglin Yin and Sreevidya Khatravath
+(Paper ID: 129) **MergeKit: A Toolkit for Merging Large Language Models** <br/>Charles Goddard, Shamane Siriwardhana, Malikeh Ehghaghi, Luke Meyers, Vladimir Karpukhin, Brian Benedict, Mark Mcquade, Jacob Solawetz
 
-**AART: AI-Assisted Red-Teaming with Diverse Data Generation for New LLM-powered Applications** <br/>Bhaktipriya Radharapu, Kevin Robinson, Lora Aroyo and Preethi Lahoti
+(Paper ID: 130) **Personal Large Language Model Agents: A Case Study on Tailored Travel Planning** <br/>Harmanpreet Singh, Nikhil Verma, Yixiao Wang, Manasa Bharadwaj, Homa Fashandi, Kevin Ferreira, Chul Lee
 
-**Speakerly: A Voice-based Writing Assistant for Text Composition** <br/>Dhruv Kumar, Vipul Raheja, Alice Kaiser-Schatzlein, Robyn Perry, Apurva Joshi, Justin Hugues-Nuger, Samuel Lou and Navid Chowdhury
+(Paper ID: 136) **FanLoRA: Fantastic LoRAs and Where to Find Them in Large Language Model Fine-tuning** <br/>Wei Zhu, Yi Ge, Xing Tian, Yi Zhao, Congrui Yin, Aaron Xuxiang Tian
 
-**Are ChatGPT and GPT-4 General-Purpose Solvers for Financial Text Analytics? A Study on Several Typical Tasks** <br/>Xianzhi Li, Samuel Chan, Xiaodan Zhu, Yulong Pei, Zhiqiang Ma, Xiaomo Liu and Sameena Shah
+(Paper ID: 138) **ReportGPT: Human-in-the-loop Verifiable Table-to-Text Generation** <br/>Lucas Cecchi, Petr Babkin
 
-**CL-QR: Cross-Lingual Enhanced Query Reformulation for Multi-lingual Conversational AI Agents** <br/>Zhongkai Sun, Zhengyang Zhao, Sixing Lu, Chengyuan Ma, Xiaohu Liu, Xing Fan, Wei Shen and Chenlei Guo
+(Paper ID: 142) **BPID: A Benchmark for Personal Identity Deduplication** <br/>Runhui Wang, Yefan Tao, Adit Krishnan, Luyang Kong, Xuanqing Liu, Yuqian Deng, Yunzhao Yang, Henrik Johnson, Andrew Borthwick, Shobhit Gupta, Aditi Sinha, Davor Golac
 
-**Improving Contextual Query Rewrite for Conversational AI Agents through User-preference Feedback Learning** <br/>Zhongkai Sun, Yingxue Zhou, Jie Hao, Xing Fan, Yanbin Lu, Chengyuan Ma, Wei Shen and Chenlei Guo
+(Paper ID: 143) **MERLIN: Multimodal Embedding Refinement via LLM-based Iterative Navigation for Text-Video Retrieval-Rerank Pipeline** <br/>Donghoon Han, Eunhwan Park, Gisang Lee, Adam Lee, Nojun Kwak
 
-**Scaling Neural ITN for Numbers and Temporal Expressions in Tamil: Findings for an Agglutinative Low-resource Language** <br/>Bhavuk Singhal, Sindhuja Gopalan, Amrith Krishna and Malolan Chetlur
+(Paper ID: 146) **Identifying High Consideration E-Commerce Search Queries** <br/>Zhiyu Chen, Jason Ingyu Choi, Besnik Fetahu, Shervin Malmasi
 
-**EELBERT: Tiny Models through Dynamic Embeddings** <br/>Gabrielle Cohn, Rishika Agarwal, Deepanshu Gupta and Siddharth Patwardhan
+(Paper ID: 148) **Sample Design Engineering: An Empirical Study on Designing Better Fine-Tuning Samples for Information Extraction with LLMs** <br/>Biyang Guo, He Wang, Wenyilin Xiao, Hong Chen, Zhuxin Lee, Songqiao Han, Hailiang Huang
 
-**Gold Standard Bangla OCR Dataset: An In-Depth Look at Data Preprocessing and Annotation Processes** <br/>Hasmot Ali, AKM Shahariar Azad Rabby, Md Majedul Islam, Fakhruddin Mahamud, Nazmul Hasan and Fuad Rahman
+(Paper ID: 154) **Refining App Reviews: Dataset, Methodology, and Evaluation** <br/>Amrita Singh, Chirag Jain, Mohit Chaudhary, Preethu Rose Anish
 
-**PILLOW: Enhancing Efficient Instruction Fine-tuning via Prompt Matching** <br/>Zhenting Qi, Xiaoyu Tan, Shaojie Shi, Chao Qu, Yinghui Xu and Yuan Qi
+(Paper ID: 157) **TelBench: A Benchmark for Evaluating Telco-Specific Large Language Models** <br/>Sunwoo Lee, Dhammiko Arya, Seung-Mo Cho, Gyoung-Eun Han, Seokyoung Hong, Wonbeom Jang, Seojin Lee, Sohee Park, Sereimony Sek, Injee Song, Sungbin Yoon, Eric Davis
 
-**Welcome to the Real World: Efficient, Incremental and Scalable Key Point Analysis** <br/>Lilach Eden, Yoav Kantor, Matan Orbach, Yoav Katz, Noam Slonim and Roy Bar-Haim
+(Paper ID: 164) **RRADistill: Distilling LLMs' Passage Ranking Ability for Long-Tail Queries Document Re-Ranking on a Search Engine** <br/>Nayoung Choi, Youngjune Lee, Gyu-Hwung Cho, Haeyu Jeong, Jungmin Kong, Saehun Kim, Keunchan Park, Jaeho Choi, Sarah Cho, Inchang Jeong, Gyohee Nam, Sunghoon Han, Wonil Yang
 
-**Automatic Linking of Judgements to UK Supreme Court Hearings** <br/>Hadeel Saadany and Constantin Orasan
+(Paper ID: 167) **KorSmishing Explainer: A Korean-centric LLM-based Framework for Smishing Detection and Explanation Generation** <br/>Yunseung Lee, Daehee Han
 
-**Automatic Marketing Theme and Commodity Construction System for E-commerce** <br/>Zhiping Wang, Peng Lin, Hainan Zhang, Hongshen Chen, Tianhao Li, Zhuoye Ding, Sulong Xu and Jinghe Hu
+(Paper ID: 168) **Time Matters: An End-to-End Solution for Temporal Claim Verification** <br/>Anab Maulana Barik, Wynne Hsu, Mong-Li Lee
 
-**Towards Safer Operations: An Expert-involved Dataset of High-Pressure Gas Incidents for Preventing Future Failures** <br/>Shumpei Inoue, Minh-Tien Nguyen, Hiroki Mizokuchi, Tuan-Anh D. Nguyen, Huu-Hiep Nguyen and Dung Le
+(Paper ID: 171) **MILD Bot: Multidisciplinary Childhood Cancer Survivor Question-Answering Bot** <br/>Mirae Kim, Kyubum Hwang, Hayoung Oh, Min Ah Kim, Chaerim Park, Yehwi Park, Chungyeon Lee
 
-**An Auxiliary Task Boosted Multi-task Learning Method for Service Account Retrieval with Limited Human Annotation** <br/>Yuanzhou Yao, Zhao Zhang, Kaijia Yang, Huasheng Liang, Qiang Yan and Yongjun Xu
+(Paper ID: 174) **Breaking the Hourglass Phenomenon of Residual Quantization: Enhancing the Upper Bound of Generative Retrieval** <br/>Zhirui Kuai, Zuxu Chen, Wang Binbin, Dadong Miao, Xusong Chen, Jiaxing Wang, Lin Liu, Songlin Wang, Guoyu Tang, Li Kuang, Yuxing Han, Mingming Li, Huimu Wang, Jingwei Zhuo
 
-**VKIE: The Application of Key Information Extraction on Video Text** <br/>Siyu An, Ye Liu, Haoyuan Peng and Di Yin
+(Paper ID: 179) **Improving Few-Shot Cross-Domain Named Entity Recognition by Instruction Tuning a Word-Embedding based Retrieval Augmented Large Language Model** <br/>Subhadip Nandi, Neeraj Agrawal
 
-**Investigating the Role and Impact of Disfluency on Summarization** <br/>Varun Nathan, Ayush Kumar and Jithendra Vepa
+(Paper ID: 183) **IPL: Leveraging Multimodal Large Language Models for Intelligent Product Listing** <br/>Chenkang, Qing Heng Zhang, Chengbaolian, Yixin Ji, Xuweiliu, Shuguang Han, Guoqiang Wu, Fei Huang, Jufeng Chen
 
-**InsightNet : Structured Insight Mining from Customer Feedback** <br/>Sandeep Sricharan Mukku, Manan Soni, Chetan Aggarwal, Jitenkumar Rana, Promod Yenigalla, Rashmi Patange and Shyam Mohan
+(Paper ID: 185) **QDyLoRA: Quantized Dynamic Low-Rank Adaptation for Efficient Large Language Model Tuning** <br/>Hossein Rajabzadeh, Mojtaba Valipour, Tianshu Zhu, Marzieh S. Tahaei, Hyock Ju Kwon, Ali Ghodsi, Boxing Chen, Mehdi Rezagholizadeh
 
-**E2E Spoken Entity Extraction for Virtual Agents** <br/>Karan Singla, Yeon-Jun Kim and Srinivas Bangalore
+(Paper ID: 189) **Improving Hierarchical Text Clustering with LLM-guided Multi-view Cluster Representation** <br/>Anup Pattnaik, Cijo George, Rishabh Kumar Tripathi, Sasanka Rani Vutla, Jithendra Vepa
 
-**Generative Models for Product Attribute Extraction** <br/>Ansel Blume, Nasser Zalmout, Heng Ji and Xian Li
+(Paper ID: 193) **PARA: Parameter-Efficient Fine-tuning with Prompt-Aware Representation Adjustment** <br/>Wei Zhu, Zequan Liu, Ming Tan, Yi Zhao, Aaron Xuxiang Tian
 
-**CarExpert: Leveraging Large Language Models for In-Car Conversational Question Answering** <br/>Md Rashad Al Hasan Rony, Christian Suess, Sinchana Ramakanth Bhat, Viju Sudhi, Julia Schneider, Maximilian Vogel, Roman Teucher, Ken E. Friedl and Soumya Sahoo
+(Paper ID: 195) **RAG4ITOps: A Supervised Fine-Tunable and Comprehensive RAG Framework for IT Operations and Maintenance** <br/>Tianyang Zhang, Zhuoxuan Jiang, Shengguang Bai, Tianrui Zhang, Lin Lin, Yang Liu, Jiawei Ren
 
-**BUSTER: a "BUSiness Transaction Entity Recognition" dataset** <br/>Andrea Zugarini, Andrew Zamai, Marco Ernandes and Leonardo Rigutini
+(Paper ID: 199) **ULMR: Unlearning Large Language Models via Negative Response and Model Parameter Average** <br/>Shaojie Shi, Xiaoyu Tan, Xihe Qiu, Chao Qu, Kexin Nie, Yuan Cheng, Wei Chu, Xu Yinghui, Yuan Qi
 
-**Multi-word Tokenization for Sequence Compression** <br/>Leonidas Gee, Leonardo Rigutini, Marco Ernandes and Andrea Zugarini
+(Paper ID: 201) **Pretraining and Finetuning Language Models on Geospatial Networks for Accurate Address Matching** <br/>Saket Maheshwary, Arpan Paul, Saurabh Sohoney
 
-**JarviX: A LLM No code Platform for Tabular Data Analysis and Optimization** <br/>Shang-Ching Liu, ShengKun Wang, Tsungyao Chang, Wenqi Lin, Chung-Wei Hsiung, Yi-Chen Hsieh, Yu-Ping Cheng, Sian-Hong Luo and Jianwei Zhang
+(Paper ID: 206) **SMARTCAL: An Approach to Self-Aware Tool-Use Evaluation and Calibration** <br/>Yuanhao Shen, Xiaodan Zhu, Lei Chen
 
-**Retrieve and Copy: Scaling ASR Personalization to Large Catalogs** <br/>Sai Muralidhar Jayanthi, Devang Kulshreshtha, Saket Dingliwal, Srikanth Ronanki and Sravan Bodapati
+(Paper ID: 207) **Probing the Depths of Language Models' Contact-Center Knowledge for Quality Assurance** <br/>Digvijay Anil Ingle, Aashraya Sachdeva, Surya Prakash Sahu, Mayank Sati, Cijo George, Jithendra Vepa
 
-**STEER: Semantic Turn Extension-Expansion Recognition for Voice Assistants** <br/>Leon Zhang, Jiarui Lu, Joel Ruben Antony Moniz, Aditya Kulkarni, Dhivya Piraviperumal, Tien Dung Tran, Nick Tzou and Hong Yu
+(Paper ID: 208) **Intelligent Predictive Maintenance RAG framework for Power Plants: Enhancing QA with StyleDFS and Domain Specific Instruction Tuning** <br/>Seongtae Hong, Shin Joong Min, Jaehyung Seo, Taemin Lee, Jeongbae Park, Cho Man Young, Byeongho Choi, Heuiseok Lim
 
-**Self-Criticism: Aligning Large Language Models with their Understanding of Helpfulness, Honesty, and Harmlessness** <br/>Xiaoyu Tan, Shaojie Shi, Xihe Qiu, Chao Qu, Zhenting Qi, Yinghui Xu and Yuan Qi
+(Paper ID: 209) **Structured Object Language Modeling (SO-LM): Native Structured Objects Generation Conforming to Complex Schemas with Self-Supervised Denoising** <br/>Amir Tavanaei, Kee Kiat Koo, Hayreddin Ceker, Shaobai Jiang, Qi Li, Julien Han, Karim Bouyarmane
 
-**InstructPTS: Instruction-Tuning LLMs for Product Title Summarization** <br/>Besnik Fetahu, Zhiyu Chen, Oleg Rokhlenko and Shervin Malmasi
+(Paper ID: 211) **Assisting Breastfeeding and Maternity Experts in Responding to User Queries with an AI-in-the-loop Approach** <br/>Nadjet Bouayad-Agha, Ignasi Gomez-Sebastia, Alba Padro, Enric Pallarés, David Pelayo, Rocío Tovar
 
-**LLM4Vis: Explainable Visualization Recommendation using ChatGPT** <br/>Lei Wang, Songheng Zhang, Yun Wang, Ee-Peng Lim and Yong Wang
+(Paper ID: 213) **Hassle-free Algorithm for Strong Differential Privacy in Federated Learning Systems** <br/>Hugh Brendan Mcmahan, Zheng Xu, Yanxiang Zhang
 
-**DUBLIN: Visual Document Understanding By Language-Image Network** <br/>Kriti Aggarwal, Aditi Khandelwal, Kumar Tanmay, Owais Khan Mohammed, Qiang Liu, Monojit Choudhury, Hardik Hansrajbhai Chauhan, Subhojit Som, Vishrav Chaudhary and Saurabh Tiwary
+(Paper ID: 214) **ProConSuL: Project Context for Code Summarization with LLMs** <br/>Vadim Lomshakov, Andrey Podivilov, Sergey Savin, Oleg Baryshnikov, Alena Lisevych, Sergey Nikolenko
 
-**DocumentNet: Bridging the Data Gap in Document Pre-training** <br/>Lijun Yu, Jin Miao, Xiaoyu Sun, Jiayi Chen, Alexander Hauptmann, Hanjun Dai and Wei Wei
+(Paper ID: 215) **Retrieval Augmented Generation or Long-Context LLMs? A Comprehensive Study and Hybrid Approach** <br/>Zhuowan Li, Cheng Li, Mingyang Zhang, Qiaozhu Mei, Michael Bendersky
 
-**Relevance-assisted Generation for Robust Zero-shot Retrieval** <br/>Jihyuk Kim, Minsoo Kim, Joonsuk Park and Seung-won Hwang
+(Paper ID: 216) **MARS: Multilingual Aspect-centric Review Summarisation** <br/>Sandeep Sricharan Mukku, Abinesh Kanagarajan, Chetan Aggarwal, Promod Yenigalla
 
-**Too much of product information : Don't worry, let's look for evidence!** <br/>Aryan Jain, Jitenkumar Rana and Chetan Aggarwal
+(Paper ID: 218) **A new approach for fine-tuning sentence transformers for intent classification and out-of-scope detection tasks** <br/>Tianyi Zhang, Atta Norouzian, Aanchan Mohan, Frederick Ducatelle
 
-**Harnessing LLMs for Temporal Data - A Study on Explainable Financial Time Series Forecasting** <br/>Xinli Yu, Zheng Chen and Yanbin Lu
+(Paper ID: 223) **Tell me what I need to know: Exploring LLM-based (Personalized) Abstractive Multi-Source Meeting Summarization** <br/>Frederic Kirstein, Terry Ruas, Robert Kratel, Bela Gipp
 
-**ViGPTQA - State-of-the-Art LLMs for Vietnamese Question Answering: System Overview, Core Models Training, and Evaluations** <br/>Minh Thuan Nguyen, Khanh Tung Tran, Nhu Van Nguyen and Xuan-Son Vu
+(Paper ID: 229) **Detecting LLM-Assisted Cheating on Open-Ended Writing Tasks on Language Proficiency Tests** <br/>Chenhao Niu, Kevin P. Yancey, Ruidong Liu, Mirza Basim Baig, André Kenji Horie, James Sharpnack
 
-**An Integrated Search System for Korea Weather Data** <br/>Jinkyung Jo, Dayeon Ki, Soyoung Yoon and Minjoon Seo
+(Paper ID: 231) **Can Machine Unlearning Reduce Social Bias in Language Models?** <br/>Omkar Dige, Diljot Arneja, Tsz Fung Yau, Qixuan Zhang, Mohammad Bolandraftar, Xiaodan Zhu, Faiza Khan Khattak
 
-**Adaptive Hyper-parameter Learning for Deep Semantic Retrieval** <br/>Mingming Li, Chunyuan Yuan, Huimu Wang, Peng Wang, Jingwei Zhuo, Binbin Wang, Lin Liu and Sulong Xu
+(Paper ID: 232) **Don't be my Doctor! Recognizing Healthcare Advice in Large Language Models** <br/>Kellen Tan Cheng, Anna Lisa Gentile, Pengyuan Li, Chad Deluca, Guang-Jie Ren
 
-**On Sample-Efficient Code Generation** <br/>Hojae Han, Yu Jin Kim, Byoungjip Kim, Youngwon Lee, Kyungjae Lee, Kyungmin Lee, Moontae Lee, Kyunghoon Bae and Seung-won Hwang
+(Paper ID: 235) **Building an Efficient Multilingual Non-Profit IR System for the Islamic Domain Leveraging Multiprocessing Design in Rust** <br/>Vera Pavlova, Mohammed Makhlouf
 
-**Batch Prompting: Efficient Inference with Large Language Model APIs** <br/>Zhoujun Cheng, Jungo Kasai and Tao Yu
+(Paper ID: 236) **Adapting LLMs for Structured Natural Language API Integration** <br/>Robin Chan, Katsiaryna Mirylenka, Thomas Gschwind, Christoph Miksovic, Paolo Scotton, Enrico Toniato, Abdel Labbi
 
-**Graph Meets LLM: A Novel Approach to Collaborative Filtering for Robust Conversational Understanding** <br/>Zheng Chen, Ziyan Jiang, Fan Yang, Eunah Cho, Xing Fan, Xiaojiang Huang, Yanbin Lu and Aram Galstyan
+(Paper ID: 241) **OMG-QA: Building Open-Domain Multi-Modal Generative Question Answering Systems** <br/>Linyong Nan, Weining Fang, Aylin Rasteh, Pouya Lahabi, Weijin Zou, Yilun Zhao, Arman Cohan
 
-**DELPHI: Data for Evaluating LLMs' Performance in Handling Controversial Issues** <br/>David Sun, Artem Abzaliev, Hadas Kotek, Christopher Klein, Zidi Xiu and Jason D Williams
+(Paper ID: 246) **Survival of the Safest: Towards Secure Prompt Optimization through Interleaved Multi-Objective Evolution** <br/>Ankita Sinha, Wendi Cui, Jiaxin Zhang, Kamalika Das
 
-**Angel: Enterprise Search System for the Non-Profit Industry** <br/>Saiful Haq, Ashutosh Sharma and Pushpak Bhattacharyya
+(Paper ID: 247) **Fine-Tuning Large Language Models for Stock Return Prediction Using Newsflow** <br/>Tian Guo, Emmanuel Hauptmann
+
+(Paper ID: 250) **AmazonQAC: A Large-Scale, Naturalistic Query Autocomplete Dataset** <br/>Dante Everaert, Rohit Patki, Tianqi Zheng, Christopher Potts
+
+(Paper ID: 253) **Language, OCR, Form Independent (LOFI) pipeline for Industrial Document Information Extraction** <br/>Chang Oh Yoon, Wonbeen Lee, Seokhwan Jang, Kyuwon Choi, Minsung Jung, Daewoo Choi
+
+(Paper ID: 257) **The State of the Art of Large Language Models on Chartered Financial Analyst Exams** <br/>Ethan Callanan, Mahmoud Mahfouz, Mathieu Sibue, Antony Papadimitriou, Zhiqiang Ma, Xiaomo Liu, Xiaodan Zhu
+
+(Paper ID: 264) **Value Alignment from Unstructured Text** <br/>Inkit Padhi, Karthikeyan Natesan Ramamurthy, Prasanna Sattigeri, Manish Nagireddy, Pierre Dognin, Kush R. Varshney
+
+(Paper ID: 265) **LARA: Linguistic-Adaptive Retrieval-Augmentation for Multi-Turn Intent Classification** <br/>Junhua Liu, Yong Keat Tan, Bin Fu, Kwan Hui Lim
+
+(Paper ID: 267) **Generating Vehicular Icon Descriptions and Indications Using Large Vision-Language Models** <br/>James Fletcher, Nicholas Dehnen, Seyed Nima Tayarani Bathaie, Aijun An, Heidar Davoudi, Ron Di Carlantonio, Gary Farmaner
+
+(Paper ID: 270) **Athena: Safe Autonomous Agents with Verbal Contrastive Learning** <br/>Tanmana Sadhu, Ali Pesaranghader, Yanan Chen, Dong Hoon Yi
+
+(Paper ID: 271) **GRINDER-20B-FunctionCalling Model: Introducing Function Calling Abilities via Multi-task Learning of Granular Tasks** <br/>Ibrahim Abdelaziz, Kinjal Basu, Mayank Agarwal, Sadhana Kumaravel, Matthew Stallone, Rameswar Panda, Yara Rizk, G P Shrivatsa Bhargav, Maxwell Crouse, Chulaka Gunasekara, Shajith Ikbal, Sachindra Joshi, Hima Karanam, Vineet Kumar, Asim Munawar, Sumit Neelam, Dinesh Raghu, Udit Sharma, Adriana Meza Soria, Dheeraj Sreedhar, Praveen Venkateswaran, Merve Unuvar, David Daniel Cox, Salim Roukos, Luis A. Lastras, Pavan Kapanipathi
+
+(Paper ID: 273) **Query-OPT: Optimizing Inference of Large Language Models via Multi-Query Instructions in Meeting Summarization** <br/>Md Tahmid Rahman Laskar, Elena Khasanova, Xue-Yong Fu, Cheng Chen, Shashi Bhushan Tn
+
+(Paper ID: 275) **DiAL : Diversity Aware Listwise Ranking for Query Auto-Complete** <br/>Sonali Singh, Sachin Sudhakar Farfade, Prakash Mandayam Comar
+
+(Paper ID: 279) **Systematic Evaluation of Long-Context LLMs on Financial Concepts** <br/>Lavanya Gupta, Saket Sharma, Yiyun Zhao
+
+(Paper ID: 280) **ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA datasets with Large Language Models** <br/>Ronak Pradeep, Daniel Lee, Ali Mousavi, Jeffrey Pound, Yisi Sang, Jimmy Lin, Ihab Ilyas, Saloni Potdar, Mostafa Arefiyan, Yunyao Li
+
+(Paper ID: 281) **Knowledge-augmented Financial Market Analysis and Report Generation** <br/>Yuemin Chen, Feifan Wu, Jingwei Wang, Hao Qian, Ziqi Liu, Zhiqiang Zhang, Jun Zhou, Meng Wang
+
+(Paper ID: 282) **Let Me Speak Freely? A Study On The Impact Of Format Restrictions On Large Language Model Performance.** <br/>Zhi Rui Tam, Cheng-Kuang Wu, Yi-Lin Tsai, Chieh-Yen Lin, Hung-Yi Lee, Yun-Nung Chen
+
+(Paper ID: 283) **ASTRA: Automatic Schema Matching using Machine Translation** <br/>Tarang Chugh, Deepak Zambre
+
+(Paper ID: 284) **Neural Search Space in Gboard Decoder** <br/>Yanxiang Zhang, Yuanbo Zhang, Haicheng Sun, Yun Wang, Gary Sivek, Shumin Zhai
+
+(Paper ID: 289) **Prompt Leakage effect and mitigation strategies for multi-turn LLM Applications** <br/>Divyansh Agarwal, Alexander Fabbri, Ben Risher, Philippe Laban, Shafiq Joty, Chien-Sheng Wu
+
+(Paper ID: 292) **Sequential LLM Framework for Fashion Recommendation** <br/>Han Liu, Xianfeng Tang, Tianlang Chen, Jiapeng Liu, Indu Indu, Henry Peng Zou, Peng Dai, Roberto Fernandez Galan, Michael D Porter, Dongmei Jia, Ning Zhang, Lian Xiong
+
+(Paper ID: 293) **Visual Editing with LLM-based Tool Chaining: An Efficient Distillation Approach for Real-Time Applications** <br/>Oren Sultan, Alex Khasin, Guy Shiran, Asnat Greenstein-Messica, Dafna Shahaf
+
+(Paper ID: 294) **Provenance: A Light-weight Fact-checker for Retrieval Augmented LLM Generation Output** <br/>Mohammed Nasheed Yasin, Hithesh Sankararaman, Andreas Stolcke
+
+(Paper ID: 296) **AnyMAL: An Efficient and Scalable Any-Modality Augmented Language Model** <br/>Seungwhan Moon, Andrea Madotto, Zhaojiang Lin, Tushar Nagarajan, Matt Smith, Shashank Jain, Chun-Fu Yeh, Prakash Murugesan, Peyman Heidari, Yue Liu, Kavya Srinet, Babak Damavandi, Anuj Kumar
+
+(Paper ID: 298) **SLM as Guardian: Pioneering AI Safety with Small Language Model** <br/>Ohjoon Kwon, Donghyeon Jeon, Nayoung Choi, Gyu-Hwung Cho, Hwiyeol Jo, Changbong Kim, Hyunwoo Lee, Inho Kang, Sun Kim, Taiwoo Park
+
+(Paper ID: 299) **Hyper-QKSG: Framework for Automating Query Generation and Knowledge-Snippet Extraction from Tables and Lists** <br/>Dooyoung Kim, Yoonjin Jang, Dongwook Shin, Chanhoon Park, Youngjoong Ko
+
+(Paper ID: 302) **Patentformer: Methods to Automate the Generation of Patent Applications** <br/>Juanyan Wang, Sai Krishna Reddy Mudhiganti, Manali Sharma
+
+(Paper ID: 305) **MARCO: Multi-Agent Real-time Chat Orchestration** <br/>Anubhav Shrimal, Stanley Kanagaraj, Kriti Biswas, Swarnalatha Raghuraman, Anish Nediyanchath, Yi Zhang, Promod Yenigalla
+
+(Paper ID: 306) **Generalized Long-Context Text Representation and Reranking Models for Multilingual Text Retrieval** <br/>Xin Zhang, Yanzhao Zhang, Dingkun Long, Wen Xie, Ziqi Dai, Jialong Tang, Huan Lin, Baosong Yang, Pengjun Xie, Fei Huang, Meishan Zhang, Wenjie Li, Min Zhang
+
+(Paper ID: 315) **ItiNera: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning** <br/>Yihong Tang, Zhaokai Wang, Ao Qu, Yihao Yan, Zhaofeng Wu, Dingyi Zhuang, Jushi Kai, Kebing Hou, Xiaotong Guo, Jinhua Zhao, Zhan Zhao, Wei Ma
+
+(Paper ID: 318) **RESTful-Llama: Connecting User Queries to RESTful APIs** <br/>Han Xu, Ruining Zhao, Jindong Wang, Haipeng Chen
+
+(Paper ID: 319) **A Cost-Efficient Modular Sieve for Extracting Product Information from Company Websites** <br/>Anna Hätty, Dragan Milchevski, Kersten Döring, Marko Putnikovic, Mohsen Mesgar, Filip Novović, Maximilian Braun, Karina Leoni Borimann, Igor Stranjanac
+
+(Paper ID: 320) **CharacterGLM: Customizing Social Characters with Large Language Models** <br/>Jinfeng Zhou, Zhuang Chen, Dazhen Wan, Bosi Wen, Yi Song, Jifan Yu, Yongkang Huang, Pei Ke, Guanqun Bi, Libiao Peng, Jiaming Yang, Xiyaoxiao, Sahand Sabour, Xiaohan Zhang, Wenjing Hou, Yijia Zhang, Yuxiao Dong, Hongning Wang, Jie Tang, Minlie Huang
+
+(Paper ID: 321) **RAC: Retrieval-augmented Conversation Dataset for Open-domain Question Answering in Conversational Settings** <br/>Bonggeun Choi, Jeongjae Park, Yoonsung Kim, Jae-Hyun Park, Youngjoong Ko
+
+(Paper ID: 322) **Improving Retrieval in Sponsored Search by Leveraging Query Context Signals** <br/>Akash Kumar Mohankumar, Gururaj K, Gagan Madan, Amit S
+
+(Paper ID: 327) **FuxiTranyu: A Multilingual Large Language Model Trained with Balanced Data** <br/>Haoran Sun, Renren Jin, Shaoyang Xu, Leiyu Pan, Supryadi, Menglong Cui, Jiangcun Du, Yikun Lei, Lei Yang, Ling Shi, Juesi Xiao, Shaolin Zhu, Deyi Xiong
+
+(Paper ID: 330) **PAM-LoRA: Prompt-Aware Mixture of Low-Rank Adaptation for Large Language Model Fine-tuning** <br/>Wei Zhu, Jiawen Lyn, Yvette Graham, Dan Chen, Yi Zhao, Aaron Xuxiang Tian
+
+(Paper ID: 333) **QUIS: Question-guided Insights Generation for Automated Exploratory Data Analysis** <br/>Abhijit Manatkar, Ashlesha Akella, Parthivi Gupta, Krishnasuri Narayanam
+
+(Paper ID: 336) **PEARL: Preference Extraction with Exemplar Augmentation and Retrieval with LLM Agents** <br/>Vijit Malik, Akshay Jagatap, Vinayak S Puranik, Anirban Majumder
+
+(Paper ID: 341) **RAG-HAT: A Hallucination-Aware Tuning Pipeline for LLM in Retrieval-Augmented Generation** <br/>Juntong Song, Xingguang Wang, Juno Zhu, Yuanhao Wu, Xuxin Cheng, Randy Zhong, Cheng Niu
+
+(Paper ID: 342) **Intent Detection in the Age of LLMs** <br/>Gaurav Arora, Shreya Jain, Srujana Merugu
+
+(Paper ID: 348) **Aegis:An Advanced LLM-Based Multi-Agent for Intelligent Functional Safety Engineering** <br/>Lu Shi, Bin Qi, Jiarui Luo, Yang Zhang, Zhanzhao Liang, Zhaowei Gao, Wenke Deng, Lin Sun
+
+(Paper ID: 349) **Efficient Answer Retrieval System (EARS): Combining Local DB Search and Web Search for Generative QA** <br/>Nikita Krayko, Ivan Sidorov, Fedor Laputin, Daria Galimzianova, Vasily Konovalov
+
+(Paper ID: 351) **GraphQL Query Generation: A Large Training and Benchmarking Dataset** <br/>Manish Kesarwani, Sambit Ghosh, Nitin Gupta, Shramona Chakraborty, Renuka Sindhgatta, Sameep Mehta, Carlos Eberhardt, Dan Debrunner
+
+(Paper ID: 357) **Mixture of Diverse Size Experts** <br/>Manxi Sun, Wei Liu, Jian Luan, Pengzhi Gao, Bin Wang
+
+(Paper ID: 358) **Course-Correction: Safety Alignment Using Synthetic Preferences** <br/>Rongwu Xu, Yishuo Cai, Zhenhong Zhou, Renjie Gu, Haiqin Weng, Liu Yan, Tianwei Zhang, Wei Xu, Han Qiu
+
+(Paper ID: 360) **GOVERN: Gradient Orientation Vote Ensemble for Multi-Teacher Reinforced Distillation** <br/>Wenjie Zhou, Zhenxin Ding, Xiaodong Zhang, Haibo Shi, Junfeng Wang, Dawei Yin
+
+(Paper ID: 361) **PRISM: A New Lens for Improved Color Understanding** <br/>Arjun Reddy Akula, Garima Pruthi, Inderjit S Dhillon, Pradyumna Narayana, S Basu, Varun Jampani
