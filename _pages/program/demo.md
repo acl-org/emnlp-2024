@@ -18,107 +18,106 @@ All demos will be located in the East Foyer located on B2 of the Convention Cent
 Accepted Papers
 ---
 
-**Fabricator: An Open Source Toolkit for Generating Labeled Training Data with Teacher LLMs** <br/> Jonas Golde, Patrick Haller, Felix Hamborg, Julian Risch and Alan Akbik
+(Paper ID: 17) **FreeEval: A Modular Framework for Trustworthy and Efficient Evaluation of Large Language Models** <br/>Zhuohao Yu, Chang Gao, Wenjin Yao, Yidong Wang, Zhengran Zeng, Wei Ye, Jindong Wang, Yue Zhang, Shikun Zhang 
 
-**End-to-End Evaluation for Low-Latency Simultaneous Speech Translation** <br/> Christian Huber, Tu Anh Dinh, Carlos Mullov, Ngoc-Quan Pham, Thai Binh Nguyen, Fabian Retkowski, Stefan Constantin, Enes Ugan, Danni Liu, Zhaolin Li, Sai Koneru, Jan Niehues and Alexander Waibel
+(Paper ID: 18) **i-Code Studio: A Configurable and Composable Framework for Integrative AI** <br/>Yuwei Fang, MAHMOUD KHADEMI, Chenguang Zhu, Ziyi Yang, Reid Pryzant, Yichong Xu, Yao Qian, Takuya Yoshioka, Lu Yuan, Michael Zeng, Xuedong Huang 
 
-**CHATREPORT: Democratizing Sustainability Disclosure Analysis through LLM-based Tools** <br/> Jingwei Ni, Julia Bingler, Chiara Colesanti-Senni, Mathias Kraus, Glen Gostlow, Tobias Schimanski, Dominik Stammbach, Saeid Ashraf Vaghefi, QIAN WANG, Nicolas Webersinke, Tobias Wekhof, Tingyu Yu and Markus Leippold
+(Paper ID: 20) **Evalverse: Unified and Accessible Library for Large Language Model Evaluation** <br/>Jihoo Kim, Wonho Song, Dahyun Kim, Yunsu Kim, Yungi Kim, Chanjun Park 
 
-**RaLLe: A Framework for Developing and Evaluating Retrieval-Augmented Large Language Models** <br/> Yasuto Hoshi, Daisuke Miyashita, Youyang Ng, Kento Tatsuno, Yasuhiro Morioka, Osamu Torii and Jun Deguchi
+(Paper ID: 23) **Medico: Towards Hallucination Detection and Correction with Multi-source Evidence Fusion** <br/>Xinping Zhao, Jindi Yu, zhenyu liu, Jifang Wang, Dongfang Li, Yibin Chen, Baotian Hu, Min zhang 
 
-**VIST5: An Adaptive, Retrieval-Augmented Language Model for Visualization-oriented Dialog** <br/> Henrik Voigt, Nuno Carvalhais, Monique Meuschke, Markus Reichstein, Sina Zarrieß and Kai Lawonn
+(Paper ID: 25) **OpenOmni: A Collaborative Open Source Tool for Building Future-Ready Multimodal Conversational Agents** <br/>Qiang Sun, Yuanyi Luo, Sirui Li, Wenxiao Zhang, Wei Liu 
 
-**H2O Open Ecosystem for State-of-the-art Large Language Models** <br/> Arno Candel, Jon McKinney, Philipp Singer, Pascal Pfeiffer, Maximilian Jeblick, Chun Ming Lee and Marcos Conde
+(Paper ID: 26) **Lighthouse: A User-Friendly Library for Reproducible Video Moment Retrieval and Highlight Detection** <br/>Taichi Nishimura, Shota Nakada, Hokuto Munakata, Tatsuya Komatsu 
 
-**Koala: An Index for Quantifying Overlaps with  Pre-training Corpora** <br/> Thuy-Trang Vu, Xuanli He, Gholamreza Haffari and Ehsan Shareghi
+(Paper ID: 30) **MarkLLM: An Open-Source Toolkit for LLM Watermarking** <br/>Leyi Pan, Aiwei Liu, Zhiwei He, Zitian Gao, Xuandong Zhao, Yijian LU, Binglin Zhou, Shuliang Liu, Xuming Hu, Lijie Wen, Irwin King, Philip S. Yu 
 
-**Sudowoodo: a Chinese Lyric Imitation System with Source Lyrics** <br/> Yongzhu Chang, Rongsheng Zhang, Lin Jiang, Qihang Chen, Le Zhang and Jiashu Pu
+(Paper ID: 34) **AUTOGEN STUDIO: A No-Code Developer Tool for Building and Debugging Multi-Agent Systems** <br/>Victor Dibia, Jingya Chen, Gagan Bansal, Suff Syed, Adam Fourney, Erkang Zhu, Chi Wang, Saleema Amershi 
 
-**ConvLab-3: A Flexible Dialogue System Toolkit Based on a Unified Data Format** <br/> Qi Zhu, Christian Geishauser, Hsien-chin Lin, Carel van Niekerk, Baolin Peng, Zheng Zhang, Shutong Feng, Michael Heck, Nurul Lubis, Dazhen Wan, Xiaochen Zhu, Jianfeng Gao, Milica Gasic and Minlie Huang
+(Paper ID: 35) **TinyAgent: Function Calling at the Edge** <br/>Lutfi Eren Erdogan, Nicholas Lee, Siddharth Jha, Sehoon Kim, Ryan Tabrizi, Suhong Moon, Coleman Richard Charles Hooper, Gopala Anumanchipalli, Kurt Keutzer, Amir Gholami 
 
-**FLEEK: Factual Error Detection and Correction with Evidence Retrieved from External Knowledge** <br/> Farima Fatahi Bayat, Kun Qian, Benjamin Han, Yisi Sang, Anton Belyy, Samira Khorshidi, Fei Wu, Ihab Ilyas and Yunyao Li
+(Paper ID: 41) **TruthReader: Towards Trustworthy Document Assistant Chatbot with Reliable Attribution** <br/>Dongfang Li, Xinshuo Hu, Zetian Sun, Baotian Hu, Shaolin Ye, Zifei Shan, Qian Chen, Min Zhang 
 
-**YATO: Yet Another deep learning based Text analysis Open toolkit** <br/> Zeqiang Wang, Yile Wang, Jiageng Wu, Zhiyang Teng and Jie Yang
+(Paper ID: 43) **Commentator: A Code-mixed Multilingual Text Annotation Framework** <br/>Rajvee Sheth, Shubh Nisar, Heenaben Prajapati, Himanshu Beniwal, Mayank Singh 
 
-**Spacerini: Plug-and-play Search Engines with Pyserini and Hugging Face** <br/> Christopher Akiki, Odunayo Ogundepo, Aleksandra Piktus, Xinyu Zhang, Akintunde Oladipo, Jimmy Lin and Martin Potthast
+(Paper ID: 50) **Integrating INCEpTION into larger annotation processes** <br/>Richard Eckart de Castilho, Jan-Christoph Klie, Iryna Gurevych 
 
-**Adapters: A Unified Library for Parameter-Efficient and Modular Transfer Learning** <br/> Clifton Poth, Hannah Sterz, Indraneil Paul, Sukannya Purkayastha, Leon Engländer, Timo Imhof, Ivan Vulić, Sebastian Ruder, Iryna Gurevych and Jonas Pfeiffer
+(Paper ID: 53) **Arxiv Copilot: A Self-Evolving and Efficient LLM System for Personalized Academic Assistance** <br/>Guanyu Lin, Tao Feng, Pengrui Han, Ge Liu, Jiaxuan You 
 
-**INTELMO: Enhancing Models' Adoption of Interactive Interfaces** <br/> Chunxu Yang, Chien-Sheng Wu, Lidiya Murakhovs'ka, Philippe Laban and Xiang 'Anthony' Chen
+(Paper ID: 54) **TransAgents: Build Your Translation Company with Language Agents** <br/>Minghao Wu, Jiahao Xu, Longyue Wang 
 
-**Humanoid Agents: Platform for Simulating Human-like Generative Agents** <br/> Zhilin Wang, Yu Ying Chiu and Yu Cheung Chiu
+(Paper ID: 55) **Monitoring Hate Speech in Indonesia: An NLP-based Classification of Social Media Texts** <br/>Musa Izzanardi Wijanarko, Lucky Susanto, Prasetia Anugrah Pratama, Ika Karlina Idris, Derry Tanti Wijaya 
 
-**TP-Detector: Detecting Turning Points in the Engineering Process of Large-scale Projects** <br/> Qi Wu, WenHan Chao, Xian Zhou and Zhunchen Luo
+(Paper ID: 56) **CAVA: A Tool for Cultural Alignment Visualization & Analysis** <br/>Nevan Giuliani, Cheng Charles Ma, Prakruthi Pradeep, Daphne Ippolito 
 
-**CLEVA: Chinese Language Models EVAluation Platform** <br/> Yanyang Li, Jianqiao Zhao, Duo Zheng, Zi-Yuan Hu, Zhi Chen, su xiaohui, Yongfeng Huang, Shijia Huang, Dahua Lin, Michael Lyu and Liwei Wang
+(Paper ID: 57) **ReDel: A Toolkit for LLM-Powered Recursive Multi-Agent Systems** <br/>Andrew Zhu, Liam Dugan, Chris Callison-Burch 
 
-**DOPA METER — A Tool Suite for Metrical Document Profiling and Aggregation** <br/> Christina Lohr and Udo Hahn
+(Paper ID: 59) **BattleAgent: Multi-modal Dynamic Emulation on Historical Battles to Complement Historical Analysis** <br/>Shuhang Lin, Wenyue Hua, Lingyao Li, Che-Jui Chang, Lizhou Fan, jianchao ji, Hang Hua, Mingyu Jin, Jiebo Luo, Yongfeng Zhang 
 
-**Muted: Multilingual Targeted Offensive Speech Identification and Visualization** <br/> Christoph Tillmann, Aashka Trivedi, Sara Rosenthal, Santosh Borse, Rong Zhang, Avi Sil and Bishwaranjan Bhattacharjee
+(Paper ID: 61) **sign.mt: Real-Time Multilingual Sign Language Translation Application** <br/>Amit Moryossef
 
-**Gentopia.AI: A Collaborative Platform for Tool-Augmented LLMs** <br/> Binfeng Xu, Xukun Liu, Hua Shen, Zeyu Han, Yuhan Li, Murong Yue, Zhiyuan Peng, Yuchen Liu, Ziyu Yao and Dongkuan Xu
+(Paper ID: 63) **WebOlympus: An Open Platform for Web Agents on Live Websites** <br/>Boyuan Zheng, Boyu Gou, Scott Salisbury, Zheng Du, Huan Sun, Yu Su 
 
-**MusicAgent: An AI Agent for Music Understanding and Generation with Large Language Models** <br/> Dingyao Yu, Kaitao Song, Peiling Lu, Tianyu He, Xu Tan, Wei Ye, Shikun Zhang and Jiang Bian
+(Paper ID: 71) **TAIL: A Toolkit for Automatic and Realistic Long-Context Large Language Model Evaluation** <br/>Gefei Gu, Yilun Zhao, Ruoxi Ning, Yanan Zheng, Arman Cohan 
 
-**SentAlign: Accurate and Scalable Sentence Alignment** <br/> Steinthor Steingrimsson, Hrafn Loftsson and Andy Way
+(Paper ID: 72) **OpenResearcher: Unleashing AI for Accelerated Scientific Research** <br/>Yuxiang Zheng, Shichao Sun, Lin Qiu, Dongyu Ru, Cheng Jiayang, Xuefeng Li, Jifan Lin, Binjie Wang, Yun Luo, Renjie Pan, Yang Xu, Qingkai Min, Zizhao Zhang, Yiwen Wang, Wenjie Li, Pengfei Liu
 
-**QACheck: A Demonstration System for Question-Guided Multi-Hop Fact-Checking** <br/> Liangming Pan, Xinyuan Lu, Min-Yen Kan and Preslav Nakov
+(Paper ID: 73) **OpenFactCheck: A Unified Framework for Factuality Evaluation of LLMs** <br/>Hasan Iqbal, Yuxia Wang, Minghan Wang, Georgi Nenkov Georgiev, Jiahui Geng, Iryna Gurevych, Preslav Nakov 
 
-**RobustQA: A Framework for Adversarial Text Generation Analysis on Question Answering Systems** <br/> Yasaman Boreshban, Seyed Morteza Mirbostani, Seyedeh Fatemeh Ahmadi, Gita Shojaee, Fatemeh Kamani, Gholamreza Ghassem-Sani and SeyedAbolghasem Mirroshandel
+(Paper ID: 74) **ULLME: A Unified Framework for Large Language Model Embeddings with Generation-Augmented Learning** <br/>Hieu Man, Nghia Trung Ngo, Franck Dernoncourt, Thien Huu Nguyen 
 
-**Kandinsky: an Improved Text-to-Image Synthesis with Image Prior and Latent Diffusion** <br/> Anton Razzhigaev, Arseniy Shakhmatov, Anastasia Maltseva, Vladimir Arkhipkin, Igor Pavlov, Ilya Ryabov, Angelina Kuts, Alexander Panchenko, Andrey Kuznetsov and Denis Dimitrov
+(Paper ID: 82) **To the Globe (TTG): Towards Language-Driven Guaranteed Travel Planning** <br/>Da JU, Song Jiang, Andrew Cohen, Aaron Foss, Sasha Mitts, Arman Zharmagambetov, Brandon Amos, Xian Li, Justine T Kao, Maryam Fazel-Zarandi, Yuandong Tian 
 
-**NewsRecLib: A PyTorch-Lightning Library for Neural News Recommendation** <br/> Andreea Iana, Goran Glavaš and Heiko Paulheim
+(Paper ID: 83) **MATSA: Multi-Agent Table Structure Attribution** <br/>Puneet Mathur, Alexa Siu, Nedim Lipka, Tong Sun 
 
-**MiniChain: A Small Library for Coding with Large Language Models** <br/> Alexander Rush
+(Paper ID: 88) **OpenT2T: An Open-Source Toolkit for Table-to-Text Generation** <br/>Haowei Zhang, Shengyun Si, Yilun Zhao, Pengcheng Wang, Lyuhao Chen, Linyong Nan, Arman Cohan 
 
-**Okapi: Instruction-tuned Large Language Models in Multiple Languages with Reinforcement Learning from Human Feedback** <br/> Viet Lai, Chien Nguyen, Nghia Ngo, Thuat Nguyen, Franck Dernoncourt, Ryan Rossi and Thien Nguyen
+(Paper ID: 89) **ChatHF: Collecting Rich Human Feedback from Real-time Conversations** <br/>Andrew Li, Zhenduo Wang, Ethan Mendes, Duong Minh Le, Wei Xu, Alan Ritter 
 
-**SAGEViz: SchemA GEneration and Visualization** <br/> Sugam Devare, Mahnaz Koupaee, Gautham Gunapati, Sayontan Ghosh, Sai Vallurupalli, Yash Kumar Lal, Francis Ferraro, Nathanael Chambers, Greg Durrett, Raymond Mooney, Katrin Erk and Niranjan Balasubramanian
+(Paper ID: 92) **KMatrix: A Flexible Heterogeneous Knowledge Enhancement Toolkit for Large Language Model** <br/>Shun Wu, Di Wu, Kun Luo, XueYou Zhang, Jun Zhao, Kang Liu 
 
-**Thresh: A Unified, Customizable and Deployable Platform for Fine-Grained Text Evaluation** <br/> David Heineman, Yao Dou and Wei Xu
+(Paper ID: 93) **Xinference: Making Large Model Serving Easy** <br/>Weizheng Lu, Lingfeng Xiong, Feng Zhang, Xuye Qin, Yueguo Chen 
 
-**InsightPilot: An LLM-Empowered Automated Data Exploration System** <br/> Pingchuan Ma, Rui Ding, Shuai Wang, Shi Han and Dongmei Zhang
+(Paper ID: 100) **RETAIN: Interactive Tool for Regression Testing Guided LLM Migration** <br/>Tanay Dixit, Daniel Lee, Sally Fang, Sai Sree Harsha, Anirudh Sureshan, Akash V Maharaj, Yunyao Li 
 
-**SynJax: Structured Probability Distributions for JAX** <br/> Miloš Stanojević and Laurent Sartran
+(Paper ID: 103) **ClaimLens: Automated, Explainable Fact-Checking on Voting Claims Using Frame-Semantics** <br/>Jacob Devasier, Rishabh Mediratta, Phuong Anh Le, Chengkai Li 
 
-**RESIN-EDITOR: A Schema-guided Hierarchical Event Graph Visualizer and Editor** <br/> Khanh Duy Nguyen, Zixuan Zhang, Reece Suchocki, Sha Li, Martha Palmer, Susan Windisch Brown, Jiawei Han and Heng Ji
+(Paper ID: 104) **RAGViz: Diagnose and Visualize Retrieval-Augmented Generation** <br/>Tevin Wang, Jingyuan He, Chenyan Xiong 
 
-**DRGCoder: Explainable Clinical Coding for the Early Prediction of Diagnostic-Related Groups** <br/> Daniel Hajialigol, Derek Kaknes, Tanner Barbour, Daphne Yao, Chris North, Jimeng Sun, David Liem and Xuan Wang
+(Paper ID: 106) **PyMarian: Fast Neural Machine Translation and Evaluation in Python** <br/>Thamme Gowda, Roman Grundkiewicz, Elijah Rippeth, Matt Post, Marcin Junczys-Dowmunt 
 
-**CAMRA: Copilot for AMR Annotation** <br/> Jon Cai, Shafiuddin Rehan Ahmed, Julia Bonn, Kristin Wright-Bettner, Martha Palmer and James H. Martin
+(Paper ID: 107) **LLM-DetectAIve: a Tool for Fine-Grained Machine-Generated Text Detection** <br/>Mervat Abassy, Kareem Elozeiri, Alexander Aziz, Minh Ngoc Ta, Raj Vardhan Tomar, Bimarsha Adhikari, Saad El Dine Ahmed, Yuxia Wang, OSAMA MOHAMMED AFZAL, Zhuohan Xie, Jonibek Mansurov, Ekaterina Artemova, Vladislav Mikhailov, Rui Xing, Jiahui Geng, Hasan Iqbal, Zain Muhammad Mujahid, Tarek Mahmoud, Akim Tsvigun, Alham Fikri Aji, Artem Shelmanov, Nizar Habash, Iryna Gurevych, Preslav Nakov
 
-**Reaction Miner: An Integrated System for Chemical Reaction Extraction from Textual Data** <br/> Ming Zhong, Siru Ouyang, Yizhu Jiao, Priyanka Kargupta, Leo Luo, Yanzhen Shen, Bobby Zhou, Xianrui Zhong, Xuan Liu, Hongxiang Li, Jinfeng Xiao, Minhao Jiang, Vivian Hu, Xuan Wang, Heng Ji, Martin Burke, Huimin Zhao and Jiawei Han
+(Paper ID: 112) **Translation Canvas: An Explainable Interface to Pinpoint and Analyze Translation Systems** <br/>Chinmay Dandekar, Wenda Xu, Xi Xu, Siqi Ouyang, Lei Li 
 
-**CHAMP: Efficient Annotation and Consolidation of Cluster Hierarchies** <br/> Arie Cattan, Tom Hope, Doug Downey, Roy Bar-Haim, Lilach Eden, Yoav Kantor and Ido Dagan
+(Paper ID: 114) **mbrs: A Library for Minimum Bayes Risk Decoding** <br/>Hiroyuki Deguchi, Yusuke Sakai, Hidetaka Kamigaito, Taro Watanabe 
 
-**Prompt2Model: Generating Deployable Models from Natural Language Instructions** <br/> Vijay Viswanathan, Chenyang Zhao, Amanda Bertsch, Tongshuang Wu and Graham Neubig
+(Paper ID: 116) **Debug Smarter, Not Harder: AI Agents for Error Resolution in Computational Notebooks** <br/>Konstantin Grotov, Artem Borzilov, Maksim Krivobok, Timofey Bryksin, Yaroslav Zharov 
 
-**NewsSense: Reference-free Verification via Cross-document Comparison** <br/> Jeremiah Milbauer, Ziqi Ding, Zhijin Wu and Tongshuang Wu
+(Paper ID: 117) **Schema-Guided Culture-Aware Complex Event Simulation with Multi-Agent Role-Play** <br/>Sha Li, Revanth Gangi Reddy, Khanh Duy Nguyen, Qingyun Wang, Yi Fung, Chi Han, Jiawei Han, Kartik Natarajan, Clare R. Voss, Heng Ji 
 
-**NeMo Guardrails: A Toolkit for Controllable and Safe LLM Applications with Programmable Rails** <br/> Traian Rebedea, Razvan Dinu, Makesh Narsimhan Sreedhar, Christopher Parisien and Jonathan Cohen
+(Paper ID: 118) **SparkRA: A Retrieval-Augmented Knowledge Service System Based on Spark Large Language Model** <br/>Dayong Wu, Jiaqi Li, Baoxin Wang, Honghong Zhao, Siyuan Xue, Yanjie Yang, Zhijun Chang, Rui Zhang, Li Qian, Bo Wang, Shijin Wang, Zhixiong Zhang, Guoping Hu 
 
-**LM-Polygraph: Uncertainty Estimation for Language Models** <br/> Ekaterina Fadeeva, Roman Vashurin, Akim Tsvigun, Artem Vazhentsev, Sergey Petrakov, Kirill Fedyanin, Daniil Vasilev, Elizaveta Goncharova, Alexander Panchenko, Maxim Panov, Timothy Baldwin and Artem Shelmanov
+(Paper ID: 120) **Generative Dictionary: Improving Language Learner Understanding with Contextual Definitions** <br/>Kai-Wen Tuan, Hai-Lun Tu, Jason S. Chang 
 
-**Descriptive Knowledge Graph in Biomedical Domain** <br/> Kerui Zhu, Jie Huang and Kevin Chen-Chuan Chang
+(Paper ID: 121) **WalledEval: A Comprehensive Safety Evaluation Toolkit for Large Language Models** <br/>Prannaya Gupta, Le Qi Yau, Hao Han Low, I-Shiang Lee, Hugo Maximus Lim, Yu Xin Teoh, Koh Jia Hng, Dar Win Liew, Rishabh Bhardwaj, Rajat Bhardwaj, Soujanya Poria 
 
-**prompterator: Iterate efficiently towards more effective prompts** <br/> Marek Suppa, Samuel Sucik, Andrej Švec, Daniel Skala and Peter Hraska
+(Paper ID: 129) **RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation** <br/>Xuanwang Zhang, Yun-Ze Song, Yidong Wang, Shuyun Tang, Xinfeng Li, Zhengran Zeng, Zhen Wu, Wei Ye, Wenyuan Xu, Yue Zhang, Xinyu Dai, Shikun Zhang, Qingsong Wen 
 
-**ZhuJiu: A Multi-dimensional, Multi-faceted Chinese Benchmark for Large Language Models** <br/> Baoli Zhang, Haining Xie, Pengfan Du, Junhao Chen, Pengfei Cao, Yubo Chen, Shengping Liu, Kang Liu and Jun Zhao
+(Paper ID: 130) **AutoTrain: No-code training for state-of-the-art models** <br/>Abhishek Thakur
 
-**PaperMage: A Unified Toolkit for Processing, Representing, and Manipulating Visually-Rich Scientific Documents** <br/> Kyle Lo, Zejiang Shen, Benjamin Newman, Joseph Chee Chang, Russell Authur, Erin Bransom, Stefan Candra, Yoganand Chandrasekhar, Regan Huff, Bailey Kuehl, Amanpreet Singh, Chris Wilhelm, Angele Zamarron, Marti A. Hearst, Daniel Weld, Doug Downey and Luca Soldaini
+(Paper ID: 132) **Sailor: Open Language Models for South-East Asia** <br/>Longxu Dou, Qian Liu, Guangtao Zeng, Jia Guo, Jiahui Zhou, Xin Mao, Ziqi Jin, Wei Lu, Min Lin 
 
-**OmniEvent: A Comprehensive, Fair, and Easy-to-Use Toolkit for Event Understanding** <br/> Hao Peng, Xiaozhi Wang, Feng Yao, Zimu Wang, Chuzhao Zhu, Kaisheng Zeng, Lei Hou and Juanzi Li
+(Paper ID: 149) **RepoAgent: An LLM-Powered Open-Source Framework for Repository-level Code Documentation Generation** <br/>Qinyu Luo, Yining Ye, Shihao Liang, Zhong Zhang, Yujia Qin, Yaxi Lu, Yesai Wu, Xin Cong, Yankai Lin, Yingli Zhang, Xiaoyin Che, Zhiyuan Liu, Maosong Sun 
 
-**CocoSciSum: A Scientific Summarization Toolkit with Compositional Controllability** <br/> Yixi Ding, Yanxia Qin, Qian Liu and Min-Yen Kan
+(Paper ID: 150) **DeepPavlov 1.0: Your Gateway to Advanced NLP Models Backed by Transformers and Transfer Learning** <br/>Maksim Savkin, Anastasia Voznyuk, Fedor Ignatov, Anna Korzanova, Dmitry Karpov, Alexander Popov, Vasily Konovalov 
 
-**CoLLiE: Collaborative Training of Large Language Models in an Efficient Way** <br/> Kai Lv, Shuo Zhang, Tianle Gu, Shuhao Xing, Jiawei Hong, keyu chen, Xiaoran Liu, Yuqing Yang, Honglin Guo, Tengxiao Liu, Yu Sun, Qipeng Guo, Hang Yan and Xipeng Qiu
+(Paper ID: 154) **Kandinsky 3: Text-to-Image Synthesis for Multifunctional Generative Framework** <br/>Arkhipkin Vladimir, Viacheslav Vasilev, Andrei Filatov, Igor Pavlov, Julia Agafonova, Nikolai Gerasimenko, Anna Averchenkova, Evelina Mironova, Bukashkin Anton, Konstantin Kulikov, Andrey Kuznetsov, Denis Dimitrov 
 
-**Video-LLaMA: An Instruction-tuned Audio-Visual Language Model for Video Understanding** <br/> Hang Zhang, Xin Li and Lidong Bing
+(Paper ID: 161) **MIMIR: A Customizable Agent Tuning Platform for Enhanced Scientific Applications** <br/>Xiangru Tang, Chunyuan Deng, hanminwang, Haoran Wang, Yilun Zhao, Wenqi Shi, Yi Fung, Wangchunshu Zhou, Jiannan Cao, Heng Ji, Arman Cohan, Mark Gerstein 
 
-**SummHelper: Collaborative Human-Computer Summarization** <br/> Aviv Slobodkin, Niv Nachum, Shmuel Amar, Ori Shapira and Ido Dagan
+(Paper ID: 162) **WildVis: Open Source Visualizer for Million-Scale Chat Logs in the Wild** <br/>Yuntian Deng, Wenting Zhao, Jack Hessel, Xiang Ren, Claire Cardie, Yejin Choi 
 
-**ModelScope-Agent: Building Your Customizable Agent System with Open-source Large Language Models** <br/> Chenliang Li, He Chen, Ming Yan, Weizhou Shen, Haiyang Xu, Zhikai Wu, Zhicheng Zhang, Wenmeng Zhou, Yingda Chen, Chen Cheng, Hongzhu Shi, Ji Zhang, Fei Huang and Jingren Zhou
+(Paper ID: 164) **Instruction-Driven Game-Development and Game-Play: A Case Study for Poker** <br/>Hongqiu Wu, Yan Wang, Xingyuan Liu, hai zhao 
 
-**EfficientOCR: An Extensible, Open-Source Package for Efficiently Digitizing World Knowledge** <br/> Tom Bryan, Jacob Carlson, Abhishek Arora and Melissa Dell
-
+(Paper ID: 165) **LM-Interview: An Easy-to-use Smart Interviewer System via Knowledge-guided Language Model Exploitation** <br/>Hanming Li, Jifan Yu, Ruimiao Li, Zhanxin Hao, Yan Xuan, Jiaxi Yuan, Bin Xu, Juanzi Li, Zhiyuan Liu
