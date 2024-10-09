@@ -94,7 +94,7 @@ bronze:
   image_path: /assets/images/logos/janestreet-logo.png
   alt: Jane Street
   title: Jane Street
-- url: 
+- url: https://www.figma.com/ai/
   image_path: /assets/images/logos/figma-logo.png
   alt: Figma
   title: Figma
