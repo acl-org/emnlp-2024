@@ -53,7 +53,7 @@ sidebar:
 
 **Are LLMs Effective Negotiators? Systematic Evaluation of the Multifaceted Capabilities of LLMs in Negotiation Dialogues**<br/>Deuksin Kwon, Emily Weiss, Tara Kulshrestha, Kushal Chawla, Gale Lucas, Jonathan Gratch
 
-**When Raw Data Prevails: Are Large Language Model Embeddings Effective in Numerical Data Representation for Medical Machine Learning Applications?**<br/>Yanjun Gao, Skatje Myers, Shan Chen, Dmitriy Dligach, Timothy A Miller, Danielle Bitterman, Matthew Churpek, Majid Afshar
+**When Raw Data Prevails: Are Large Language Model Embeddings Effective in Numerical Data Representation for Medical Machine Learning Applications**<br/>Yanjun Gao, Skatje Myers, Shan Chen, Dmitriy Dligach, Timothy A Miller, Danielle Bitterman, Matthew Churpek, Majid Afshar
 
 **Losing Visual Needles in Image Haystacks: Vision Language Models are Easily Distracted in Short and Long Contexts**<br/>Aditya Sharma, Michael Saxon, William Yang Wang
 
@@ -77,7 +77,7 @@ sidebar:
 
 **Visual Pivoting Unsupervised Multimodal Machine Translation in Low-Resource Distant Language Pairs**<br/>Turghun Tayir, Lin Li, Xiaohui Tao, Mieradilijiang Maimaiti, Ming Li, Jianquan Liu
 
-**Scalable Fine-tuning from Multiple Data Sources: A First-Order Approximation Approach**<br/>Dongyue Li, Ziniu Zhang, Lu Wang, Hongyang R. Zhang
+**Scalable Fine-tuning from ple Data Sources: A First-Order Approximation Approach**<br/>Dongyue Li, Ziniu Zhang, Lu Wang, Hongyang R. Zhang
 
 **DocEE-zh: A Fine-grained Benchmark for Chinese Document-level Event Extraction**<br/>Minghui Liu, MeiHan Tong, Yangda Peng, Lei Hou, Juanzi Li, Bin Xu
 
@@ -149,8 +149,6 @@ sidebar:
 
 **On Creating an English-Thai Code-switched Machine Translation in Medical Domain**<br/>Parinthapat Pengpun, Krittamate Tiankanon, Amrest Chinkamol, Jiramet Kinchagawat, Pitchaya Chairuengjitjaras, Pasit Supholkhan, Pubordee Aussavavirojekul, Chiraphat Boonnag, Kanyakorn Veerakanjana, Hirunkul Phimsiri, Boonthicha Sae-jia, Nattawach Sataudom, Piyalitt Ittichaiwong, Peerat Limkonchotiwat
 
-**Assessment and manipulation of latent constructs in pre-trained language models using psychometric scales**<br/>Maor Reuben, Ortal Slobodin, Idan-Chaim Cohen, Aviad Elyashar, Orna Braun-Lewensohn, Odeya Cohen, Rami Puzis
-
 **CogGPT: Unleashing the Power of Cognitive Dynamics on Large Language Models**<br/>Yaojia Lv, Haojie Pan, Zekun Wang, Jiafeng Liang, Yuanxing Liu, Ruiji Fu, Ming Liu, Zhongyuan Wang, Bing Qin
 
 **Can LLMs Recognize Toxicity? A Structured Investigation Framework and Toxicity Metric**<br/>Hyukhun Koh, Dohyung Kim, Minwoo Lee, Kyomin Jung
@@ -195,8 +193,6 @@ sidebar:
 
 **LLaMIPa: An Incremental Discourse Parser**<br/>Kate Thompson, Akshay Chaturvedi, Julie Hunter, Nicholas Asher
 
-**Fine-Tuning with Divergent Chains of Thought Boosts Reasoning Through Self-Correction in Language Models**<br/>Haritz Puerto, Tilek Chubakov, Xiaodan Zhu, Harish Tayyar Madabushi, Iryna Gurevych
-
 **NeBuLa: A discourse aware Minecraft Builder**<br/>Akshay Chaturvedi, Kate Thompson, Nicholas Asher
 
 **Improving Referring Ability for Biomedical Language Models**<br/>Junfeng Jiang, Fei Cheng, Akiko Aizawa
@@ -214,8 +210,6 @@ sidebar:
 **MMUTF: Multimodal Multimedia Event Argument Extraction with Unified Template Filling**<br/>Philipp Seeberger, Dominik Wagner, Korbinian Riedhammer
 
 **Not All Preference Pairs Are Created Equal: A Recipe for Annotation-Efficient Iterative Preference Learning**<br/>Sen Yang, Leyang Cui, Deng Cai, Xinting Huang, Shuming Shi, Wai Lam
-
-**A Novel Methodology for Enhancing Cross-Language and Domain Adaptability in Temporal Expression Normalization**<br/>Alejandro Sánchez-de-Castro-Fernández, Lourdes Araujo, Juan Martinez-Romo
 
 **Cross-lingual Contextualized Phrase Retrieval**<br/>Huayang Li, Deng Cai, Zhi Qu, Qu Cui, Hidetaka Kamigaito, Lemao Liu, Taro Watanabe
 
@@ -257,8 +251,6 @@ sidebar:
 
 **From Text Segmentation to Enhanced Representation Learning: A Novel Approach to Multi-Label Classiﬁcation for Long Texts**<br/>Wang Zhang, Xin Wang, Qian Wang, Tao Deng, Xiaoru Wu
 
-**Generalization or Memorization: Can Large Language Models Solve Math Problems with Unseen Proof Structures?**<br/>Haruki Shirakami, Andreas Opedal, Abulhair Saparov, Mrinmaya Sachan
-
 **Editing Conceptual Knowledge for Large Language Models**<br/>Xiaohan Wang, Shengyu Mao, Shumin Deng, Yunzhi Yao, YUE SHEN, Lei Liang, Jinjie GU, Huajun Chen, Ningyu Zhang
 
 **Learning from Imperfect Data: Towards Efficient Knowledge Distillation of Autoregressive Language Models for Text-to-SQL**<br/>Qihuang Zhong, Kunfeng Chen, Liang Ding, Juhua Liu, Bo Du, Dacheng Tao
@@ -287,8 +279,6 @@ sidebar:
 
 **Explaining Graph Neural Networks with Large Language Models: A Counterfactual Perspective on Molecule Graphs**<br/>Yinhan He, Zaiyi Zheng, Patrick Soga, Yaochen Zhu, Yushun Dong, Jundong Li
 
-**Grounding Fallacies Misrepresenting Scientific Publications in Evidence**<br/>Max Glockner, Yufang Hou, Preslav Nakov, Iryna Gurevych
-
 **Knowledge Mechanisms in Large Language Models: A Survey and Perspective**<br/>Mengru Wang, Yunzhi Yao, Ziwen Xu, Shuofei Qiao, Shumin Deng, Peng Wang, Xiang Chen, Jia-Chen Gu, Yong Jiang, Pengjun Xie, Fei Huang, Huajun Chen, Ningyu Zhang
 
 **LongHeads: Multi-Head Attention is Secretly a Long Context Processor**<br/>Yi Lu, Xin Zhou, Wei He, Jun Zhao, Tao Ji, Tao Gui, Qi Zhang, Xuanjing Huang
@@ -298,8 +288,6 @@ sidebar:
 **Edit-Constrained Decoding for Sentence Simplification**<br/>Tatsuya Zetsu, Yuki Arase, Tomoyuki Kajiwara
 
 **Explicit and Implicit Large Language Model Personas Generate Opinions but Fail to Replicate Deeper Perceptions and Biases**<br/>Salvatore Giorgi, Tingting Liu, Ankit Aich, Kelsey Jane Isman, Garrick Sherman, Zachary Fried, João Sedoc, Lyle Ungar, Brenda Curtis
-
-**VISUAL-ALPHASOCIAL: Benchmark and Self-Reflective Chain-of-Thought Generation for Visual Social Commonsense Reasoning**<br/>Zongyu Lin, Zhikun Xu, Yixin Wan, Stuart X. Yao, Xiaohan Song, Tsung-Han Lin, Selina Song, Pranav Subbaraman, Kai-Wei Chang, Yizhou Sun
 
 **Multi-Loss Fusion: Angular and Contrastive Integration for Machine-Generated Text Detection**<br/>Iqra Zahid, Yue Chang, Youcheng Sun, Riza Batista-Navarro
 
@@ -387,8 +375,6 @@ sidebar:
 
 **NeuroMax: Enhancing Neural Topic Modeling via Maximizing Mutual Information and Group Topic Regularization**<br/>Duy-Tung Pham, Thien Trang Nguyen Vu, Tung Nguyen, Linh Van Ngo, Duc Anh Nguyen, Thien Huu Nguyen
 
-**Prompt Decomposition for Generalizable Transferable Multimodal Sequential Learning**<br/>Tao Jin, Wang Lin, Xize Cheng, Zehan Wang, Ye Wang, Linjun Li, Zhou Zhao
-
 **LLM Self-Correction with DeCRIM: Decompose, Critique, and Refine for Enhanced Following of Instructions with Multiple Constraints**<br/>Thomas Palmeira Ferraz, Kartik Mehta, Yu-Hsiang Lin, Haw-Shiuan Chang, Shereen Oraby, Sijia Liu, Vivek Subramanian, Tagyoung Chung, Mohit Bansal, Nanyun Peng
 
 **Learning to Plan for Retrieval-Augmented Large Language Models from Knowledge Graphs**<br/>Junjie Wang, Mingyang Chen, Binbin Hu, Dan Yang, Ziqi Liu, YUE SHEN, Peng Wei, Zhiqiang Zhang, Jinjie GU, JUN ZHOU, Jeff Z. Pan, Wen Zhang, Huajun Chen
@@ -428,8 +414,6 @@ sidebar:
 **General Collaborative Framework between Large Language Model and Experts for Universal Information Extraction**<br/>K Bao, Ning Wang
 
 **Advancing Cross-Lingual Entity Alignment with Large Language Models: Tailored Sample Segmentation and Zero-Shot Prompts**<br/>Linyan Yang, Jingwei Cheng, Fu Zhang
-
-**Learning Label Verbalizations with Varied Concreteness via Large Language Models for Low-Resource Relation Extraction**<br/>Xiyang Liu, Chunming Hu, Richong Zhang, Junfan Chen, Baowen Xu
 
 **Causal Discovery Inspired Unsupervised Domain Adaptation for Emotion-Cause Pair Extraction**<br/>YUNCHENG HUA, Yujin Huang, Shuo Huang, Tao Feng, Lizhen Qu, Christopher Bain, Richard Bassed, Reza Haf
 
@@ -680,8 +664,6 @@ sidebar:
 **StraGo: Harnessing Strategic Guidance for Prompt Optimization**<br/>Yurong Wu, Yan Gao, Bin Benjamin Zhu, Zineng Zhou, Xiaodi Sun, Sheng Yang, Jian-Guang Lou, Zhiming Ding, Linjun Yang
 
 **Learning to Plan by Updating Natural Language**<br/>Yiduo Guo, Yaobo Liang, Chenfei Wu, Wenshan Wu, Dongyan Zhao, Nan Duan
-
-**BANER: Boundary-Aware LLMs for Few-Shot Named Entity Recognition**<br/>Quanjiang Guo, Yihong Dong, Ling Tian, zhao kang, Yu Zhang, Sijie Wang
 
 **Introducing Compiler Semantics into Large Language Models as Programming Language Translators: A Case Study of C to x86 Assembly**<br/>Shuoming Zhang, Jiacheng Zhao, Chunwei Xia, Zheng Wang, Yunji Chen, Huimin Cui
 
@@ -941,8 +923,6 @@ sidebar:
 
 **BSharedRAG: Backbone Shared Retrieval-Augmented Generation for the E-commerce Domain**<br/>Kaisi Guan, Qian Cao, Yuchong Sun, Xiting Wang, Ruihua Song
 
-**From Fragment to Fabric: Long-Context Scaling with Short Instruction-Tuning Data**<br/>Tianduo Wang, Yuhao Wu, Roy Ka-Wei Lee, Wei Lu
-
 **ChartInsights: Evaluating Multimodal Large Language Models for Low-Level Chart Question Answering**<br/>Yifan Wu, Lutao Yan, Leixian Shen, Yunhai Wang, Nan Tang, Yuyu Luo
 
 **Communicate to Play: Pragmatic Reasoning for Efficient Cross-Cultural Communication**<br/>Isadora White, Sashrika Pandey, Michelle Pan
@@ -972,8 +952,6 @@ sidebar:
 **PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion**<br/>Zekai Zhang, Yiduo Guo, Yaobo Liang, Dongyan Zhao, Nan Duan
 
 **Efficient Pointwise-Pairwise Learning-to-Rank for News Recommendation**<br/>Nithish Kannen, Yao Ma, Gerrit J.J. Van den Burg, Jean Baptiste Faddoul
-
-**Safe Unlearning: A Surprisingly Effective and Generalizable Solution to Defend Against Jailbreak Attacks**<br/>Zhexin Zhang, Junxiao Yang, Pei Ke, Shiyao Cui, Chujie Zheng, Hongning Wang, Minlie Huang
 
 **Fast Matrix Multiplications for Lookup Table-Quantized LLMs**<br/>Han Guo, William Brandon, Radostin Cholakov, Jonathan Ragan-Kelley, Eric P. Xing, Yoon Kim
 
@@ -1145,8 +1123,6 @@ sidebar:
 
 **Regression (and Scoring) Aware Inference with LLMs**<br/>Michal Lukasik, Harikrishna Narasimhan, Aditya Krishna Menon, Felix Yu, Sanjiv Kumar
 
-**Case2Code: Learning Inductive Reasoning with Synthetic Data**<br/>Yunfan Shao, Linyang Li, Yichuan Ma, Peiji Li, Demin Song, Qinyuan Cheng, Shimin Li, Xiaonan Li, Pengyu Wang, Qipeng Guo, Hang Yan, Xipeng Qiu, Xuanjing Huang, Dahua Lin
-
 **Large Language Model-based Human-Agent Collaboration for Complex Task Solving**<br/>Xueyang Feng, Zhi-Yuan Chen, Yujia Qin, Yankai Lin, Xu Chen, Zhiyuan Liu, Ji-Rong Wen
 
 **$R^3$-NL2GQL: A Model Coordination and Knowledge Graph Alignment Approach for NL2GQL**<br/>Yuhang Zhou, Yu He, Siyu Tian, Yuchen Ni, Zhangyue Yin, Xiang Liu, Chuanjun Ji, Sen Liu, Xipeng Qiu, Guangnan Ye, Hongfeng Chai
@@ -1192,8 +1168,6 @@ sidebar:
 **PRoDeliberation: Parallel Robust Deliberation for End-to-End Spoken Language Understanding**<br/>Trang Le, Daniel Lazar, Suyoun Kim, Shan Jiang, Duc Le, Adithya Sagar, Aleksandr Livshits, Ahmed A Aly, Akshat Shrivastava
 
 **Performance Trade-offs of a Family of Text Watermarks**<br/>Anirudh Ajith, Sameer Singh, Danish Pruthi
-
-**Contrastive Learning on LLM Back Generation Treebank for Cross-domain Constituency Parsing**<br/>Peiming Guo, Meishan Zhang, jianling li, Min Zhang, Yue Zhang
 
 **Knowledge-Aware Reasoning over Multimodal Semi-structured Tables**<br/>Suyash Vardhan Mathur, Jainit Sushil Bafna, Kunal Kartik, Harshita Khandelwal, Manish Shrivastava, Vivek Gupta, Mohit Bansal, Dan Roth
 
@@ -1268,8 +1242,6 @@ sidebar:
 **Local and Global Decoding in Text Generation**<br/>Daniel Gareev, Thomas Hofmann, ezhilmathi krishnasamy, Tiago Pimentel
 
 **LEGOBench: Scientific Leaderboard Generation Benchmark**<br/>Shruti Singh, Shoaib Alam, Husain Malwat, Mayank Singh
-
-**Measuring and Benchmarking Large Language Models’ Capabilities to Generate Persuasive Language**<br/>Amalie Brogaard Pauli, Isabelle Augenstein, Ira Assent
 
 **H-LegalKI: A Hierarchical Legal Knowledge Integration Framework for Legal Community Question Answering**<br/>Yue Jiang, Ziyu Guan, Jie Zhao, Wei Zhao, Jiaqi Yang
 
@@ -1372,8 +1344,6 @@ sidebar:
 **Beyond Perplexity: Multi-dimensional Safety Evaluation of LLM Compression**<br/>Zhichao Xu, Ashim Gupta, Tao Li, Oliver Bentham, Vivek Srikumar
 
 **One-to-Many Testing for Code Generation from (Just) Natural Language**<br/>Mansi Uniyal, Mukul Singh, Gust Verbruggen, Sumit Gulwani, Vu Le
-
-**Exploring Safety-Utility Trade-Offs in Personalized Language Models**<br/>Anvesh Rao Vijjini, Somnath Basu Roy Chowdhury, Snigdha Chaturvedi
 
 **A Unified Framework for Model Editing**<br/>Akshat Gupta, Dev Sajnani, Gopala Anumanchipalli
 
@@ -1487,8 +1457,6 @@ sidebar:
 
 **The Overlooked Repetitive Lengthening Form in Sentiment Analysis**<br/>Lei Wang, Eduard Dragut
 
-**ICLEval: Evaluating In-Context Learning Ability of Large Language Models**<br/>Wentong Chen, Yankai Lin, Zhou ZhenHao, HongYun Huang, Yantao Jia, Zhao Cao, Ji-Rong Wen
-
 **Remember This Event That Year? Assessing Temporal Information and Understanding in Large Language Models**<br/>Himanshu Beniwal, Dishant Patel, Kowsik Nandagopan D, Hritik Ladia, Ankit Yadav, Mayank Singh
 
 **Hop, skip, jump to Convergence: Dynamics of Learning Rate Transitions for Improved Training of Large Language Models**<br/>Vignesh Ganapathiraman, Shreyas Subramanian, Corey D Barrett
@@ -1525,8 +1493,6 @@ sidebar:
 
 **Two Tales of Persona in LLMs: A Survey of Role-Playing and Personalization**<br/>Yu-Min Tseng, Yu-Chao Huang, Teng-Yun Hsiao, Wei-Lin Chen, Chao-Wei Huang, Yu Meng, Yun-Nung Chen
 
-**Beyond Token Generation: Adaptive Chunk-Distilled Language Modeling**<br/>Yanhong Li, Karen Livescu, Jiawei Zhou
-
 **ToxiCraft: A Novel Framework for Synthetic Generation of Harmful Information**<br/>Zheng Hui, Zhaoxiao Guo, Hang Zhao, Juanyong Duan, Congrui Huang
 
 **Look Who’s Talking Now: Covert Channels From Biased LLMs**<br/>Daniel Silva, Frederic Sala, Ryan Gabrys
@@ -1542,8 +1508,6 @@ sidebar:
 **Fast Streaming Transducer ASR Prototyping via Knowledge Distillation with Whisper**<br/>Iuliia Thorbecke, Juan Pablo Zuluaga Gomez, Esaú VILLATORO-TELLO, Shashi Kumar, Pradeep Rangappa, Sergio Burdisso, Petr Motlicek, Karthik Pandia D S, Aravind Ganapathiraju
 
 **Reasoning Paths Optimization: A Framework For Exploring And Learning From Diverse Reasoning Paths**<br/>Yew Ken Chia, Guizhen Chen, Weiwen Xu, Anh Tuan Luu, Soujanya Poria, Lidong Bing
-
-**NativQA: Multilingual Culturally-Aligned Natural Query for LLMs**<br/>Md. Arid Hasan, Maram Hasanain, Fatema Ahmad, Sahinur Rahman Laskar, Sunaya Upadhyay, Vrunda N Sukhadia, Mucahid Kutlu, Shammur Absar Chowdhury, Firoj Alam
 
 **Uncertainty Calibration for Tool-Using Language Agents**<br/>Hao Liu, Zi-Yi Dou, Yixin Wang, Nanyun Peng, Yisong Yue
 
@@ -1655,8 +1619,6 @@ sidebar:
 
 **Abstraction-of-Thought Makes Language Models Better Reasoners**<br/>Ruixin Hong, Hongming Zhang, Xiaoman Pan, Dong Yu, Changshui Zhang
 
-**Multi-Prompting Decoder Helps Better Language Understanding**<br/>Zifeng Cheng, Zhaoling Chen, Zhiwei Jiang, Yafeng Yin, Cong Wang, Shiping Ge, Yuliang Liu, Qing Gu
-
 **LLMs Cannot (Yet) Match the Specificity and Simplicity of Online Communities in Long Form Question Answering**<br/>Kris-Fillip Kahl, Tolga Buz, Russa Biswas, Gerard de Melo
 
 **Automated Tone Transcription and Clustering with Tone2Vec**<br/>Yi Yang, Yiming Wang, ZhiQiang Tang, Jiahong Yuan
@@ -1723,8 +1685,6 @@ sidebar:
 
 **A Coarse-to-Fine Prototype Learning Approach for Multi-Label Few-Shot Intent Detection**<br/>Xiaotong Zhang, Xinyi Li, Feng Zhang, Zhiyi Wei, Junfeng Liu, Han Liu
 
-**A Collaborative Reasoning Framework Powered by Reinforcement Learning and Large Language Models for Complex Questions Answering over Knowledge Graph**<br/>Zhiqiang Zhang, Wen Zhao
-
 **Can Large Language Models Understand DL-Lite Ontologies? An Empirical Study**<br/>Keyu Wang, Guilin Qi, Jiaqi Li, Songlin Zhai
 
 **Enhancing Healthcare LLM Trust with Atypical Presentations Recalibration**<br/>Jeremy Qin, Bang Liu, Quoc Dinh Nguyen
@@ -1742,8 +1702,6 @@ sidebar:
 **MM-ChatAlign: A Novel Multimodal Reasoning Framework based on Large Language Models for Entity Alignment**<br/>Xuhui Jiang, Yinghan Shen, Zhichao Shi, Chengjin Xu, Wei Li, Huang Zihe, Jian Guo, Yuanzhuo Wang
 
 **Towards Explainable Computerized Adaptive Testing with Large Language Model**<br/>Cheng Cheng, GuanHao Zhao, Zhenya Huang, Yan Zhuang, Zhaoyuan Pan, Qi Liu, Xin Li, Enhong Chen
-
-**A Text is Worth Several Tokens: Text Embedding from LLMs Secretly Aligns Well with The Key Tokens**<br/>Zhijie Nie, Richong Zhang, Zhanyu Wu
 
 **Multi-view Content-aware Indexing for Long Document Retrieval**<br/>Kuicai Dong, Derrick Goh Xin Deik, Yi Quan Lee, Hao Zhang, Xiangyang Li, Cong Zhang, Yong Liu
 
@@ -1764,8 +1722,6 @@ sidebar:
 **BoolQuestions: Does Dense Retrieval Understand Boolean Logic in Language?**<br/>Zongmeng Zhang, Jinhua Zhu, Wengang Zhou, Xiang Qi, peng zhang, Houqiang Li
 
 **McCrolin: Multi-consistency Cross-lingual Training for Retrieval Question Answering**<br/>Peerat Limkonchotiwat, Wuttikorn Ponwitayarat, Lalita Lowphansirikul, Potsawee Manakul, Can Udomcharoenchaikit, Ekapol Chuangsuwanich, Sarana Nutanong
-
-**Rethinking Pseudo Word Learning in Zero-Shot Composed Image Retrieval: From an Object-Aware Perspective**<br/>Zhe Li, Lei Zhang, Kun Zhang, Yongdong Zhang, Zhendong Mao
 
 **A Novel Metric for Measuring the Robustness of Large Language Models in Non-adversarial Scenarios**<br/>Samuel Ackerman, Ella Rabinovich, Eitan Farchi, Ateret Anaby Tavor
 
@@ -1844,8 +1800,6 @@ sidebar:
 **Multi-Stage Balanced Distillation: Addressing Long-Tail Challenges in Sequence-Level Knowledge Distillation**<br/>Yuhang Zhou, Jing Zhu, Paiheng Xu, Xiaoyu Liu, Xiyao Wang, Danai Koutra, Wei Ai, Furong Huang
 
 **Are Large Vision Language Models up to the Challenge of Chart Comprehension and Reasoning**<br/>Mohammed Saidul Islam, Raian Rahman, Ahmed Masry, Md Tahmid Rahman Laskar, Mir Tafseer Nayeem, Enamul Hoque
-
-**An Empirical Study of Iterative Refinements for Non-autoregressive Translation**<br/>Yisheng Xiao, Pei Guo, Zechen Sun, Juntao Li, Kai Song, Min Zhang
 
 **HoneyComb: A Flexible LLM-Based Agent System for Materials Science**<br/>Huan Zhang, Yu Song, Ziyu Hou, Santiago Miret, Bang Liu
 
@@ -2060,8 +2014,6 @@ sidebar:
 **Learning Autonomous Driving Tasks via Human Feedbacks with Large Language Models**<br/>Yunsheng Ma, Xu Cao, Wenqian Ye, Can Cui, Kai Mei, Ziran Wang
 
 **CultureBank: An Online Community-Driven Knowledge Base Towards Culturally Aware Language Technologies**<br/>Weiyan Shi, Ryan Li, Yutong Zhang, Caleb Ziems, Sunny Yu, Raya Horesh, Rogério Abreu de Paula, Diyi Yang
-
-**ESE: Espresso Sentence Embeddings**<br/>Xianming LI, Zongxi Li, Jing Li, Haoran Xie, Li Qing
 
 **TOOLVERIFIER: Generalization to New Tools via Self-Verification**<br/>Dheeraj Mekala, Jason E Weston, Jack Lanchantin, Roberta Raileanu, Maria Lomeli, Jingbo Shang, Jane Dwivedi-Yu
 
