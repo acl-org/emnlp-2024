@@ -1479,8 +1479,6 @@ sidebar:
 
 **BEEAR: Embedding-based Adversarial Removal of Safety Backdoors in Instruction-tuned Language Models**<br/>Yi Zeng, Weiyu Sun, Tran Ngoc Huynh, Dawn Song, Bo Li, Ruoxi Jia
 
-**Rethinking Word Similarity: Semantic Similarity through Classification Confusion**<br/>Kaitlyn Zhou, Haishan Gao, Sarah Li Chen, Federico Bianchi, Dan Edelstein, Dan Jurafsky, Chen Shani
-
 **A Bayesian Approach to Harnessing the Power of LLMs in Authorship Attribution**<br/>Zhengmian Hu, Tong Zheng, Heng Huang
 
 **FAC$^2$E: Better Understanding Large Language Model Capabilities by Dissociating Language and Cognition**<br/>Xiaoqiang Wang, Lingfei Wu, Tengfei Ma, Bang Liu
