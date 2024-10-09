@@ -11,7 +11,7 @@ toc_label: "&nbsp;Sponsorship Tier"
 
 diamond:
 - url: https://machinelearning.apple.com
-  image_path: /assets/images/logos/apple.jpg
+  image_path: /assets/images/logos/apple-logo.png
   alt: Apple
   title: Apple
 - url: https://www.bloomberg.com/company/values/tech-at-bloomberg/
@@ -100,7 +100,7 @@ bronze:
   title: Figma
 di_ally:
 - url: https://machinelearning.apple.com
-  image_path: /assets/images/logos/apple.jpg
+  image_path: /assets/images/logos/apple-logo.png
   alt: Apple
   title: Apple
 ---
