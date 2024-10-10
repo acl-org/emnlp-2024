@@ -88,6 +88,9 @@ program:
         url: /program/industry/
       - title: "System Demonstration"
         url: /program/demo/
+      - title: "TACL"
+        url: /program/accepted_tacl
+
 
 #   - title: "Awards"
 #     children:
