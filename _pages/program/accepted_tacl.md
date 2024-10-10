@@ -35,7 +35,7 @@ sidebar:
 
 **Not Eliminate but Aggregate: Post-Hoc Control over Mixture-of-Experts to Address Shortcut Shifts in Natural Language Understanding**</br>Ukyo Honda; Tatsushi Oka; Peinan Zhang; Masato Mita
 
-**Grammatical Genders Influence on Distributional Semantics: A Causal Perspective**</br>Karolina Ewa Stanczak; Kevin Du; Adina Williams; Isabelle Augenstein; Ryan Cotterell
+**Grammatical Gender's Influence on Distributional Semantics: A Causal Perspective**</br>Karolina Ewa Stanczak; Kevin Du; Adina Williams; Isabelle Augenstein; Ryan Cotterell
 
 **Retrieval-Pretrained Transformer: Long-range Language Modeling with Self-retrieval**</br>Ohad Rubin; Jonathan Berant
 
@@ -46,7 +46,8 @@ sidebar:
 **Are Language Models More Like Libraries or Like Librarians? Bibliotechnism, the Novel Reference Problem, and the Attitudes of LLMs**</br>Kyle Mahowald; Harvey Lederman
 
 **Self-supervised Topic Taxonomy Discovery in the Box Embedding Space**</br>Yuyin Lu; Hegang Chen; Pengbo Mao; Yanghui Rao; Haoran Xie; Fu Lee Wang; Qing Li
-Hierarchical Indexing for Retrieval-Augmented Opinion Summarization**</br>Tom Hosking; Hao Tang; Mirella Lapata
+
+**Hierarchical Indexing for Retrieval-Augmented Opinion Summarization**</br>Tom Hosking; Hao Tang; Mirella Lapata
 
 **SPIRIT-LM: Interleaved Spoken and Written Language Model**</br>Tu Anh Nguyen; Benjamin Muller; Bokai Yu; Marta Costa-jussà; Maha Elbayadb; Sravya Popuri; Paul-Ambroise Duquenne; Robin Algayres; Ruslan Mavlyutov; Itai Gat; Gabriel Synnaeve; Juan Pino; Benoît Sagot; Emmanuel Dupoux; Christophe Ropers; Mary Williamson
 
