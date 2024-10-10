@@ -26,7 +26,7 @@ TBD
 
 | --- | EMNLP Main conference Long papers, all TACL and CL papers | EMNLP Main conference Short papers | Findings Long papers | Findings Short papers | Demo papers | Industry Track |
 | :-------- | :------: | :------: | :------: | :------: | :------: | :------: |
-| Pre-recorded video | REQUIRED: 10 minutes | REQUIRED: 5 minutes | REQUIRED: 10 minutes (only if you are presenting) | REQUIRED: 5 minutes (only if you are presenting) | REQUIRED: 2 minutes | RECOMMENDED: 6 minutes |
+| Pre-recorded video | REQUIRED: 10 minutes | REQUIRED: 5 minutes | REQUIRED: 10 minutes (only if you are presenting) | REQUIRED: 5 minutes (only if you are presenting) | REQUIRED: 2 minutes | OPTIONAL: 6 minutes |
 | Poster PDF | REQUIRED | REQUIRED | REQUIRED (only if you are presenting) | REQUIRED (only if you are presenting) | REQUIRED | OPTIONAL |
 | Slides | REQUIRED | REQUIRED | REQUIRED (only if you are presenting) | REQUIRED (only if you are presenting) | REQUIRED | OPTIONAL |
 
