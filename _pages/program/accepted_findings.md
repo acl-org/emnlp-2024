@@ -999,8 +999,6 @@ sidebar:
 
 **GraphReader: Building Graph-based Agent to Enhance Long-Context Abilities of Large Language Models**<br/>Shilong Li, Yancheng He, Hangyu Guo, Xingyuan Bu, Ge Bai, Jie Liu, Jiaheng Liu, Xingwei Qu, Yangguang Li, Wanli Ouyang, Wenbo Su, Bo Zheng
 
-**Advancing Cross-Lingual Spoken Language Understanding through Multi-task Learning and Mixed Scheduled Sampling**<br/>Xuxin Cheng, Zhihong Zhu, Xianwei Zhuang, Wanshi Xu, Zhiqi Huang, Yuexian Zou
-
 **Improving Demonstration Diversity by Human-Free Fusing for Text-to-SQL**<br/>Dingzirui Wang, Longxu Dou, Xuanliang Zhang, Qingfu Zhu, Wanxiang Che
 
 **Compare without Despair: Reliable Preference Evaluation with Generation Separability**<br/>Sayan Ghosh, Tejas Srinivasan, Swabha Swayamdipta
