@@ -1,7 +1,7 @@
 ---
 title: Main Conference
 layout: single
-excerpt: "The Accepted Main Conference Papers of EMNLP 2023"
+excerpt: "The Accepted Main Conference Papers of EMNLP 2024"
 permalink: /program/accepted_main_conference/
 toc: true
 toc_sticky: true
@@ -740,8 +740,6 @@ sidebar:
 **ChatGPT Doesn’t Trust LA Chargers Fans: Guardrail Sensitivity in Context**<br/>Victoria R Li, Yida Chen, Naomi Saphra
 
 **Personas as a Way to Model Truthfulness in Language Models**<br/>Nitish Joshi, Javier Rando, Abulhair Saparov, Najoung Kim, He He
-
-**Advancing End-to-End Spoken Language Understanding with the Power of Large Language Models**<br/>Xuxin Cheng, Zhihong Zhu, Zhanpeng Chen, Xianwei Zhuang, Zhiqi Huang, Yuexian Zou
 
 **Satyrn: A Platform for Analytics Augmented Generation**<br/>Marko Sterbentz, Cameron Barrie, Shubham Shahi, Abhratanu Dutta, Donna Hooshmand, Harper Pack, Kristian J Hammond
 
