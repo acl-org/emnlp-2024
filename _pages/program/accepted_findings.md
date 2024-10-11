@@ -1,7 +1,7 @@
 ---
 title: Findings
 layout: single
-excerpt: "The Accepted Findings of EMNLP 2023"
+excerpt: "The Accepted Findings of EMNLP 2024"
 permalink: /program/accepted_findings/
 toc: true
 toc_sticky: true
@@ -412,8 +412,6 @@ sidebar:
 **HoLLMwood: Unleashing the Creativity of Large Language Models in Screenwriting via Role Playing**<br/>Jing Chen, Xinyu Zhu, Cheng Yang, Chufan Shi, Yadong Xi, Yuxiang Zhang, Junjie Wang, Jiashu Pu, Rongsheng Zhang, Yujiu Yang, Tian Feng
 
 **General Collaborative Framework between Large Language Model and Experts for Universal Information Extraction**<br/>K Bao, Ning Wang
-
-**Advancing Cross-Lingual Entity Alignment with Large Language Models: Tailored Sample Segmentation and Zero-Shot Prompts**<br/>Linyan Yang, Jingwei Cheng, Fu Zhang
 
 **Causal Discovery Inspired Unsupervised Domain Adaptation for Emotion-Cause Pair Extraction**<br/>YUNCHENG HUA, Yujin Huang, Shuo Huang, Tao Feng, Lizhen Qu, Christopher Bain, Richard Bassed, Reza Haf
 
