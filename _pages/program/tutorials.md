@@ -11,7 +11,7 @@ sidebar:
 ---
 
 1. **Reasoning with Natural Language Explanations.** Marco Valentino and André Freitas.
-2. **Countering Hateful and Offensive Speech Online - Open Challenges.** Leon Derczynski, Marco Guerini, Debora Nozza, Flor Miriam Plaza-del-Arco, Jeffrey Sorensen and Marcos Zampieri.
+2. **Countering Hateful and Offensive Speech Online - Open Challenges.** Flor Miriam Plaza-del-Arco, Debora Nozza, Marco Guerini, Jeffrey Sorensen and Marcos Zampieri.
 3. **Human-Centered Evaluation of Language Technologies.** Su Lin Blodgett, Jackie Chi Kit Cheung, Vera Liao and Ziang Xiao.
 4. **AI for Science in the Era of Large Language Models.** Zhenyu Bi, Minghao Xu, Jian Tang and Xuan Wang.
 5. **Language Agents: Foundations, Prospects, and Risks.** Yu Su, Diyi Yang, Shunyu Yao and Tao Yu.
