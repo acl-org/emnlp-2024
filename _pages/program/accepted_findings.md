@@ -945,8 +945,6 @@ sidebar:
 
 **NCPrompt: NSP-Based Prompt Learning and Contrastive Learning for Implicit Discourse Relation Recognition**<br/>Yuetong Rong, Yijun Mo
 
-**PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion**<br/>Zekai Zhang, Yiduo Guo, Yaobo Liang, Dongyan Zhao, Nan Duan
-
 **Efficient Pointwise-Pairwise Learning-to-Rank for News Recommendation**<br/>Nithish Kannen, Yao Ma, Gerrit J.J. Van den Burg, Jean Baptiste Faddoul
 
 **Fast Matrix Multiplications for Lookup Table-Quantized LLMs**<br/>Han Guo, William Brandon, Radostin Cholakov, Jonathan Ragan-Kelley, Eric P. Xing, Yoon Kim
