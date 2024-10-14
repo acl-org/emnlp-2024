@@ -661,8 +661,6 @@ sidebar:
 
 **From Coarse to Fine: Impacts of Feature-Preserving and Feature-Compressing Connectors on Perception in Multimodal Models**<br/>Junyan Lin, Haoran Chen, Dawei Zhu, Xiaoyu Shen
 
-**Optimizing Multi-Task Continual Fine-Tuning in LoRA through Dataless Distribution Distillation**<br/>Zhenxing Wang
-
 **What is ''Typological Diversity'' in NLP?**<br/>Esther Ploeger, Wessel Poelman, Miryam de Lhoneux, Johannes Bjerva
 
 **The Computational Anatomy of Humility: Modeling Intellectual Humility in Online Public Discourse**<br/>Xiaobo Guo, Neil Potnis, Melody Yu, Nabeel Gillani, Soroush Vosoughi
