@@ -59,6 +59,9 @@ platinum:
   image_path: /assets/images/logos/tolokaai-logo.png
   alt: Toloka AI
   title: Toloka AI
+- url: https://intuit.com/
+  image_path: /assets/images/logos/intuit-logo.png
+  alt: Intuit
 gold:
 - url: https://www.mlp.com/people/technology/
   image_path: /assets/images/logos/millenium-logo.png
