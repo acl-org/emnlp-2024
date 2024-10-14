@@ -667,8 +667,6 @@ sidebar:
 
 **C-ICL: Contrastive In-context Learning for Information Extraction**<br/>Ying Mo, Jiahao Liu, Jian Yang, Qifan Wang, Shun Zhang, Jingang Wang, Zhoujun Li
 
-**PPTC-R benchmark: Towards Evaluating the Robustness of Large Language Models for PowerPoint Task Completion**<br/>Zekai Zhang
-
 **On the Similarity of Circuits across Languages: a Case Study on the Subject-verb Agreement Task**<br/>Javier Ferrando, Marta R. Costa-jussà
 
 **Can LLM be a Personalized Judge?**<br/>Yijiang River Dong, Tiancheng Hu, Nigel Collier
