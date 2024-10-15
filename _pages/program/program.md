@@ -36,6 +36,27 @@ Program Updates
   - 10:30 - 11:00		Coffee Break
   - 15:30 - 16:00		Coffee Break
 
+## EMNLP 2024 Acceptance Rate
+
+We are happy to announce the list of papers accepted to EMNLP 2024 Main Conference and Findings! In total, there are 1271 papers accepted to the Main Conference and 1029 papers accepted to Findings. The acceptance rate for Main Conference papers is 20.8%. For more details, read on.
+
+The acceptance rate calculation follows precedent set by previous conferences that also go through ACL Rolling Review (ARR), e.g. NAACL 2024, ACL 2024. The calculation takes into account the multi-stage process of ARR where a paper may get revised in ARR and then later committed to the conference. The denominator includes:
+
+- Papers in the ARR April/June 2024 cycle that selected EMNLP (or including EMNLP): 526
+- Papers in the ARR April/June 2024 cycle that did not select a preferred venue: 5797
+- Papers in the ARR April/June 2024 cycle that selected another conference, but then committed to EMNLP 2024: 7
+- Papers in the ARR cycles before April 2024 that committed to EMNLP 202: 65
+
+Among these submissions, 70 were withdrawn before they received 3 reviews and 220 were desk-rejected. In total, the denominator for acceptance rate calculation is 6395 - 70 - 220 = 6105.
+
+The acceptance rate for Main Conference papers is therefore: 1271 / 6105 = 20.8%. The final Main Conference proceedings will include 1125 long papers and 143 short papers (3 papers withdrawn after the acceptance decision).
+
+Findings papers are those which are not accepted at the Main Conference, but nevertheless have been judged worthy of publication as “solid work with sufficient substance, quality and novelty” (see EMNLP2020 blogpost). The next 1029 / 6105 = 16.86% of papers were accepted to EMNLP Findings. The final Findings proceedings will include 874 long papers and 129 short papers (26 papers withdrawn after the acceptance decision).
+
+Program Chairs
+
+Yaser Al-Onaizan, Mohit Bansal, Yun-Nung (Vivian) Chen
+
 <!-- [Conference Handbook](/downloads/EMNLP-2023-Handbook-Dec-06.pdf)
 {: .text-center .notice--success}
 
