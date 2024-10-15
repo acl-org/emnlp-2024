@@ -26,7 +26,7 @@ Accepted Papers
 
 (Paper ID: 48) **Don't Shoot The Breeze: Topic Continuity Model Using Nonlinear Naive Bayes With Attention** <br/>Shu-Ting Pi, Pradeep Bagavan, Yejia Li, Disha, Qun Liu
 
-(Paper ID: 52) **Informing Speller Service of New Brands: A RAG Approach** <br/>Xuan Guo, Rohit Patki, Dante Everaert, Christopher Potts
+(Paper ID: 52) **Retrieval Augmented Spelling Correction for E-Commerce Applications** <br/>Xuan Guo, Rohit Patki, Dante Everaert, Christopher Potts
 
 (Paper ID: 53) **Scaling Parameter-Constrained Language Models with Quality Data** <br/>Ernie Chang, Matteo Paltenghi, Yang Li, Pin-Jie Lin, Changsheng Zhao, Patrick Huber, Zechun Liu, Rastislav Rabatin, Yangyang Shi, Vikas Chandra
 
@@ -84,7 +84,7 @@ Accepted Papers
 
 (Paper ID: 127) **Prompt-Tuned Muti-Task Taxonomic Transformer (PTMTTaxoFormer)** <br/>Rajashekar Vasantha, Nhan Nguyen, Yue Zhang
 
-(Paper ID: 129) **MergeKit: A Toolkit for Merging Large Language Models** <br/>Charles Goddard, Shamane Siriwardhana, Malikeh Ehghaghi, Luke Meyers, Vladimir Karpukhin, Brian Benedict, Mark Mcquade, Jacob Solawetz
+(Paper ID: 129) **Arcee's MergeKit: A Toolkit for Merging Large Language Models** <br/>Charles Goddard, Shamane Siriwardhana, Malikeh Ehghaghi, Luke Meyers, Vladimir Karpukhin, Brian Benedict, Mark Mcquade, Jacob Solawetz
 
 (Paper ID: 130) **Personal Large Language Model Agents: A Case Study on Tailored Travel Planning** <br/>Harmanpreet Singh, Nikhil Verma, Yixiao Wang, Manasa Bharadwaj, Homa Fashandi, Kevin Ferreira, Chul Lee
 
