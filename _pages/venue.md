@@ -19,7 +19,10 @@ Miami, FL 33131-2197
 EMNLP is committed to fair participation of all people. In particular, all attendees are welcome to use the venue restrooms that align with their gender. There will be gender neutral stalls available.
 
 ### Discounted Accommodations
-Host Conference Hotel 
+
+**Update (2024/10/16): Please note the host hotel is currently sold out. You may check back to see if availability opens due to cancelations. However if you scroll down a bit we have other options for you such as: SpringHill Suites Miami Downtown/Medical Center, Aloft Miami - Brickell and AC Hotel Miami Brickell. **
+
+**Host Conference Hotel**
 
 [Hyatt Regency Miami](https://www.hyatt.com/hyatt-regency/en-US/miarm-hyatt-regency-miami) 
 
@@ -40,6 +43,57 @@ Rate: $230.00 USD a night 1-2 ppl
 Click on the link, select arrival, departure date, number of people, room type and secure your room before they sell out. ·  
 
 *Book by: 21 October, 2024 for discounted EMNLP Rate*
+
+**Student Blocks**
+
+Please note the dates are from Sunday the 10 – 15th. Attendees will need to book rooms outside of these dates on a separate reservation.
+
+Please make sure to check availability & Pricing before booking.
+Click on the date in the group booking link to see nights still available in the block.
+Click hotel link to check available nights and rates outside the block.
+Book nights outside the block then book nights in the discounted block.
+My apologies for the extra work. The hotel was unable to offer the nights of the 15th & 16th.
+You can contact the hotel for assistance.
+
+**Other discounted hotels**
+
+**SpringHill Suites Miami Downtown/Medical Center for 139.00 USD per night** 
+
+Last Day to Book: Friday, October 25, 2024
+
+2 miles from EMNLP 24 Venue
+
+Address: 1311 NW 10th Ave, Miami, FL 33136
+
+Phone: (305) 575-5300
+
+[SpringHill Suites Miami Downtown Discounted Group Rate](https://www.marriott.com/event-reservations/reservation-link.mi?id=1728057870750&key=GRP&guestreslink2=true)
+
+**Aloft Miami - Brickell for 159.00 USD per night** 
+
+Last Day to Book: Tuesday, October 26, 2024
+
+1 mile from EMNLP 24 Venue
+
+Address: 1001 SW 2nd Ave, Miami, FL 33130
+
+Phone: (305) 854-6300
+
+[Aloft Miami Brickell Discounted Group Rate](https://www.marriott.com/event-reservations/reservation-link.mi?id=1728329423610&key=GRP&guestreslink2=true)
+
+**AC Hotel Miami Brickell - $189 a night**
+
+Last Day to Book: Tuesday, October 20, 2024
+
+1 mile from EMNLP 24 Venue
+
+Address: 115 SW 8th St, Miami, FL 33130
+
+Phone: (786) 628-1500
+
+[AC Hotel Miami Brickell Discounted Group Rate](https://www.marriott.com/event-reservations/reservation-link.mi?id=1728323223619&key=GRP&guestreslink2=true)
+
+**We also recommend the following (click links as they are primed with appropriate search queries): [Booking.com](https://www.booking.com/searchresults.html?ss=Downtown+Miami%2C+Miami%2C+Florida%2C+United+States&map=1&efdco=1&label=gen173nr-1FCAEoggI46AdIM1gEaLACiAEBmAExuAEHyAEM2AEB6AEB-AECiAIBqAIDuAKjmr-4BsACAdICJDcyZDBiNzk3LTdlYjQtNGZjMy1hZTk1LWUzNjYyZTdhMmZiNNgCBeACAQ&aid=304142&lang=en-us&sb=1&src_elem=sb&src=index&dest_id=2635&dest_type=district&ac_position=0&ac_click_type=b&ac_langcode=en&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=52526591f4ec0147&ac_meta=GhA1MjUyNjU5MWY0ZWMwMTQ3IAAoATICZW46DkRvd250b3duIE1pYW1pQABKAFAA&checkin=2024-11-11&checkout=2024-11-17&group_adults=2&no_rooms=1&group_children=0#map_opened), [Kayak.com](https://www.kayak.com/hotels/Miami,Florida,United-States-p53912/2024-11-11/2024-11-17/2adults;map?sort=rank_a&fs=location%3D-1mi__James+L.+Knight+Center%2C+Miami%2C+Florida%2C+United+States__25.77098%2C-80.19112%3Bmbounds%3D25.790167922758346%2C-80.187303751164%2C25.79266902653915%2C-80.18462339938459), [Airbnb.com](https://www.airbnb.com/s/James-L.-Knight-Center--Southeast-2nd-Avenue--Miami--FL--USA/homes?tab_id=home_tab&refinement_paths%5B%5D=%2Fhomes&flexible_trip_lengths%5B%5D=one_week&monthly_start_date=2024-11-01&monthly_length=3&monthly_end_date=2025-02-01&price_filter_input_type=0&channel=EXPLORE&query=James%20L.%20Knight%20Center%2C%20Miami%2C%20FL&place_id=ChIJ52G3Ap222YgRkSG7OUEgtqE&location_bb=Qc4uXMKgYVBBzijVwqBisg%3D%3D&date_picker_type=calendar&checkin=2024-11-11&checkout=2024-11-17&source=structured_search_input_header&search_type=autocomplete_click).
 
 ## Travel to Venue
 
