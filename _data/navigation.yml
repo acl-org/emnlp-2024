@@ -61,14 +61,14 @@ program:
     children:
        - title: "Conference Overview"
          url: /program/
+       - title: "Keynotes"
+         url: /program/keynotes/
        - title: "Workshops"
          url: /program/workshops/
        - title: "Tutorials"
          url: /program/tutorials/
-  - title: Events
-     children:
-       - title: "Keynotes"
-         url: /program/keynotes/
+#  - title: Events
+#     children:
 #       - title: "Social Event"
 #         url: /program/social_event/
 #       - title: "Panel"
@@ -118,7 +118,7 @@ program:
 #         url: /program/accepted/
 #       - title: "Accepted Papers in the Findings"
         # url: /program/accepted-findings/
-  # - title: ACCEPTED PAPERS
+  # - title: Accepted Papers
   #  children:
       # - title: "Accepted Papers in the Main Conference"
       #   url: /program/accepted/
