@@ -45,7 +45,7 @@ Click on the link, select arrival, departure date, number of people, room type a
 
 ### Airports
 
-The closest international airport is Miami International Airport: MIA Distance 9 miles (14.48 kilometers). The conference hotel is about a 20 minute / $40 cab ride from MIA. 
+The closest international airport is Miami International Airport: MIA Distance 9 miles (14.48 kilometers). The conference hotel is about a 20 minute / $40 cab ride from MIA. The next closest international airport is Fort Lauderdale International Airport (FLL). It is about a 25 miles (40 km) from the conference venue, which is about a 45 minute / $70 taxi ride.
 
 ### Transportation from MIA
 
