@@ -65,10 +65,10 @@ program:
          url: /program/workshops/
        - title: "Tutorials"
          url: /program/tutorials/
-#   - title: Events
-#     children:
-#       - title: "Keynotes"
-#         url: /program/keynotes/
+  - title: Events
+     children:
+       - title: "Keynotes"
+         url: /program/keynotes/
 #       - title: "Social Event"
 #         url: /program/social_event/
 #       - title: "Panel"
