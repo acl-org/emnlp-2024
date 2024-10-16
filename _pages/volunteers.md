@@ -7,6 +7,8 @@ toc: false
 toc_sticky: false
 ---
 
+### Update (2024/10/16): The deadline for applications has passed and all the volunteers have been selected.
+
 ## Student Volunteer Program
 
 A limited number of student volunteers are needed for the success of EMNLP 2024. Please apply [here](https://forms.gle/2kVSJGP6NLuXMgnv7)
