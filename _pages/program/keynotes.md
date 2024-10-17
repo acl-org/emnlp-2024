@@ -16,7 +16,7 @@ We are delighted to announce that the esteemed speakers listed below have gracio
 p.speaker-bio { font-style: italic; font-size: 80%; }
 </style>
 
-## Tuesday, November 12, James Knight Center, Time: 09:30 - 10:30: [Percy Liang](https://cs.stanford.edu/~pliang/bio.txt)
+## Tuesday, November 12, James Knight Center, Time: 09:30 - 10:30: [Percy Liang](https://cs.stanford.edu/~pliang)
 
 ![Gary Marcus](/assets/images/keynotes/Percy_Liang.jpg){: .align-center}
 
