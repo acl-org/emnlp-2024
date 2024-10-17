@@ -10,31 +10,236 @@ toc_sticky: true
 toc_icon: "cog"
 ---
 
-*** Under Construction ***
+## FULL SCHEDULE OF EVENTS
+ 
+### MONDAY, NOVEMBER 11th
+ 
+14:00 - 20:30 Registration - Hyatt Regency Miami Lobby (Riverfront Foyer)
+ 
+18:30 - 21:00 Welcome Reception (Terrace Level - Take lobby escalator down to Terrace Level )
+ 
+### TUESDAY, NOVEMBER 12th
+ 
+7:30 - 16:30 Registration - Hyatt Regency Miami Lobby (Riverfront Foyer)
+ 
+09:00 - 09:30 Session 1: Opening Session – (James Knight Center 2nd level Convention Center)
 
-Program Updates
-- Monday, November 11 - Welcome Reception
-  - 18:30 - 21:00		Welcome Reception
-- Tuesday, November 12 - Main Conference
-  - 07:30 - 16:00		Registration
-  - 09:00 - 17:30		Day 1 Main Sessions
-- Wednesday, November 13 - Main Conference
-  - 08:30 - 16:00		Registration
-  - 09:00 - 17:30		Day 2 Main Sessions
-  - 19:00 - 22:30		Social Event - Dinner
-- Thursday, November 14 - Main Conference
-  - 08:30 - 16:00		Registration
-  - 09:00 - 17:00		Day 3 Main Sessions
-- Friday, November 15 - Workshop/Tutorial Day
-  - 08:00 - 16:00		Registration
-- Please see [workshop](/program/workshops)/[tutorial](/program/tutorials) for detail schedule
-  - 10:30 - 11:00		Coffee Break
-  - 15:30 - 16:00		Coffee Break
-- Saturday, November 16 - Workshop/Tutorial Day
-  - 08:00 - 16:00		Registration
-- Please see [workshop](/program/workshops)/[tutorial](/program/tutorials) for detail schedule
-  - 10:30 - 11:00		Coffee Break
-  - 15:30 - 16:00		Coffee Break
+09:30 - 10:30: Session 1: Invited Speaker - Percy Liang - James Knight Center
+
+Title: Open-Source and Science in the Era of Foundation Models
+ 
+10:30 - 11:00: Break - Riverfront Hall (Lobby Level of James Knight Convention Center)
+ 
+11:00 - 12:30: Session 2 Oral’s/Poster’s/Demo’s Session A
+
+Poster Presentation Tracks & Demos
+
+Riverfront Hall – Lobby Level
+-  Generation
+-  NLP Applications
+-  Information Retrieval
+-  Linguistic Theories
+-  All Demos located in Riverfront Hall
+
+Jasmine – Lower Terrace Level
+-  Multimodality
+-  Industrial
+ 
+Oral Presentations:
+-  Language Modeling 1 – (Ashe Auditorium 2nd Floor Convention Level)
+-  Interpretability and Analysis of Models for NLP 1 (Brickell Lower Terrace Level)
+-  Low-resource Methods for NLP (Flagler Lower Terrace Level)
+-  Human-centered NLP (Monroe Lower Terrace Level)
+-  Machine Translation (Tuttle Lower Terrace Level)
+ 
+12:30 - 14:00: Lunch Break
+ 
+14:00 - 15:30: Session 3: Oral’s/Poster’s/Demo’s Session B
+
+Poster Presentation Tracks & Demos
+
+Riverfront Hall – Lobby Level
+-  Language Modeling
+-  Ethics
+-  Multilinguality
+-  Discourse + Phonology + Syntax
+-  All Demos located in Riverfront Hall
+
+Jasmine – Lower Terrace Level
+-  Interpretability
+-  Machine Learning for NLP
+ 
+Oral Presentations:
+-  Generation and Summarization (Ashe Auditorium 2nd Floor Convention Level)
+-  Dialogue and Interactive Systems (Brickell Lower Terrace Level)
+-  Computational Social Science and Cultural Analytics 1 (Flagler Lower Terrace Level)
+-  Special Theme: Efficiency in Model Algorithms, Training, and Inference (Monroe Lower Terrace Level)
+-  Resources and Evaluation 1 (Tuttle Lower Terrace Level)
+ 
+15:30 - 16:00: Break - Riverfront Hall (Lobby Level of James Knight Convention Center)
+ 
+16:00 - 17:00: Session 4: Oral’s/Poster’s/Demo’s Session C
+
+Poster Presentation Tracks & Demos
+
+Riverfront Hall – Lobby Level
+-  Resources and Eval –
+-  Question Answering -
+-  Computational Social Science -
+-  Machine Translations
+-  All Demos located in Riverfront Hall
+
+Jasmine – Lower Terrace Level
+-  Special Theme: Efficiency –
+-  Sentiment Analysis –
+-  Summarization
+ 
+Oral Presentations:
+-  Ethics, Bias, and Fairness 1 (Ashe Auditorium 2nd Floor Convention Level)
+-  Information Retrieval and Text Mining (Brickell Lower Terrace Level)
+-  Multimodality and Language Grounding to Vision, Robotics and Beyond 1    (Flagler Lower Terrace Level)
+-  Linguistic Theories, Cognitive Modeling and Psycholinguistics Monroe:
+-  Industrial 1 (Tuttle Lower Terrace Level)
+ 
+17:45 - 18:45: Virtual Poster Session 1
+ 
+### WEDNESDAY, NOVEMBER 13th
+ 
+07:45 - 08:45: Virtual Poster Session 2
+ 
+8:30 - 16:30 Registration - Hyatt Regency Miami (Lobby Riverfront Foyer)
+ 
+09:00 - 10:00: Session 5 Invited Speaker - Anca Dragan - James Knight Center
+
+Title: My Journey in AI Safety and Alignment
+ 
+10:00 - 10:30: Break - Riverfront Hall (Lobby Level of James Knight Convention Center)
+ 
+10:30 - 12:00: Session 6 Oral’s/Poster’s/Demo’s Session D
+
+Poster Presentation Tracks & Demos
+
+Riverfront Hall – Lobby Level
+-  Human-centered NLP
+-  Resources and Eval
+-  Speech Processing
+-  NLP Applications
+
+Jasmine – Lower Terrace Level
+-  Low-resource
+-  Interpretability
+ 
+Oral Presentations:
+-  Multimodality and Language Grounding to Vision, Robotics and Beyond (Ashe Auditorium 2nd Floor Convention Level)
+-  Ethics, Bias, and Fairness (Brickell Lower Terrace Level)
+-  Discourse, Phonology, and Syntax (Flagler Lower Terrace Level)
+-  Question Answering (Monroe Lower Terrace Level)
+-  Industrial 2 (Tuttle Lower Terrace Level)
+ 
+12:00 - 14:00: Lunch Break
+ 
+13:30 - 14:15: Session 7 Business Meeting All Attendees Welcome
+ 
+14:30 - 15:30: Session 8 Panel (see online schedule for details)
+ 
+15:30 - 16:00: Break - Riverfront Hall (Lobby Level of James Knight Convention Center)
+ 
+16:00 - 17:30: Session 9 Oral’s/Poster’s/Demo’s Session E
+
+Poster Presentation Tracks & Demos
+
+Riverfront Hall – Lobby Level
+-  Dialogue
+-  Multimodality
+-  Semantics
+-  Information Retrieval
+-  Industrial
+
+Jasmine – Lower Terrace Level
+- Language Modeling
+-  Question Answering
+-  TACL + CL
+ 
+Oral Presentations:
+-  Ashe Auditorium: Resources and Evaluation (Ashe Auditorium 2nd Floor Convention Level)
+-  Interpretability and Analysis of Models for NLP 2 (Brickell Lower Terrace Level)
+-  NLP Applications (Flagler Lower Terrace Level)
+-  Information Extraction (Monroe Lower Terrace Level)
+-  Machine Learning for NLP (Tuttle Lower Terrace Level)
+ 
+### THURSDAY, NOVEMBER 14th
+ 
+8:30 - 16:30 Registration - Hyatt Regency Miami Lobby (Riverfront Foyer)
+ 
+09:00 - 10:00: Session 10 Invited Speaker - Tom Griffiths - James Knight Center
+
+Title: “Bayes in the age of intelligent machines”
+ 
+10:00 - 10:30: Break - Riverfront Hall (Lobby Level of James Knight Convention Center)
+ 
+10:30 - 12:00: Session 11: Oral’s/Poster’s/Demo’s Session F
+
+Poster Presentation Tracks & Demos
+
+Riverfront Hall – Lobby Level
+-  Generation
+-  Machine Learning for NLP
+-  Special Theme: Efficiency - Resources and Eval
+
+Jasmine – Lower Terrace Level
+-  Interpretability
+-  Ethics
+ 
+Oral Presentations:
+-  NLP Applications (Ashe Auditorium 2nd Floor Convention Level)
+-  Computational Social Science and Cultural Analytics (Brickell Lower Terrace Level)
+-  Sentiment and Semantics (Flagler Lower Terrace Level)
+-  Language Modeling (Monroe Lower Terrace Level)
+-  Multilinguality and Language Diversity (Tuttle Lower Terrace Level)
+ 
+12:00 - 13:00: Lunch Break
+ 
+13:00 - 14:00: Virtual Poster Session
+ 
+14:00 - 15:30: Session 12 Oral’s/Poster’s/Demo’s Session G
+
+Poster Presentation Tracks & Demos
+
+Riverfront Hall – Lobby Level
+-  Dialogue
+-  NLP Applications
+-  Information Extraction
+-  Industrial
+
+Jasmine – Lower Terrace Level
+-  Computational Social Science
+-  Multimodality
+ 
+Oral Presentations:
+-  Interpretability and Analysis of Models for NLP (Ashe Auditorium 2nd Floor Convention Level)
+-  Speech Processing and Spoken Language Understanding (Brickell Lower Terrace Level)
+-  Resources and Evaluation (Flagler Lower Terrace Level)
+-  Generation (Monroe Lower Terrace Level)
+-  Machine Learning for NLP 2 (Tuttle Lower Terrace Level)
+ 
+15:30 - 16:00: Break - Riverfront Hall (Lobby Level of James Knight Convention Center)
+ 
+16:00 - 17:00 Session 13 Best Paper Awards – (James Knight Center 2nd Floor Convention Level)
+ 
+17:00 - 17:30 Session 13 Closing Session – (James Knight Center 2nd Floor Convention Level)
+ 
+### FRIDAY, NOVEMBER 15th
+ 
+8:00 - 16:30 Registration - Hyatt Regency Miami Lobby (Riverfront Foyer)
+ 
+SEE [WORKSHOP]((/program/workshops)) & [TUTORIAL](/program/tutorials) FOR DETAIL SCHEDULE
+ 
+### SATURDAY, NOVEMBER 16th
+ 
+8:00 - 16:30 Registration - Hyatt Regency Miami Lobby (Riverfront Foyer)
+ 
+SEE [WORKSHOP]((/program/workshops)) & [TUTORIAL](/program/tutorials) FOR DETAIL SCHEDULE
+
 
 ## EMNLP 2024 Acceptance Rate
 
