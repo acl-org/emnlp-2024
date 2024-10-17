@@ -234,8 +234,6 @@ Accepted Papers
 
 (Paper ID: 327) **FuxiTranyu: A Multilingual Large Language Model Trained with Balanced Data** <br/>Haoran Sun, Renren Jin, Shaoyang Xu, Leiyu Pan, Supryadi, Menglong Cui, Jiangcun Du, Yikun Lei, Lei Yang, Ling Shi, Juesi Xiao, Shaolin Zhu, Deyi Xiong
 
-(Paper ID: 330) **PAM-LoRA: Prompt-Aware Mixture of Low-Rank Adaptation for Large Language Model Fine-tuning** <br/>Wei Zhu, Jiawen Lyn, Yvette Graham, Dan Chen, Yi Zhao, Aaron Xuxiang Tian
-
 (Paper ID: 333) **QUIS: Question-guided Insights Generation for Automated Exploratory Data Analysis** <br/>Abhijit Manatkar, Ashlesha Akella, Parthivi Gupta, Krishnasuri Narayanam
 
 (Paper ID: 336) **PEARL: Preference Extraction with Exemplar Augmentation and Retrieval with LLM Agents** <br/>Vijit Malik, Akshay Jagatap, Vinayak S Puranik, Anirban Majumder
