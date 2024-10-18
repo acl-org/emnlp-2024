@@ -2012,3 +2012,5 @@ sidebar:
 **FaithScore: Fine-grained Evaluations of Hallucinations in Large Vision-Language Models**<br/>Liqiang Jing, Ruosen Li, Yunmo Chen, Xinya Du
 
 **Learning to Ask Informative Questions: Enhancing LLMs with Preference Optimization and Expected Information Gain**<br/>Davide Mazzaccara, Alberto Testoni, Raffaella Bernardi
+
+**Advancing Cross-Lingual Entity Alignment with Large Language Models: Tailored Sample Segmentation and Zero-Shot Prompts**<br/>Linyan Yang, Jingwei Cheng, Fu Zhang
