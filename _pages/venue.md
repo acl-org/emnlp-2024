@@ -133,7 +133,13 @@ The north and south terminals have single use/unisex restrooms; however, the fac
 
 ### General Parking Info
 
-Self Parking is also available in the downtown area at Miami Tower, 100 SE 2nd Street
+- Self Parking is also available in the downtown area at Miami Tower, 100 SE 2nd Street
+- 225 SE. 2nd St. Garage: Located 0.1 mi away and costs $15
+- 200 SE. 2nd St. Garage - P2531: Located 0.1 mi away and costs $25
+- 250 SE. 3rd Ave. Garage - P2530: Located 0.1 mi away and costs $25
+- 200 S. Biscayne Blvd. SE Financial Center Garage: Located 0.2 mi away and costs $20
+- 81 SE. 5th St. 444 Brickell Ave. Garage: Located 0.3 mi away and costs $20
+- 29 NW. 1st St. Cindy Lot: Located 0.3 mi away and costs $5
 
 ## Visa/Passport
 
