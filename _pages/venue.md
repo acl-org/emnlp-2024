@@ -131,6 +131,10 @@ The north and south terminals have single use/unisex restrooms; however, the fac
 - Self-parking: $53.00
 - Valet parking: Standard vehicles $53.00; Oversize vehicles: $78.00
 
+### General Parking Info
+
+Self Parking is also available in the downtown area at Miami Tower, 100 SE 2nd Street
+
 ## Visa/Passport
 
 The following questions will help you in determining whether and how to apply for a U.S. visa to attend the conference.
