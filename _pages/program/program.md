@@ -78,7 +78,7 @@ Oral Presentations:
  
 15:30 - 16:00: Break - Riverfront Hall (Lobby Level of James Knight Convention Center)
  
-16:00 - 17:00: Session 4: Oral’s/Poster’s/Demo’s Session C
+16:00 - 17:30: Session 4: Oral’s/Poster’s/Demo’s Session C
 
 Poster Presentation Tracks & Demos
 
