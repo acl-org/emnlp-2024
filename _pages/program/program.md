@@ -43,7 +43,7 @@ Riverfront Hall – Lobby Level
 
 Jasmine – Lower Terrace Level
 -  Multimodality
--  Industrial
+-  Industry
  
 Oral Presentations:
 -  Language Modeling 1 – (Ashe Auditorium 2nd Floor Convention Level)
@@ -99,7 +99,7 @@ Oral Presentations:
 -  Information Retrieval and Text Mining (Brickell Lower Terrace Level)
 -  Multimodality and Language Grounding to Vision, Robotics and Beyond 1    (Flagler Lower Terrace Level)
 -  Linguistic Theories, Cognitive Modeling and Psycholinguistics Monroe:
--  Industrial 1 (Tuttle Lower Terrace Level)
+-  Industry 1 (Tuttle Lower Terrace Level)
  
 17:45 - 18:45: Virtual Poster Session 1
  
@@ -134,7 +134,7 @@ Oral Presentations:
 -  Ethics, Bias, and Fairness (Brickell Lower Terrace Level)
 -  Discourse, Phonology, and Syntax (Flagler Lower Terrace Level)
 -  Question Answering (Monroe Lower Terrace Level)
--  Industrial 2 (Tuttle Lower Terrace Level)
+-  Industry 2 (Tuttle Lower Terrace Level)
  
 12:00 - 14:00: Lunch Break
  
@@ -153,7 +153,7 @@ Riverfront Hall – Lobby Level
 -  Multimodality
 -  Semantics
 -  Information Retrieval
--  Industrial
+-  Industry
 
 Jasmine – Lower Terrace Level
 - Language Modeling
@@ -209,7 +209,7 @@ Riverfront Hall – Lobby Level
 -  Dialogue
 -  NLP Applications
 -  Information Extraction
--  Industrial
+-  Industry
 
 Jasmine – Lower Terrace Level
 -  Computational Social Science
