@@ -435,7 +435,7 @@ sidebar:
 
 **Is GPT-4V (ision) All You Need for Automating Academic Data Visualization? Exploring Vision-Language Models' Capability in Reproducing Academic Charts**<br/>Zhehao Zhang, Weicheng Ma, Soroush Vosoughi
 
-**Financial Forecasting from Textual and Tabular Time Series**<br/>Ross Koval
+**Financial Forecasting from Textual and Tabular Time Series**<br/>Ross Koval, Nicholas Andrews, Xifeng Yan
 
 **Learning to Ask Denotative and Connotative Questions for Knowledge-based VQA**<br/>Xiaoying Xing, Peixi Xiong, Lei Fan, Yunxuan Li, Ying Wu
 
