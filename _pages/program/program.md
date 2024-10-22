@@ -199,7 +199,7 @@ Oral Presentations:
  
 12:00 - 13:00: Lunch Break
  
-13:00 - 14:00: Virtual Poster Session
+13:00 - 14:00: Virtual Poster Session 3
  
 14:00 - 15:30: Session 12 Oral’s/Poster’s/Demo’s Session G
 
