@@ -166,6 +166,8 @@ Oral Presentations:
 -  NLP Applications (Flagler Lower Terrace Level)
 -  Information Extraction (Monroe Lower Terrace Level)
 -  Machine Learning for NLP (Tuttle Lower Terrace Level)
+
+19:00 - 22:15 Social Event Gala Dinner - Frost Science Museum
  
 ### THURSDAY, NOVEMBER 14th
  
