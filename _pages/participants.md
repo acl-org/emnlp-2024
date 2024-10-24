@@ -17,7 +17,8 @@ TBD
 
 * If your paper has been accepted to the main conference (oral, poster, TACL/CL), you are required to submit a pre-recorded video presentation, a poster PDF and presentation slides
 * If your paper has been accepted to Findings, you are not required to present at the Conference
-* If you still plan to present your Findings paper at the conference, you are required to submit to Underline Findings papers that are not presented at the Conference will appear in the ACL Anthology regardless
+* If you still plan to present your Findings paper at the conference, you are required to submit to Underline
+* Findings papers that are not presented at the Conference will appear in the ACL Anthology regardless
 * If you are presenting a demo or an industry track paper, please see the requirements on slide 3
 * The physical poster size is A0 portrait
 * All pre-recorded presentations, posters and slides must be uploaded to Underline by ~~Oct 22, 2024~~ <span style="color:red">**(extended to) Oct 27, 2024**</span> through a Speaker Form detailed on slide 4.
