@@ -94,15 +94,25 @@ Yes. If your visa application is denied, or is delayed past the conference dates
 
 ## Poster Printing Options
 
-Vista South Convention Services - Deadline for submitting print order is Monday, October 28, 2024. See [order form](https://2024.emnlp.org/assets/images/poster_form.pdf) for details.
+### Poster Delivery Services
 
-Poster delivery service is available only through Vista South Convention Services. Pick up services are available through Fed Ex Office Print & Ship Center and The UPS Store.
+Vista South Convention Services –
+
+See order [form](https://2024.emnlp.org/assets/images/poster_form.pdf) for details.
+
+Deadline for submitting print order is Monday, October 28, 2024.
+
+Email order forms to [Elizabeth Torres](mailto:etorres@vistasouthcs.com) and [Isabou Manrique](mailto:imanrique@vistasouthcs.com). 
+
+
+
+### Pick up services are available through
 
 [FedEx Office Print & Ship Center](https://local.fedex.com/en-us/fl/miami/office-1706)
 
 Miami FL S Miami Ave
 
-Address: 901 S Miami Ave , Miami , FL , 33130
+Address: 901 S Miami Ave, Miami, FL, 33130
 
 Phone: 3053745081
 
