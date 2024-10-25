@@ -39,7 +39,7 @@ W7. **[Workshop on Text Simplification, Accessibility and Readability](https://t
 * Date: Fri, Nov 15
 
 W8. **[The Eighth Widening NLP Workshop (WiNLP 2024)](https://www.winlp.org/winlp-2024-workshop/)** 
-* Organizers: Atnafu Lambebo Tonja, Mukund Rungta, Shaily Bhatt, Weijia Xu, Sunipa Dev, Bonaventure F. P. Dossou, Isidora Chara Tourni and Alfredo Gomez
+* Organizers: Atnafu Lambebo Tonja, Alfredo Gomez, Chanjun Park, Hellina Hailu Nigatu, Santosh T.Y.S.S., Tanvi Anand and Wiem Ben Rim
 * Date: Fri, Nov 15
 
 W9. **[CoNLL 2024](https://conll.org/)** 
