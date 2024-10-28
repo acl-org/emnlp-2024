@@ -80,7 +80,7 @@ Accepted Papers
 
 (Paper ID: 120) **FastAdaSP: Multitask-Adapted Efficient Inference for Large Speech Language Model** <br/>Yichen Lu, Jiaqi Song, Chao-Han Huck Yang, Shinji Watanabe
 
-(Paper ID: 125) **PolyRouter: A Multi-LLM Querying System** <br/>Dimitris Stripelis, Zhaozhuo Xu, Zijian Hu, Alay Dilipbhai Shah, Han Jin, Yuhang Yao, Jipeng Zhang, Tong Zhang, Salman Avestimehr, Chaoyang He
+(Paper ID: 125) **TensorOpera Router: A Multi-Model Router for Efficient LLM Inference** <br/>Dimitris Stripelis, Zhaozhuo Xu, Zijian Hu, Alay Dilipbhai Shah, Han Jin, Yuhang Yao, Jipeng Zhang, Tong Zhang, Salman Avestimehr, Chaoyang He
 
 (Paper ID: 127) **Prompt-Tuned Muti-Task Taxonomic Transformer (PTMTTaxoFormer)** <br/>Rajashekar Vasantha, Nhan Nguyen, Yue Zhang
 
