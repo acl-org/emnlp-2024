@@ -11,7 +11,9 @@ sidebar:
 
   
 ## Registration is open
- 
+
+**Important note: All times are EST**
+
 ### Registration Dates
 
 - Early Registration: September 9–October 21
