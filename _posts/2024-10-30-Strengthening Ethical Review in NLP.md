@@ -1,5 +1,5 @@
 # Insights, Best Practices, Resources and Paths Forward
-Luciana Benotti, Snigdha Chaturvedi, Sunipa Dev
+by Luciana Benotti, Snigdha Chaturvedi, Sunipa Dev
 
 ## Summary
 This text offers practical guidance and highlights valuable resources, such as tutorials and guidelines, designed to help *CL authors and reviewers navigate ethical questions with greater clarity and responsibility. As EMNLP 2024 ethics chairs we highlight the lessons learned and advice for future review cycles.
