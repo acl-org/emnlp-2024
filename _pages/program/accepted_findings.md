@@ -325,7 +325,7 @@ sidebar:
 
 **Enabling Discriminative Reasoning in LLMs for Legal Judgment Prediction**<br/>Chenlong Deng, Kelong Mao, Yuyao Zhang, Zhicheng Dou
 
-**The Daunting Dilemma with Sentence Encoders: Glowing on Standard Benchmarks, Struggling with Capturing Basic Semantic Properties**<br/>Yash mahajan, Naman Bansal, Eduardo Blanco, Santu Karmaker
+**ALIGN-SIM: A Task-Free Test Bed for Evaluating and Interpreting Sentence Embeddings through Semantic Similarity Alignment**<br/>Yash mahajan, Naman Bansal, Eduardo Blanco, Santu Karmaker
 
 **BIPEFT: Budget-Guided Iterative Search for Parameter Efficient Fine-Tuning of Large Pretrained Language Models**<br/>Aofei Chang, Jiaqi Wang, Han Liu, Parminder Bhatia, Cao Xiao, Ting Wang, Fenglong Ma
 
