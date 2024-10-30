@@ -22,8 +22,8 @@ main:
   - title: "Venue"
     url: /venue
 
-  # - title: "Blog"
-  #   url: /blog/
+   - title: "Blog"
+     url: /blog/
       
   - title: "Committees"
     url: /organization
