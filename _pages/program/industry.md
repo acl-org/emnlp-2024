@@ -182,7 +182,7 @@ Accepted Papers
 
 (Paper ID: 270) **Athena: Safe Autonomous Agents with Verbal Contrastive Learning** <br/>Tanmana Sadhu, Ali Pesaranghader, Yanan Chen, Dong Hoon Yi
 
-(Paper ID: 271) **GRINDER-20B-FunctionCalling Model: Introducing Function Calling Abilities via Multi-task Learning of Granular Tasks** <br/>Ibrahim Abdelaziz, Kinjal Basu, Mayank Agarwal, Sadhana Kumaravel, Matthew Stallone, Rameswar Panda, Yara Rizk, G P Shrivatsa Bhargav, Maxwell Crouse, Chulaka Gunasekara, Shajith Ikbal, Sachindra Joshi, Hima Karanam, Vineet Kumar, Asim Munawar, Sumit Neelam, Dinesh Raghu, Udit Sharma, Adriana Meza Soria, Dheeraj Sreedhar, Praveen Venkateswaran, Merve Unuvar, David Daniel Cox, Salim Roukos, Luis A. Lastras, Pavan Kapanipathi
+(Paper ID: 271) **Granite-Function Calling Model: Introducing Function Calling Abilities via Multi-task Learning of Granular Tasks** <br/>Ibrahim Abdelaziz, Kinjal Basu, Mayank Agarwal, Sadhana Kumaravel, Matthew Stallone, Rameswar Panda, Yara Rizk, G P Shrivatsa Bhargav, Maxwell Crouse, Chulaka Gunasekara, Shajith Ikbal, Sachindra Joshi, Hima Karanam, Vineet Kumar, Asim Munawar, Sumit Neelam, Dinesh Raghu, Udit Sharma, Adriana Meza Soria, Dheeraj Sreedhar, Praveen Venkateswaran, Merve Unuvar, David Daniel Cox, Salim Roukos, Luis A. Lastras, Pavan Kapanipathi
 
 (Paper ID: 273) **Query-OPT: Optimizing Inference of Large Language Models via Multi-Query Instructions in Meeting Summarization** <br/>Md Tahmid Rahman Laskar, Elena Khasanova, Xue-Yong Fu, Cheng Chen, Shashi Bhushan Tn
 
