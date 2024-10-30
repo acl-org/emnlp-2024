@@ -1,4 +1,4 @@
-# Strengthening Ethical Review in NLP: Insights, Best Practices, Resources and Paths Forward
+# Insights, Best Practices, Resources and Paths Forward
 Luciana Benotti, Snigdha Chaturvedi, Sunipa Dev
 
 ## Summary
