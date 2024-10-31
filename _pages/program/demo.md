@@ -104,8 +104,6 @@ Accepted Papers
 
 (Paper ID: 129) **RAGLAB: A Modular and Research-Oriented Unified Framework for Retrieval-Augmented Generation** <br/>Xuanwang Zhang, Yun-Ze Song, Yidong Wang, Shuyun Tang, Xinfeng Li, Zhengran Zeng, Zhen Wu, Wei Ye, Wenyuan Xu, Yue Zhang, Xinyu Dai, Shikun Zhang, Qingsong Wen 
 
-(Paper ID: 130) **AutoTrain: No-code training for state-of-the-art models** <br/>Abhishek Thakur
-
 (Paper ID: 132) **Sailor: Open Language Models for South-East Asia** <br/>Longxu Dou, Qian Liu, Guangtao Zeng, Jia Guo, Jiahui Zhou, Xin Mao, Ziqi Jin, Wei Lu, Min Lin 
 
 (Paper ID: 149) **RepoAgent: An LLM-Powered Open-Source Framework for Repository-level Code Documentation Generation** <br/>Qinyu Luo, Yining Ye, Shihao Liang, Zhong Zhang, Yujia Qin, Yaxi Lu, Yesai Wu, Xin Cong, Yankai Lin, Yingli Zhang, Xiaoyin Che, Zhiyuan Liu, Maosong Sun 
