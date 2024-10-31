@@ -14,7 +14,7 @@ sidebar:
 
 Accepted Papers 
 ---
-(Paper ID: 14) **Optimizing Entity Resolution in Voice Interfaces: An ASR-Aware Query Expansion Approach** <br/>Jiangning Chen, Ziyun Zhang, Qianli Hu
+(Paper ID: 14) **Optimizing Entity Resolution in Voice Interfaces: An ASR-Aware Entity Reference Expansion Approach** <br/>Jiangning Chen, Ziyun Zhang, Qianli Hu
 
 (Paper ID: 25) **Two-tiered Encoder-based Hallucination Detection for Retrieval-Augmented Generation in the Wild** <br/>Ilana Zimmerman, Jadin Tredup, Ethan Selfridge, Joseph Bradley
 
@@ -40,7 +40,7 @@ Accepted Papers
 
 (Paper ID: 63) **PDFTriage: Question Answering over Long, Structured Documents** <br/>Jon Saad-Falcon, Joe Barrow, Alexa Siu, Ani Nenkova, Seunghyun Yoon, Ryan A. Rossi, Franck Dernoncourt
 
-(Paper ID: 65) **Fairness-Aware Online Positive-Unlabeled Learning in Text Classification** <br/>Hoin Jung, Xiaoqian Wang
+(Paper ID: 65) **Fairness-Aware Online Positive-Unlabeled Learning** <br/>Hoin Jung, Xiaoqian Wang
 
 (Paper ID: 69) **SAAS: Solving Ability Amplification Strategy for Enhanced Mathematical Reasoning in Large Language Models** <br/>Hyeonwoo Kim, Gyoungjin Gim, Yungi Kim, Jihoo Kim, Byungju Kim, Wonseok Lee, Chanjun Park
 
@@ -66,7 +66,7 @@ Accepted Papers
 
 (Paper ID: 100) **Greenback Bears and Fiscal Hawks: Finance is a Jungle and Text Embeddings Must Adapt** <br/>Peter Anderson, Mano Vikash Janardhanan, Jason He, Wei Cheng, Charlie Flanagan
 
-(Paper ID: 104) **Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Industry Systems** <br/>Yilun Kong, Jingqing Ruan, Yihong Chen, Bin Zhang, Tianpeng Bao, Shi Shiwei, Du Guo Qing, Xiaoru Hu, Hangyu Mao, Ziyue Li, Xingyu Zeng, Rui Zhao, Xueqian Wang
+(Paper ID: 104) **TPTU-v2: Boosting Task Planning and Tool Usage of Large Language Model-based Agents in Real-world Industry Systems** <br/>Yilun Kong, Jingqing Ruan, Yihong Chen, Bin Zhang, Tianpeng Bao, Shi Shiwei, Du Guo Qing, Xiaoru Hu, Hangyu Mao, Ziyue Li, Xingyu Zeng, Rui Zhao, Xueqian Wang
 
 (Paper ID: 105) **Detecting Ambiguous Utterances in an Intelligent Assistant** <br/>Satoshi Akasaki, Manabu Sassano
 
@@ -140,7 +140,7 @@ Accepted Papers
 
 (Paper ID: 211) **Assisting Breastfeeding and Maternity Experts in Responding to User Queries with an AI-in-the-loop Approach** <br/>Nadjet Bouayad-Agha, Ignasi Gomez-Sebastia, Alba Padro, Enric Pallarés, David Pelayo, Rocío Tovar
 
-(Paper ID: 213) **Hassle-free Algorithm for Strong Differential Privacy in Federated Learning Systems** <br/>Hugh Brendan Mcmahan, Zheng Xu, Yanxiang Zhang
+(Paper ID: 213) **A Hassle-free Algorithm for Strong Differential Privacy in Federated Learning Systems** <br/>Hugh Brendan Mcmahan, Zheng Xu, Yanxiang Zhang
 
 (Paper ID: 214) **ProConSuL: Project Context for Code Summarization with LLMs** <br/>Vadim Lomshakov, Andrey Podivilov, Sergey Savin, Oleg Baryshnikov, Alena Lisevych, Sergey Nikolenko
 
@@ -190,7 +190,7 @@ Accepted Papers
 
 (Paper ID: 279) **Systematic Evaluation of Long-Context LLMs on Financial Concepts** <br/>Lavanya Gupta, Saket Sharma, Yiyun Zhao
 
-(Paper ID: 280) **ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA datasets with Large Language Models** <br/>Ronak Pradeep, Daniel Lee, Ali Mousavi, Jeffrey Pound, Yisi Sang, Jimmy Lin, Ihab Ilyas, Saloni Potdar, Mostafa Arefiyan, Yunyao Li
+(Paper ID: 280) **ConvKGYarn: Spinning Configurable and Scalable Conversational Knowledge Graph QA Datasets with Large Language Models** <br/>Ronak Pradeep, Daniel Lee, Ali Mousavi, Jeffrey Pound, Yisi Sang, Jimmy Lin, Ihab Ilyas, Saloni Potdar, Mostafa Arefiyan, Yunyao Li
 
 (Paper ID: 281) **Knowledge-augmented Financial Market Analysis and Report Generation** <br/>Yuemin Chen, Feifan Wu, Jingwei Wang, Hao Qian, Ziqi Liu, Zhiqiang Zhang, Jun Zhou, Meng Wang
 
@@ -214,11 +214,11 @@ Accepted Papers
 
 (Paper ID: 299) **Hyper-QKSG: Framework for Automating Query Generation and Knowledge-Snippet Extraction from Tables and Lists** <br/>Dooyoung Kim, Yoonjin Jang, Dongwook Shin, Chanhoon Park, Youngjoong Ko
 
-(Paper ID: 302) **Patentformer: Methods to Automate the Generation of Patent Applications** <br/>Juanyan Wang, Sai Krishna Reddy Mudhiganti, Manali Sharma
+(Paper ID: 302) **Patentformer: A Novel Method to Automate the Generation of Patent Applications** <br/>Juanyan Wang, Sai Krishna Reddy Mudhiganti, Manali Sharma
 
 (Paper ID: 305) **MARCO: Multi-Agent Real-time Chat Orchestration** <br/>Anubhav Shrimal, Stanley Kanagaraj, Kriti Biswas, Swarnalatha Raghuraman, Anish Nediyanchath, Yi Zhang, Promod Yenigalla
 
-(Paper ID: 306) **Generalized Long-Context Text Representation and Reranking Models for Multilingual Text Retrieval** <br/>Xin Zhang, Yanzhao Zhang, Dingkun Long, Wen Xie, Ziqi Dai, Jialong Tang, Huan Lin, Baosong Yang, Pengjun Xie, Fei Huang, Meishan Zhang, Wenjie Li, Min Zhang
+(Paper ID: 306) **mGTE: Generalized Long-Context Text Representation and Reranking Models for Multilingual Text Retrieval** <br/>Xin Zhang, Yanzhao Zhang, Dingkun Long, Wen Xie, Ziqi Dai, Jialong Tang, Huan Lin, Baosong Yang, Pengjun Xie, Fei Huang, Meishan Zhang, Wenjie Li, Min Zhang
 
 (Paper ID: 315) **ItiNera: Integrating Spatial Optimization with Large Language Models for Open-domain Urban Itinerary Planning** <br/>Yihong Tang, Zhaokai Wang, Ao Qu, Yihao Yan, Zhaofeng Wu, Dingyi Zhuang, Jushi Kai, Kebing Hou, Xiaotong Guo, Jinhua Zhao, Zhan Zhao, Wei Ma
 
