@@ -1,4 +1,3 @@
-# Insights, Best Practices, Resources and Paths Forward
 by Luciana Benotti, Snigdha Chaturvedi, Sunipa Dev
 
 ## Summary
