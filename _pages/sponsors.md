@@ -62,6 +62,9 @@ platinum:
 - url: https://intuit.com/
   image_path: /assets/images/logos/intuit-logo.png
   alt: Intuit
+- url: https://scai.sa/
+  image_path: /assets/images/logos/scai-logo.png
+  alt: SCAI
 gold:
 - url: https://www.mlp.com/people/technology/
   image_path: /assets/images/logos/millenium-logo.png
