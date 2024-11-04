@@ -77,7 +77,7 @@ sidebar:
 
 **Visual Pivoting Unsupervised Multimodal Machine Translation in Low-Resource Distant Language Pairs**<br/>Turghun Tayir, Lin Li, Xiaohui Tao, Mieradilijiang Maimaiti, Ming Li, Jianquan Liu
 
-**Scalable Fine-tuning from ple Data Sources: A First-Order Approximation Approach**<br/>Dongyue Li, Ziniu Zhang, Lu Wang, Hongyang R. Zhang
+**Scalable Fine-tuning from Multiple Data Sources: A First-Order Approximation Approach**<br/>Dongyue Li, Ziniu Zhang, Lu Wang, Hongyang R. Zhang
 
 **DocEE-zh: A Fine-grained Benchmark for Chinese Document-level Event Extraction**<br/>Minghui Liu, MeiHan Tong, Yangda Peng, Lei Hou, Juanzi Li, Bin Xu
 
