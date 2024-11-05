@@ -11,7 +11,8 @@ sidebar:
 
 ## Authors/Participants
 
-TBD
+- Oral presenters are expected to prepare a 10-minute presentation followed by a 3-minute Q&A session.
+- Posters should be A0 size (33.1 x 46.8 inches) in portrait orientation.
 
 ## Submission Requirements
 
