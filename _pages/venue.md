@@ -200,6 +200,9 @@ Yes. If your visa application is denied, you can request a full refund or change
 ## About Miami
 Learn more about Miami by clicking [here](https://www.miamiandbeaches.com/).
 
+## Local Information About Miami
+The local chairs have kindly prepared [this guide](https://docs.google.com/document/d/1VuQIOj0a19D1eBzLSnzZbCFsPVvwu4zCQzHUdLvj7HQ/edit?tab=t.0#heading=h.41vfahy7mi7u) containing a lot of useful local information.
+
 ## Things to do in Miami
 You will never get bored exploring Miami! There is something for everyone to enjoy. Find your interest or try something new. Check out the links below. 
 
