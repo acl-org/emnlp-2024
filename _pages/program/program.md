@@ -234,13 +234,13 @@ Oral Presentations:
  
 8:00 - 16:30 Registration - Hyatt Regency Miami Lobby (Riverfront Foyer)
  
-SEE [WORKSHOP]((/program/workshops)) & [TUTORIAL](/program/tutorials) FOR DETAIL SCHEDULE
+SEE [WORKSHOP](/program/workshops) & [TUTORIAL](/program/tutorials) FOR DETAIL SCHEDULE
  
 ### SATURDAY, NOVEMBER 16th
  
 8:00 - 16:30 Registration - Hyatt Regency Miami Lobby (Riverfront Foyer)
  
-SEE [WORKSHOP]((/program/workshops)) & [TUTORIAL](/program/tutorials) FOR DETAIL SCHEDULE
+SEE [WORKSHOP](/program/workshops) & [TUTORIAL](/program/tutorials) FOR DETAIL SCHEDULE
 
 
 ## EMNLP 2024 Acceptance Rate
