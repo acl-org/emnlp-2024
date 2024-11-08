@@ -11,7 +11,9 @@ toc_icon: "cog"
 ---
 
 ## FULL SCHEDULE OF EVENTS
- 
+
+[Conference handbook](https://drive.google.com/file/d/1WPROgxjLAC96AJL7Ugy0tEnYm7dkrbHt)
+
 ### MONDAY, NOVEMBER 11th
  
 14:00 - 20:30 Registration - Hyatt Regency Miami Lobby (Riverfront Foyer)
