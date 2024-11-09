@@ -142,7 +142,12 @@ Oral Presentations:
  
 13:30 - 14:15: Session 7 Business Meeting All Attendees Welcome
  
-14:30 - 15:30: Session 8 Panel (see online schedule for details)
+14:30 - 15:30: Session 8 Panel: The Importance of NLP in the LLM Era
+-  Prof. Monojit Choudhury, MBZUAI (MODERATOR)
+-  Prof. Heng Ji, University of Illinois Urbana-Champaign + Amazon
+-  Prof. Rada Mihalcea, University of Michigan
+-  Prof. Alice Oh, Korea Advanced Institute of Science and Technology
+-  Prof. Sasha Rush, Cornell University + HuggingFace
  
 15:30 - 16:00: Break - Riverfront Hall (Lobby Level of James Knight Convention Center)
  
