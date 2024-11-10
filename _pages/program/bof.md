@@ -15,7 +15,7 @@ sidebar:
 
 ## Welcome to Birds-of-a-Feather and Affinity Group Meetings
 
-At EMNLP 2023, we continue the tradition of conducting birds-of-a-feather (or BoF) and Affinity Group Meeting sessions to help newbie researchers get in touch with other people working in the same areas. Here's a quick primer for people who haven’t attended such sessions before!
+At EMNLP 2024, we continue the tradition of conducting birds-of-a-feather (or BoF) and Affinity Group Meeting sessions to help newbie researchers get in touch with other people working in the same areas. Here's a quick primer for people who haven’t attended such sessions before!
 
 ## What do we hope to accomplish with BoF and Affinity Group Meeting sessions?
 
@@ -35,30 +35,54 @@ At EMNLP 2023, we continue the tradition of conducting birds-of-a-feather (or Bo
 
 ## When are the BoF and Affinity Group meeting sessions happening?
 
+All BoF & Affinity Session will run Parallel with the Oral/Poster Sessions
 
-<table>
-  <tr style="background-color:#f1f2fa"><td><b>Date</b></td><td><b>Time</b></td><td><b>Room</b></td><td><b> Session   ID</b></td><td><b>Session Title</b></td><td><b>Session Chairs</b></td></tr>
-<tr><td>8-Dec</td><td>14:00-15:30</td><td>Aquarius 2</td><td>BOF-2</td><td>NLP on legal texts</td><td>Santosh Tokala</td></tr>
-<tr><td>8-Dec</td><td>16:00-17:30</td><td>Aquarius 1</td><td>BOF-3</td><td>[Open multilingual text collections under the umbrella of the EU Horizon HPLT project (https://hplt-project.org/)</td><td>Andrey Kutuzov</td></tr>
-<tr><td>8-Dec</td><td>16:00-17:30</td><td>Aquarius 2</td><td>BOF-5</td><td>NLP for Climate Change</td><td>Jingwei Ni</td></tr>
-<tr><td>8-Dec</td><td>17:30-19:30</td><td>Aquarius 3/4</td><td>AGM-1</td><td>Queer in AI social at EMNLP</td><td>Pranav A</td></tr>
-<tr><td>9-Dec</td><td>9:00-10:30</td><td>Aquarius 1</td><td>BOF-4</td><td>EthioNLP</td><td>Teshome Ababu</td></tr>
-<tr><td>9-Dec</td><td>11:00-12:30</td><td>Aquarius 1</td><td>BOF-6</td><td>Embeddings</td><td>Han Xiao</td></tr>
-<tr><td>9-Dec</td><td>11:00-12:30</td><td>Aquarius 2</td><td>BOF-7</td><td>Recipes in Building Language Reasoners</td><td>Yiyuan Li and Wenting Zhao</td></tr>
-<tr><td>9-Dec</td><td>11:00-12:30</td><td>Aquarius 4</td><td>BOF-14</td><td>Benchmarking LLMs for Low resource Languages</td><td>Firoj Alam</td></tr>
-<tr><td>9-Dec</td><td>13:45-14:30</td><td>Aquarius 1</td><td>BOF-8</td><td>ACL Mentorship: Sharing learnings from this conference & identifying promising research directions</td><td>Mentors from ACL Mentorship: Zhijing Jin, Rada Mihalcea, Mohit Bansal, Yuntian Deng, and Others</td></tr>
-<tr><td>9-Dec</td><td>13:45-14:30</td><td>Aquarius 2</td><td>BOF-9</td><td>Controlled/Constrained Text Generation</td><td>Allen Roush</td></tr>
-<tr><td>9-Dec</td><td>13:45-14:30</td><td>Aquarius 4</td><td>BOF-10</td><td>Arabic NLP</td><td>Khalil Mrini and Rawan N. Almatham</td></tr>
-<tr><td>10-Dec</td><td>9:00-10:30</td><td>Aquarius 1</td><td>BOF-11</td><td>Discourse & Pragmatics</td><td>Valentina Pyatkin, Elias Stengel-Eskin, and Janet Liu</td></tr>
-<tr><td>10-Dec</td><td>9:00-10:30</td><td>Aquarius 2</td><td>AGM-2</td><td>Christians@NLP</td><td>Philipp Heinisch</td></tr>
-<tr><td>10-Dec</td><td>11:00-12:30</td><td>Aquarius 1</td><td>BOF-12</td><td>Text Simplification and Readability</td><td>Fernando Alva Manchego</td></tr>
-<tr><td>10-Dec</td><td>11:00-12:30</td><td>Aquarius 2</td><td>BOF-13</td><td>Automatic Text Evaluation</td><td>Gisela Vallejo and Zhuohan Xie</td></tr>
-</table>
+### Tuesday, Nov 12
+11:00 - 12:30 LLMs for Embodied Agents 
+- Organizer: Manling Li
+- Room: Foster (Convention Center 2nd level)
+
+11:00 - 12:30 Law Law Land: Legal Language Meets Large Language Models 
+- Organizer: Santosh Tokala
+- Room: Johnson (Convention Center 2nd level)
+
+12:30 - 14:00 Large Multimodal Models for Biomedical Research 
+- Organizer: Tianyu Liu
+- Room: Miami Lecture Hall (Convention Center Level 2)
+
+14:00 - 15:30 LLM Agents for Acoustics and Continuous Signals 
+- Organizer: Huck Yang
+- Room: Foster (Convention Center Level 2)
+
+16:00 - 17:30 Southeast Asian NLP 
+- Organizer: Genta Winata
+- Room: Johnson (Convention Center Level 2)
+
+16:00 - 17:30 NLP for Structured Data 
+- Organizer: Vivek Gupta
+- Room: Miami Lecture Hall (Convention Center Level 2)
+
+### Wednesday, Nov 13
+10:30 - 12:00 Fostering Native and Cultural Inclusivity in LLMs 
+- Organizer: Firoj Alam
+- Room: Foster
+
+10:30 - 12:00 NLP Tools for Community-Owned Religious Texts in Low-Resourced Languages 
+- Organizer: Inam Ullah
+- Room: Johnson
+
+### Thursday, Nov 14
+10:30 - 12:00 2112: The AI Odyssey 
+- Organizer: Prasson Bajpai
+- Room: Foster
+
+10:30 - 12:00 Embeddings, Reranker, Small LM for Better Search 
+- Organizer: Han Xiao
+- Room: Miami Lecture Hall
+
+More details can be found on the following Platforms: Underline and Whova.
 
 Attendees are free to carry forward the discussion after the BoF and Affinity Group Meeting sessions end (or even continue in the same room if it is available!).
-
-
-If you have any questions about the information listed in the schedule, please contact the D&I chairs via emnlp2023diversity@googlegroups.com.
 
 
 ## Additional Guidelines for Attendees
