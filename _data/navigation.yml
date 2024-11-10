@@ -67,6 +67,8 @@ program:
          url: /program/workshops/
        - title: "Tutorials"
          url: /program/tutorials/
+       - title: "Birds of a Feather"
+         url: /program/bof/
 #  - title: Events
 #     children:
 #       - title: "Social Event"
