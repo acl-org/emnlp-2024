@@ -94,10 +94,10 @@ program:
         url: /program/accepted_tacl
 
 
-- title: "Awards"
-  children:
-    - title: "Best Papers"
-      url: /program/best_papers/
+  - title: "Awards"
+    children:
+      - title: "Best Papers"
+        url: /program/best_papers/
 
         
 
