@@ -21,7 +21,7 @@ EMNLP 2024 is live at [Underline](https://underline.io/events/469/reception).
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
 | 2024-11-09| [Proceedings](https://aclanthology.org/events/emnlp-2024/) are now available.
-| 2024-11-08| [Conference handbook](https://drive.google.com/file/d/1WPROgxjLAC96AJL7Ugy0tEnYm7dkrbHt) is now available.
+| 2024-11-08| [Conference handbook](downloads/EMNLP_2024_Handbook_digital.pdf) is now available.
 | 2024-11-06| [Local information](https://docs.google.com/document/d/1VuQIOj0a19D1eBzLSnzZbCFsPVvwu4zCQzHUdLvj7HQ/edit?tab=t.0#heading=h.41vfahy7mi7u) is now available.
 | 2024-10-17| Line-up of keynote speakers announced. More details [here](/program/keynotes)
 | 2024-10-17| Detailed schedule posted. More details [here](/program) 
