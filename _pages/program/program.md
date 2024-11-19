@@ -12,7 +12,7 @@ toc_icon: "cog"
 
 ## FULL SCHEDULE OF EVENTS
 
-[Conference handbook](downloads/EMNLP_2024_Handbook_digital.pdf) and [Proceedings](https://aclanthology.org/events/emnlp-2024/) are now live!
+[Conference handbook](https://github.com/acl-org/emnlp-2024/raw/refs/heads/main/downloads/EMNLP_2024_Handbook_digital.pdf) and [Proceedings](https://aclanthology.org/events/emnlp-2024/) are now live!
 
 ### MONDAY, NOVEMBER 11th
  
