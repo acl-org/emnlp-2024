@@ -9,7 +9,7 @@ excerpt: "November 12 &ndash;16<br>Miami, Florida<br>Hyatt Regency Miami Hotel"
 ---
 
 ## Welcome!
-EMNLP 2024 will take place in Miami, Florida from **Nov 12th to Nov 16th, 2024**, at the Hyatt Regency Miami Hotel. More information will be announced soon.
+EMNLP 2024 took place in Miami, Florida from **Nov 12th to Nov 16th, 2024**, at the Hyatt Regency Miami Hotel.
 
 ## Hybrid Conference Hub
 EMNLP 2024 is live at [Underline](https://underline.io/events/469/reception).
