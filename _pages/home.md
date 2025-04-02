@@ -20,6 +20,7 @@ EMNLP 2024 is live at [Underline](https://underline.io/events/469/reception).
 .news-table { font-size: .9em; table-layout: fixed; }
 .news-table tr td:nth-child(1) { font-weight: bold; width: 10em; }
 </style>
+| 2025-04-02| The [Report on Chairing the Industry Track for EMNLP 2024](https://docs.google.com/presentation/d/1OYl8Bg-ZXpdzw1xM8TU1Ar4WHs5cmB0s5vpWUllWpkc/edit?pli=1#slide=id.g337e925727f_1_86) is now available.
 | 2024-11-09| [Proceedings](https://aclanthology.org/events/emnlp-2024/) are now available.
 | 2024-11-08| [Conference handbook](https://github.com/acl-org/emnlp-2024/raw/refs/heads/main/downloads/EMNLP_2024_Handbook_digital.pdf) is now available.
 | 2024-11-06| [Local information](https://docs.google.com/document/d/1VuQIOj0a19D1eBzLSnzZbCFsPVvwu4zCQzHUdLvj7HQ/edit?tab=t.0#heading=h.41vfahy7mi7u) is now available.
